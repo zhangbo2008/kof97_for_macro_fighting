@@ -1,0 +1,50 @@
+IRQ table from kof2003 - * The King of Fighters 2003
+
+ 0  0010f300
+ 1  00c00402
+ 2  00c00408
+ 3  00c0040e
+ 4  00c00414
+ 5  00000192
+ 6  00000192
+ 7  00000192
+ 8  00c0041a
+ 9  00c00420
+10  00000192
+11  00000192
+12  00c00426
+13  00c00426
+14  00c00426
+15  00c00426
+16  00c00426
+17  00c00426
+18  00c00426
+19  00c00426
+20  00c00426
+21  00c00426
+22  00c00426
+23  00c00426
+24  00c00432
+25  00000d5a
+26  00000dea
+27  00000192
+28  00000192
+29  00000192
+30  00000192
+31  00000192
+32  00c00438
+33  ffffffff
+34  ffffffff
+35  ffffffff
+36  ffffffff
+37  ffffffff
+38  ffffffff
+39  ffffffff
+40  ffffffff
+41  ffffffff
+42  ffffffff
+43  ffffffff
+44  ffffffff
+45  ffffffff
+46  ffffffff
+47  ffffffff

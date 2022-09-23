@@ -1,0 +1,80 @@
+
+  NEOGEO ROM CHANGES FOR KAWAKS 1.41
+  **********************************  
+  
+  THIS DOCUMENT EXPLAINS HOW TO CONVERT YOUR ROMSETS THAT WORK WITH PREVIOUS VERSIONS OF KAWAKS
+  TO ROMSETS THAT WORK WITH KAWAKS 1.41, FOR THOSE WHO DON'T WANT TO DOWNLOAD NEW ROMS.
+
+  
+The King of Fighters 2000 (encrypted)
+-------------------------------------
+
+a) Locate your M1 rom. It is either named 257-m1.bin or kof2k_m1.rom.
+   If it is named kof2k_m1.rom, rename it to 257-m1.bin.
+   Then, make a copy of this rom in kof2000.zip under the name : 257-m1d.bin
+   You should have twice the M rom in kof2000.zip: as 257-m1.bin and 257-m1d.bin
+b) Locate your V roms. Normally, they should be in kof2000.zip
+   They should be named either 257-v1.bin, 257-v2.bin, 257-v3.bin, 257-v4.bin
+   or kof2k_v1.rom, kof2k_v2.rom, kof2k_v3.rom, kof2k_v4.rom.
+   257-v1.bin, 257-v2.bin, 257-v3.bin, 257-v4.bin are the correct names :
+   If needed rename 
+     kof2k_v1.rom to 257-v1.bin
+     kof2k_v2.rom to 257-v2.bin
+     kof2k_v3.rom to 257-v3.bin
+     kof2k_v4.rom to 257-v4.bin
+
+That's all ! 
+If your The King of Fighters 2000 (encrypted) ever used to run in a previous Kawaks, it should
+also run in Kawaks 1.41
+
+  
+The King of Fighters 2000 (fully decrypted) 
+-------------------------------------------
+
+a) Do what is asked to "fix" The King of Fighters 2000 (encrypted)  (see above)
+b) If you have it, rename kof2000n.zip to kof2knd.zip
+
+That's all ! 
+If your The King of Fighters 2000 (fully decrypted) ever used to run in a previous Kawaks, it should
+also run in Kawaks 1.41
+
+
+The King of Fighters 2000 (nonecrypted P)
+-----------------------------------------
+
+a) Do what is asked to "fix" The King of Fighters 2000 (encrypted)  (see above)
+b) If you have it, rename kof2000c.zip to kof2000n.zip
+
+That's all ! 
+If your The King of Fighters 2000 (nonecrypted P) ever used to run in a previous Kawaks, it should
+also run in Kawaks 1.41
+
+
+Metal Slug 3 (all versions)
+------------
+
+   Locate your V roms. Normally, they should be in mslug3.zip
+   They should be named either 256-v1.bin, 256-v2.bin, 256-v3.bin, 256-v4.bin
+   or mslug3_v1.rom, mslug3_v2.rom, mslug3_v3.rom, mslug3_v4.rom.
+   256-v1.bin, 256-v2.bin, 256-v3.bin, 256-v4.bin are the correct names :
+   If needed rename 
+     mslug3_v1.rom to 256-v1.bin
+     mslug3_v2.rom to 256-v2.bin
+     mslug3_v3.rom to 256-v3.bin
+     mslug3_v4.rom to 256-v4.bin
+
+That's all ! 
+If your Metal Slug 3 ever used to run in a previous Kawaks, it should
+also run in Kawaks 1.41
+
+
+The King of Fighters '99: Millennium Battle (The big, fully encrypted set)
+-------------------------------------------
+
+  This one *requires* a new rom: 251-sma.bin
+  You only have two solutions:
+  - You find and you download the new rom (it's VERY small)
+  - You know how to handle hex editors:
+     + Trim your kf99_p1d.rom to only keep the 262144 last bytes (delete everything before 0xC0000)
+     + Rename the trimmed kf99_p1d.rom to 251-sma.bin and copy it to kof99.zip
+

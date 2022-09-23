@@ -1,0 +1,6417 @@
+Kawaks 1.48b ROM list
+======================
+
+
+-------------------------------------------
+
+2020 Super Baseball
+2020bb.zip
+
+ ROM                SIZE    CRC32
+ 030-p1.bin       524288 d396c9cb
+ 030-s1.bin       131072 7015b8fc
+ 030-m1.bin       131072 4cf466ec
+ 030-v1.bin      1048576 d4ca364e
+ 030-v2.bin      1048576 54994455
+ 030-c1.bin      1048576 4f5e19bd
+ 030-c2.bin      1048576 d6314bf0
+ 030-c3.bin       524288 6a87ae30
+ 030-c4.bin       524288 bef75dd0
+
+2020 Super Baseball (alternate set)
+2020bbh.zip
+You must also have 2020bb.zip to play this game
+
+ ROM                SIZE    CRC32
+ 030-p1h.bin      524288 12d048d7
+
+-------------------------------------------
+
+3 Count Bout
+3countb.zip
+
+ ROM                SIZE    CRC32
+ 043-p1.bin       524288 eb2714c4
+ 043-p2.bin       524288 5e764567
+ 043-s1.bin       131072 c362d484
+ 043-m1.bin       131072 3377cda3
+ 043-v1.bin      2097152 63688ce8
+ 043-v2.bin      2097152 c69a827b
+ 043-c1.bin      2097152 d290cc33
+ 043-c2.bin      2097152 0b28095d
+ 043-c3.bin      2097152 bcc0cb35
+ 043-c4.bin      2097152 4d1ff7b9
+
+-------------------------------------------
+
+Aero Fighters 2
+sonicwi2.zip
+
+ ROM                SIZE    CRC32
+ 075-p1.bin      2097152 92871738
+ 075-s1.bin       131072 c9eec367
+ 075-m1.bin       131072 bb828df1
+ 075-v1.bin      2097152 7577e949
+ 075-v2.bin       524288 6d0a728e
+ 075-c1.bin      2097152 3278e73e
+ 075-c2.bin      2097152 fe6355d6
+ 075-c3.bin      2097152 c1b438f1
+ 075-c4.bin      2097152 1f777206
+
+-------------------------------------------
+
+Aero Fighters 3
+sonicwi3.zip
+
+ ROM                SIZE    CRC32
+ 097-p1.bin      2097152 0547121d
+ 097-s1.bin       131072 8dd66743
+ 097-m1.bin       131072 b20e4291
+ 097-v1.bin      4194304 6f885152
+ 097-v2.bin      1048576 32187ccd
+ 097-c1.bin      4194304 3ca97864
+ 097-c2.bin      4194304 1da4b3a9
+ 097-c3.bin      2097152 c339fff5
+ 097-c4.bin      2097152 84a40c6e
+
+-------------------------------------------
+
+Aggressors of Dark Kombat
+aodk.zip
+
+ ROM                SIZE    CRC32
+ 074-p1.bin      2097152 62369553
+ 074-s1.bin       131072 96148d2b
+ 074-m1.bin       131072 5a52a9d1
+ 074-v1.bin      2097152 7675b8fa
+ 074-v2.bin      2097152 a9da86e9
+ 074-c1.bin      2097152 a0b39344
+ 074-c2.bin      2097152 203f6074
+ 074-c3.bin      2097152 7fff4d41
+ 074-c4.bin      2097152 48db3e0a
+ 074-c5.bin      2097152 c74c5e51
+ 074-c6.bin      2097152 73e8e7e0
+ 074-c7.bin      2097152 ac7daa01
+ 074-c8.bin      2097152 14e7ad71
+
+-------------------------------------------
+
+Alpha Mission II
+alpham2.zip
+
+ ROM                SIZE    CRC32
+ 007-p1.bin       524288 5b266f47
+ 007-p2.bin       131072 eb9c1044
+ 007-s1.bin       131072 85ec9acf
+ 007-m1.bin       131072 28dfe2cd
+ 007-v1.bin      1048576 cd5db931
+ 007-v2.bin      1048576 63e9b574
+ 007-c1.bin      1048576 8fba8ff3
+ 007-c2.bin      1048576 4dad2945
+ 007-c3.bin       524288 68c2994e
+ 007-c4.bin       524288 7d588349
+
+-------------------------------------------
+
+Andro Dunos
+androdun.zip
+
+ ROM                SIZE    CRC32
+ 049-p1.bin       524288 3b857da2
+ 049-p2.bin       524288 2f062209
+ 049-s1.bin       131072 6349de5d
+ 049-m1.bin       131072 1a009f8c
+ 049-v1.bin       524288 577c85b3
+ 049-v2.bin       524288 e14551c4
+ 049-c1.bin      1048576 7ace6db3
+ 049-c2.bin      1048576 b17024f7
+
+-------------------------------------------
+
+Art of Fighting
+aof.zip
+
+ ROM                SIZE    CRC32
+ 044-p1.bin       524288 ca9f7a6d
+ 044-s1.bin       131072 89903f39
+ 044-m1.bin       131072 981345f8
+ 044-v2.bin      2097152 3ec632ea
+ 044-v4.bin      2097152 4b0f8e23
+ 044-c1.bin      2097152 ddab98a7
+ 044-c2.bin      2097152 d8ccd575
+ 044-c3.bin      2097152 403e898a
+ 044-c4.bin      2097152 6235fbaa
+
+-------------------------------------------
+
+Art of Fighting 2
+aof2.zip
+
+ ROM                SIZE    CRC32
+ 056-p1.bin      1048576 a3b1d021
+ 056-s1.bin       131072 8b02638e
+ 056-m1.bin       131072 f27e9d52
+ 056-v1.bin      2097152 4628fde0
+ 056-v2.bin      2097152 b710e2f2
+ 056-v3.bin      1048576 d168c301
+ 056-c1.bin      2097152 17b9cbd2
+ 056-c2.bin      2097152 5fd76b67
+ 056-c3.bin      2097152 d2c88768
+ 056-c4.bin      2097152 db39b883
+ 056-c5.bin      2097152 c3074137
+ 056-c6.bin      2097152 31de68d3
+ 056-c7.bin      2097152 3f36df57
+ 056-c8.bin      2097152 e546d7a8
+
+Art of Fighting 2 (set 2)
+aof2a.zip
+You must also have aof2.zip to play this game
+
+ ROM                SIZE    CRC32
+ 056-ep1.bin      524288 75d6301c
+
+-------------------------------------------
+
+Art of Fighting 3: The Path of the Warrior
+aof3.zip
+
+ ROM                SIZE    CRC32
+ 096-p1.bin      1048576 9edb420d
+ 096-p2.bin      2097152 4d5a2602
+ 096-s1.bin       131072 cc7fd344
+ 096-m1.bin       131072 cb07b659
+ 096-v1.bin      2097152 e2c32074
+ 096-v2.bin      2097152 a290eee7
+ 096-v3.bin      2097152 199d12ea
+ 096-c1.bin      4194304 f6c74731
+ 096-c2.bin      4194304 f587f149
+ 096-c3.bin      4194304 7749f5e6
+ 096-c4.bin      4194304 cbd58369
+ 096-c5.bin      4194304 1718bdcd
+ 096-c6.bin      4194304 4fca967f
+ 096-c7.bin      2097152 51bd8ab2
+ 096-c8.bin      2097152 9a34f99c
+
+-------------------------------------------
+
+Bakatonosama Mahjong Manyuki
+bakatono.zip
+
+ ROM                SIZE    CRC32
+ 036-p1.bin       524288 1c66b6fa
+ 036-s1.bin       131072 f3ef4485
+ 036-m1.bin       131072 f1385b96
+ 036-v1.bin      1048576 1c335dce
+ 036-v2.bin      1048576 bbf79342
+ 036-c1.bin      1048576 fe7f1010
+ 036-c2.bin      1048576 bbf003f5
+ 036-c3.bin      1048576 9ac0708e
+ 036-c4.bin      1048576 f2577d22
+
+-------------------------------------------
+
+Bang Bead
+bangbead.zip
+
+ ROM                SIZE    CRC32
+ 259-c1.bin      8388608 1f537f74
+ 259-c2.bin      8388608 0efd98ff
+ 259-p1.bin      2097152 88a37f8b
+ 259-m1.bin       131072 85668ee9
+ 259-v1.bin      4194304 088eb8ab
+ 259-v2.bin      1048576 97528fe9
+
+Bang Bead (decrypted C)
+bngbeadn.zip
+You must also have bangbead.zip to play this game
+
+ ROM                SIZE    CRC32
+ 259-s1.bin       131072 bb50fb2d
+ 259-c1.rom      2097152 e3919e44
+ 259-c2.rom      2097152 baf5a320
+ 259-c3.rom      1048576 c8e52157
+ 259-c4.rom      1048576 69fa8e60
+
+-------------------------------------------
+
+Baseball Stars Professional
+bstars.zip
+
+ ROM                SIZE    CRC32
+ 002-p1.bin       524288 3bc7790e
+ 002-s1.bin       131072 1a7fd0c6
+ 002-m1.bin        65536 79a8f4c2
+ 002-v11.bin      524288 b7b925bd
+ 002-v12.bin      524288 329f26fc
+ 002-v13.bin      524288 0c39f3c8
+ 002-v14.bin      524288 c7e11c38
+ 002-v21.bin      524288 04a733d1
+ 002-c1.bin       524288 aaff2a45
+ 002-c2.bin       524288 3ba0f7e4
+ 002-c3.bin       524288 96f0fdfa
+ 002-c4.bin       524288 5fd87f2f
+ 002-c5.bin       524288 807ed83b
+ 002-c6.bin       524288 5a3cad41
+
+-------------------------------------------
+
+Baseball Stars 2
+bstars2.zip
+
+ ROM                SIZE    CRC32
+ 041-p1.bin       524288 523567fd
+ 041-s1.bin       131072 015c5c94
+ 041-m1.bin        65536 b2611c03
+ 041-v1.bin      1048576 cb1da093
+ 041-v2.bin      1048576 1c954a9d
+ 041-v3.bin       524288 afaa0180
+ 041-c1.bin      1048576 b39a12e1
+ 041-c2.bin      1048576 766cfc2f
+ 041-c3.bin      1048576 fb31339d
+ 041-c4.bin      1048576 70457a0c
+
+-------------------------------------------
+
+Battle Flip Shot
+flipshot.zip
+
+ ROM                SIZE    CRC32
+ 247-p1.bin       524288 d2e7a7e3
+ 247-s1.bin       131072 6300185c
+ 247-m1.bin       131072 a9fe0144
+ 247-v1.bin      2097152 42ec743d
+ 247-c1.bin      2097152 c9eedcb2
+ 247-c2.bin      2097152 7d6d6e87
+
+-------------------------------------------
+
+Blazing Star
+blazstar.zip
+
+ ROM                SIZE    CRC32
+ 239-p1.bin      1048576 183682f8
+ 239-p2.bin      2097152 9a9f4154
+ 239-s1.bin       131072 d56cb498
+ 239-m1.bin       131072 d31a3aea
+ 239-v1.bin      4194304 1b8d5bf7
+ 239-v2.bin      4194304 74cf0a70
+ 239-c1.bin      4194304 754744e0
+ 239-c2.bin      4194304 af98c037
+ 239-c3.bin      4194304 7b39b590
+ 239-c4.bin      4194304 6e731b30
+ 239-c5.bin      4194304 9ceb113b
+ 239-c6.bin      4194304 6a78e810
+ 239-c7.bin      4194304 50d28eca
+ 239-c8.bin      4194304 cdbbb7d7
+
+-------------------------------------------
+
+Blue's Journey
+bjourney.zip
+
+ ROM                SIZE    CRC32
+ 022-p1.bin      1048576 6a2f6d4a
+ 022-s1.bin       131072 843c3624
+ 022-m1.bin        65536 a9e30496
+ 022-v1.bin      1048576 2cb4ad91
+ 022-v2.bin      1048576 65a54d13
+ 022-c1.bin      1048576 4d47a48c
+ 022-c2.bin      1048576 e8c1491a
+ 022-c3.bin       524288 66e69753
+ 022-c4.bin       524288 71bfd48a
+
+-------------------------------------------
+
+Breakers
+breakers.zip
+
+ ROM                SIZE    CRC32
+ 230-p1.bin      2097152 ed24a6e6
+ 230-s1.bin       131072 076fb64c
+ 230-m1.bin       131072 3951a1c1
+ 230-v1.bin      4194304 7f9ed279
+ 230-v2.bin      4194304 1d43e420
+ 230-c1.bin      4194304 68d4ae76
+ 230-c2.bin      4194304 fdee05cd
+ 230-c3.bin      4194304 645077f3
+ 230-c4.bin      4194304 63aeb74c
+
+Breakers Revenge
+breakrev.zip
+You must also have breakers.zip to play this game
+
+ ROM                SIZE    CRC32
+ 245-p1.bin      2097152 c828876d
+ 245-s1.bin       131072 e7660a5d
+ 245-m1.bin       131072 00f31c66
+ 245-v1.bin      4194304 e255446c
+ 245-v2.bin      4194304 9068198a
+ 245-c5.bin      2097152 28ff1792
+ 245-c6.bin      2097152 23c65644
+
+-------------------------------------------
+
+Burning Fight
+burningf.zip
+
+ ROM                SIZE    CRC32
+ 018-p1.bin       524288 4092c8db
+ 018-s1.bin       131072 6799ea0d
+ 018-m1.bin       131072 0c939ee2
+ 018-v1.bin      1048576 508c9ffc
+ 018-v2.bin      1048576 854ef277
+ 018-c1.bin      1048576 25a25e9b
+ 018-c2.bin      1048576 d4378876
+ 018-c3.bin      1048576 862b60da
+ 018-c4.bin      1048576 e2e0aff7
+
+Burning Fight (alternate set)
+burningh.zip
+You must also have burningf.zip to play this game
+
+ ROM                SIZE    CRC32
+ 018-p1h.bin      524288 ddffcbf4
+
+-------------------------------------------
+
+Chibi Marukochan Deluxe Quiz
+marukodq.zip
+
+ ROM                SIZE    CRC32
+ 206-p1.bin      1048576 c33ed21e
+ 206-s1.bin        32768 3b52a219
+ 206-m1.bin       131072 0e22902e
+ 206-v1.bin      2097152 5385eca8
+ 206-v2.bin      2097152 f8c55404
+ 206-c1.bin      4194304 4bd5e70f
+ 206-c2.bin      4194304 67dbe24d
+ 206-c3.bin      1048576 79aa2b48
+ 206-c4.bin      1048576 55e1314d
+
+-------------------------------------------
+
+Captain Tomaday
+ctomaday.zip
+
+ ROM                SIZE    CRC32
+ 249-p1.bin      2097152 c9386118
+ 249-s1.bin       131072 dc9eb372
+ 249-m1.bin       131072 80328a47
+ 249-v1.bin      4194304 de7c8f27
+ 249-v2.bin      1048576 c8e40119
+ 249-c1.bin      4194304 041fb8ee
+ 249-c2.bin      4194304 74f3cdf4
+
+-------------------------------------------
+
+Crossed Swords
+crsword.zip
+
+ ROM                SIZE    CRC32
+ 037-p1.bin       524288 e7f2553c
+ 037-s1.bin       131072 74651f27
+ 037-m1.bin       131072 9c384263
+ 037-v1.bin      1048576 61fedf65
+ 037-c1.bin      1048576 09df6892
+ 037-c2.bin      1048576 ac122a78
+ 037-c3.bin      1048576 9d7ed1ca
+ 037-c4.bin      1048576 4a24395d
+
+Crouching Tiger Hidden Dragon 2003
+cthd2003.zip
+You must also have kof2001.zip to play this game
+
+ ROM                SIZE    CRC32
+ 5003-p1.bin     1048576 bb7602c1
+ 5003-p2.bin     4194304 adc1c22b
+ 5003-m1.bin      131072 1a8c274b
+ 5003-c1.bin     8388608 68f54b67
+ 5003-c2.bin     8388608 2f8849d5
+ 5003-c3.bin     8388608 ac4aff71
+ 5003-c4.bin     8388608 afef5d66
+ 5003-c5.bin     8388608 c7c1ae50
+ 5003-c6.bin     8388608 613197f9
+ 5003-c7.bin     8388608 64ddfe0f
+ 5003-c8.bin     8388608 917a1439
+ 5003-s1.bin      131072 5ba29aab
+
+-------------------------------------------
+
+Cyber-Lip
+cyberlip.zip
+
+ ROM                SIZE    CRC32
+ 010-p1.bin       524288 69a6b42d
+ 010-s1.bin       131072 79a35264
+ 010-m1.bin        65536 47980d3a
+ 010-v11.bin      524288 90224d22
+ 010-v12.bin      524288 a0cf1834
+ 010-v13.bin      524288 ae38bc84
+ 010-v14.bin      524288 70899bd2
+ 010-v21.bin      524288 586f4cb2
+ 010-c1.bin       524288 8bba5113
+ 010-c2.bin       524288 cbf66432
+ 010-c3.bin       524288 e4f86efc
+ 010-c4.bin       524288 f7be4674
+ 010-c5.bin       524288 e8076da0
+ 010-c6.bin       524288 c495c567
+
+-------------------------------------------
+
+Diggerman
+diggerma.zip
+
+ ROM                SIZE    CRC32
+ dig_p1.rom       524288 eda433d7
+ dig_s1.rom        65536 75a88c1f
+ dig_m1.rom        65536 833cdf1b
+ dig_v1.rom       524288 ee15bda4
+ dig_c1.rom       524288 3db0a4ed
+ dig_c2.rom       524288 3e632161
+
+-------------------------------------------
+
+Double Dragon
+doubledr.zip
+
+ ROM                SIZE    CRC32
+ 082-p1.bin      2097152 34ab832a
+ 082-s1.bin       131072 bef995c5
+ 082-m1.bin       131072 10b144de
+ 082-v1.bin      2097152 cc1128e4
+ 082-v2.bin      2097152 c3ff5554
+ 082-c1.bin      2097152 b478c725
+ 082-c2.bin      2097152 2857da32
+ 082-c3.bin      2097152 8b0d378e
+ 082-c4.bin      2097152 c7d2f596
+ 082-c5.bin      2097152 ec87bff6
+ 082-c6.bin      2097152 844a8a11
+ 082-c7.bin      1048576 727c4d02
+ 082-c8.bin      1048576 69a5fa37
+
+-------------------------------------------
+
+Eight Man
+eightman.zip
+
+ ROM                SIZE    CRC32
+ 025-p1.bin       524288 43344cb0
+ 025-s1.bin       131072 a402202b
+ 025-m1.bin       131072 9927034c
+ 025-v1.bin      1048576 4558558a
+ 025-v2.bin      1048576 c5e052e9
+ 025-c1.bin      1048576 555e16a4
+ 025-c2.bin      1048576 e1ee51c3
+ 025-c3.bin       524288 0923d5b0
+ 025-c4.bin       524288 e3eca67b
+
+-------------------------------------------
+
+Fatal Fury: King of Fighters
+fatfury1.zip
+
+ ROM                SIZE    CRC32
+ 033-p1.bin       524288 47ebdc2f
+ 033-p2.bin       131072 c473af1c
+ 033-s1.bin       131072 3c3bdf8c
+ 033-m1.bin       131072 a8603979
+ 033-v1.bin      1048576 212fd20d
+ 033-v2.bin      1048576 fa2ae47f
+ 033-c1.bin      1048576 74317e54
+ 033-c2.bin      1048576 5bb952f3
+ 033-c3.bin      1048576 9b714a7c
+ 033-c4.bin      1048576 9397476a
+
+-------------------------------------------
+
+Fatal Fury 2
+fatfury2.zip
+
+ ROM                SIZE    CRC32
+ 047-p1.bin       524288 be40ea92
+ 047-p2.bin       524288 2a9beac5
+ 047-s1.bin       131072 d7dbbf39
+ 047-m1.bin       131072 820b0ba7
+ 047-v1.bin      2097152 d9d00784
+ 047-v2.bin      2097152 2c9a4b33
+ 047-c1.bin      2097152 f72a939e
+ 047-c2.bin      2097152 05119a0d
+ 047-c3.bin      2097152 01e00738
+ 047-c4.bin      2097152 9fe27432
+
+-------------------------------------------
+
+Fatal Fury Special
+fatfursp.zip
+
+ ROM                SIZE    CRC32
+ 058-p1.bin      1048576 2f585ba2
+ 058-p2.bin       524288 d7c71a6b
+ 058-s1.bin       131072 2df03197
+ 058-m1.bin       131072 ccc5186e
+ 058-v1.bin      2097152 55d7ce84
+ 058-v2.bin      2097152 ee080b10
+ 058-v3.bin      1048576 f9eb3d4a
+ 058-c1.bin      2097152 044ab13c
+ 058-c2.bin      2097152 11e6bf96
+ 058-c3.bin      2097152 6f7938d5
+ 058-c4.bin      2097152 4ad066ff
+ 058-c5.bin      2097152 49c5e0bf
+ 058-c6.bin      2097152 8ff1f43d
+
+Fatal Fury Special (set 2)
+fatfursa.zip
+You must also have fatfursp.zip to play this game
+
+ ROM                SIZE    CRC32
+ 058-ep1.bin     1048576 36be707d
+
+-------------------------------------------
+
+Fatal Fury 3: Road to the Final Victory
+fatfury3.zip
+
+ ROM                SIZE    CRC32
+ 069-p1.bin      1048576 a8bcfbbc
+ 069-p2.bin      2097152 dbe963ed
+ 069-s1.bin       131072 0b33a800
+ 069-m1.bin       131072 fce72926
+ 069-v1.bin      4194304 2bdbd4db
+ 069-v2.bin      4194304 a698a487
+ 069-v3.bin      2097152 581c5304
+ 069-c1.bin      4194304 e302f93c
+ 069-c2.bin      4194304 1053a455
+ 069-c3.bin      4194304 1c0fde2f
+ 069-c4.bin      4194304 a25fc3d0
+ 069-c5.bin      2097152 b3ec6fa6
+ 069-c6.bin      2097152 69210441
+
+-------------------------------------------
+
+Fight Fever
+fightfev.zip
+
+ ROM                SIZE    CRC32
+ 060-p1.bin       524288 3032041b
+ 060-p2.bin       524288 b0801d5f
+ 060-s1.bin       131072 70727a1e
+ 060-m1.bin       131072 0b7c4e65
+ 060-v1.bin      2097152 f417c215
+ 060-v2.bin      1048576 64470036
+ 060-c1.bin      2097152 8908fff9
+ 060-c2.bin      2097152 c6649492
+ 060-c3.bin      2097152 0956b437
+ 060-c4.bin      2097152 026f3b62
+
+Fight Fever (alternate set)
+fightfva.zip
+You must also have fightfev.zip to play this game
+
+ ROM                SIZE    CRC32
+ 060-p1a.bin     1048576 2a104b50
+
+-------------------------------------------
+
+Football Frenzy
+fbfrenzy.zip
+
+ ROM                SIZE    CRC32
+ 034-p1.bin       524288 cdef6b19
+ 034-s1.bin       131072 8472ed44
+ 034-m1.bin       131072 f41b16b8
+ 034-v1.bin      1048576 50c9d0dd
+ 034-v2.bin      1048576 5aa15686
+ 034-c1.bin      1048576 91c56e78
+ 034-c2.bin      1048576 9743ea2f
+ 034-c3.bin       524288 e5aa65f5
+ 034-c4.bin       524288 0eb138cc
+
+-------------------------------------------
+
+Ganryu
+ganryu.zip
+
+ ROM                SIZE    CRC32
+ 252-c1.bin      8388608 50ee7882
+ 252-c2.bin      8388608 62585474
+ 252-p1.bin      2097152 4b8ac4fb
+ 252-m1.bin       131072 30cc4099
+ 252-v1.bin      4194304 e5946733
+
+Ganryu (decrypted C)
+ganryun.zip
+You must also have ganryu.zip to play this game
+
+ ROM                SIZE    CRC32
+ gann_s1.rom      131072 a8dadec9
+ gann_c1.rom     8388608 6bf7605b
+ gann_c2.rom     8388608 596792ce
+
+-------------------------------------------
+
+Garou: Mark of the Wolves
+garou.zip
+
+ ROM                SIZE    CRC32
+ 253-c1.bin      8388608 0603e046
+ 253-c2.bin      8388608 0917d2a4
+ 253-c3.bin      8388608 6737c92d
+ 253-c4.bin      8388608 5ba92ec6
+ 253-c5.bin      8388608 3eab5557
+ 253-c6.bin      8388608 308d098b
+ 253-c7.bin      8388608 c0e995ae
+ 253-c8.bin      8388608 21a11303
+ 253-ep1.p1      2097152 ea3171a4
+ 253-ep2.p2      2097152 382f704b
+ 253-ep3.p3      2097152 e395bfdd
+ 253-ep4.p4      2097152 da92c08e
+ 253-sma.bin      262144 98bc93dc
+ 253-m1.bin       262144 36a806be
+ 253-v1.bin      4194304 263e388c
+ 253-v2.bin      4194304 2c6bc7be
+ 253-v3.bin      4194304 0425b27d
+ 253-v4.bin      4194304 a54be8a9
+
+Garou: Mark of the Wolves (set 2)
+garouo.zip
+You must also have garou.zip to play this game
+
+ ROM                SIZE    CRC32
+ 253-p1.bin      4194304 18ae5d7e
+ 253-p2.bin      4194304 afffa779
+ 253-smao.bin     262144 96c72233
+
+Garou: Mark of the Wolves (decrypted C)
+garoun.zip
+You must also have garou.zip to play this game
+
+ ROM                SIZE    CRC32
+ motwn_c1.rom    8388608 497be3f2
+ motwn_c2.rom    8388608 6a9e95ca
+ motwn_c3.rom    8388608 39373d2f
+ motwn_c4.rom    8388608 4de23f6c
+ motwn_c5.rom    8388608 16634ba5
+ motwn_c6.rom    8388608 95671ffd
+ motwn_c7.rom    8388608 e36ce77f
+ motwn_c8.rom    8388608 ddbd1096
+
+Garou: Mark of the Wolves (prototype)
+garoup.zip
+You must also have garou.zip to play this game
+
+ ROM                SIZE    CRC32
+ 253-p1p.bin     1048576 c72f0c16
+ 253-p2p.bin     4194304 bf8de565
+ 253-s1p.bin      131072 779989de
+ 253-m1p.bin      262144 bbe464f7
+ 253-v1p.bin     4194304 274f3923
+ 253-v2p.bin     4194304 8f86dabe
+ 253-v3p.bin     4194304 05fd06cd
+ 253-v4p.bin     4194304 14984063
+ 253-c1p.bin     8388608 5bb5d137
+ 253-c2p.bin     8388608 5c8d2960
+ 253-c3p.bin     8388608 234d16fc
+ 253-c4p.bin     8388608 b9b5b993
+ 253-c5p.bin     8388608 722615d2
+ 253-c6p.bin     8388608 0a6fab38
+ 253-c7p.bin     8388608 d68e806f
+ 253-c8p.bin     8388608 f778fe99
+
+-------------------------------------------
+
+Ghost Pilots
+gpilots.zip
+
+ ROM                SIZE    CRC32
+ 020-p1.bin       524288 e6f2fe64
+ 020-p2.bin       131072 edcb22ac
+ 020-s1.bin       131072 a6d83d53
+ 020-m1.bin       131072 48409377
+ 020-v11.bin     1048576 1b526c8b
+ 020-v12.bin      524288 4a9e6f03
+ 020-v21.bin      524288 7abf113d
+ 020-c1.bin      1048576 bd6fe78e
+ 020-c2.bin      1048576 5f4a925c
+ 020-c3.bin      1048576 d1e42fd0
+ 020-c4.bin      1048576 edde439b
+
+-------------------------------------------
+
+Goal! Goal! Goal!
+goalx3.zip
+
+ ROM                SIZE    CRC32
+ 209-p1.bin      2097152 2a019a79
+ 209-s1.bin       131072 c0eaad86
+ 209-m1.bin        65536 dd945773
+ 209-v1.bin      2097152 ef214212
+ 209-c1.bin      4194304 d061f1f5
+ 209-c2.bin      4194304 3f63c1a2
+ 209-c3.bin      1048576 5f91bace
+ 209-c4.bin      1048576 1e9f76f2
+
+-------------------------------------------
+
+Gururin
+gururin.zip
+
+ ROM                SIZE    CRC32
+ 067-p1.bin       524288 4cea8a49
+ 067-s1.bin       131072 4f0cbd58
+ 067-m1.bin        65536 833cdf1b
+ 067-v1.bin       524288 cf23afd0
+ 067-c1.bin      2097152 35866126
+ 067-c2.bin      2097152 9db64084
+
+-------------------------------------------
+
+Jyanshin Densetsu: Quest of Jongmaster
+janshin.zip
+
+ ROM                SIZE    CRC32
+ 048-p1.bin      1048576 7514cb7a
+ 048-s1.bin       131072 8285b25a
+ 048-m1.bin        65536 e191f955
+ 048-v1.bin      2097152 f1947d2b
+ 048-c1.bin      2097152 3fa890e9
+ 048-c2.bin      2097152 59c48ad8
+
+-------------------------------------------
+
+Kabuki Klash: Far East of Eden
+kabukikl.zip
+
+ ROM                SIZE    CRC32
+ 092-p1.bin      2097152 28ec9b77
+ 092-s1.bin       131072 a3d68ee2
+ 092-m1.bin       131072 91957ef6
+ 092-v1.bin      2097152 69e90596
+ 092-v2.bin      2097152 7abdb75d
+ 092-v3.bin      2097152 eccc98d3
+ 092-v4.bin      1048576 a7c9c949
+ 092-c1.bin      4194304 4d896a58
+ 092-c2.bin      4194304 3cf78a18
+ 092-c3.bin      4194304 58c454e7
+ 092-c4.bin      4194304 e1a8aa6a
+
+-------------------------------------------
+
+Karnov's Revenge
+karnovr.zip
+
+ ROM                SIZE    CRC32
+ 066-p1.bin      1048576 8c86fd22
+ 066-s1.bin       131072 bae5d5e5
+ 066-m1.bin       131072 030beae4
+ 066-v1.bin      2097152 0b7ea37a
+ 066-c1.bin      2097152 09dfe061
+ 066-c2.bin      2097152 e0f6682a
+ 066-c3.bin      2097152 a673b4f7
+ 066-c4.bin      2097152 cb3dc5f4
+ 066-c5.bin      2097152 9a28785d
+ 066-c6.bin      2097152 c15c01ed
+
+-------------------------------------------
+
+King of the Monsters
+kotm.zip
+
+ ROM                SIZE    CRC32
+ 016-p1.bin       524288 1b818731
+ 016-p2.bin       131072 12afdc2b
+ 016-s1.bin       131072 1a2eeeb3
+ 016-m1.bin       131072 0296abcb
+ 016-v1.bin      1048576 86c0a502
+ 016-v2.bin      1048576 5bc23ec5
+ 016-c1.bin      1048576 71471c25
+ 016-c2.bin      1048576 320db048
+ 016-c3.bin      1048576 98de7995
+ 016-c4.bin      1048576 070506e2
+
+King of the Monsters (alternate set)
+kotmh.zip
+You must also have kotm.zip to play this game
+
+ ROM                SIZE    CRC32
+ 016-hp1.bin      524288 b774621e
+
+-------------------------------------------
+
+King of the Monsters 2: The Next Thing
+kotm2.zip
+
+ ROM                SIZE    CRC32
+ 039-p1.bin       524288 b372d54c
+ 039-p2.bin       524288 28661afe
+ 039-s1.bin       131072 63ee053a
+ 039-m1.bin       131072 0c5b2ad5
+ 039-v1.bin      2097152 86d34b25
+ 039-v2.bin      1048576 8fa62a0b
+ 039-c1.bin      2097152 6d1c4aa9
+ 039-c2.bin      2097152 f7b75337
+ 039-c3.bin      2097152 40156dca
+ 039-c4.bin      2097152 b0d44111
+
+-------------------------------------------
+
+Kizuna Encounter: Super Tag Battle
+kizuna.zip
+
+ ROM                SIZE    CRC32
+ 216-p1.bin      2097152 75d2b3de
+ 216-s1.bin       131072 efdc72d7
+ 216-m1.bin       131072 1b096820
+ 216-v1.bin      2097152 530c50fd
+ 216-v2.bin      2097152 03667a8d
+ 216-v3.bin      2097152 7038c2f9
+ 216-v4.bin      2097152 31b99bd6
+ 216-c1.bin      2097152 763ba611
+ 216-c2.bin      2097152 e05e8ca6
+ 216-c3.bin      4194304 665c9f16
+ 216-c4.bin      4194304 7f5d03db
+ 216-c5.bin      2097152 59013f9e
+ 216-c6.bin      2097152 1c8d5def
+ 216-c7.bin      2097152 c88f7035
+ 216-c8.bin      2097152 484ce3ba
+
+-------------------------------------------
+
+Last Resort
+lresort.zip
+
+ ROM                SIZE    CRC32
+ 024-p1.bin       524288 89c4ab97
+ 024-s1.bin       131072 5cef5cc6
+ 024-m1.bin       131072 cec19742
+ 024-v1.bin      1048576 efdfa063
+ 024-v2.bin      1048576 3c7997c0
+ 024-c1.bin      1048576 3617c2dc
+ 024-c2.bin      1048576 3f0a7fd8
+ 024-c3.bin       524288 e9f745f8
+ 024-c4.bin       524288 7382fefb
+
+-------------------------------------------
+
+League Bowling
+lbowling.zip
+
+ ROM                SIZE    CRC32
+ 019-p1.bin       524288 a2de8445
+ 019-s1.bin       131072 5fcdc0ed
+ 019-m1.bin       131072 589d7f25
+ 019-v11.bin      524288 0fb74872
+ 019-v12.bin      524288 029faa57
+ 019-v21.bin      524288 2efd5ada
+ 019-c1.bin       524288 4ccdef18
+ 019-c2.bin       524288 d4dd0802
+
+-------------------------------------------
+
+Legend of Success Joe
+legendos.zip
+
+ ROM                SIZE    CRC32
+ 029-p1.bin       524288 9d563f19
+ 029-s1.bin       131072 bcd502f0
+ 029-m1.bin        65536 909d4ed9
+ 029-v1.bin      1048576 85065452
+ 029-c1.bin      1048576 2f5ab875
+ 029-c2.bin      1048576 318b2711
+ 029-c3.bin      1048576 6bc52cb2
+ 029-c4.bin      1048576 37ef298c
+
+-------------------------------------------
+
+Magical Drop 2
+magdrop2.zip
+
+ ROM                SIZE    CRC32
+ 221-p1.bin       524288 7be82353
+ 221-s1.bin       131072 2a4063a3
+ 221-m1.bin       131072 bddae628
+ 221-v1.bin      2097152 7e5e53e4
+ 221-c1.bin      4194304 1f862a14
+ 221-c2.bin      4194304 14b90536
+
+-------------------------------------------
+
+Magical Drop 3
+magdrop3.zip
+
+ ROM                SIZE    CRC32
+ 233-p1.bin      1048576 931e17fa
+ 233-s1.bin       131072 7399e68a
+ 233-m1.bin       131072 5beaf34e
+ 233-v1.bin      4194304 58839298
+ 233-v2.bin       524288 d5e30df4
+ 233-c1.bin      4194304 734db3d6
+ 233-c2.bin      4194304 d78f50e5
+ 233-c3.bin      4194304 ec65f472
+ 233-c4.bin      4194304 f55dddf3
+
+-------------------------------------------
+
+Magician Lord
+maglord.zip
+
+ ROM                SIZE    CRC32
+ 005-p1.bin       524288 bd0a492d
+ 005-s1.bin       131072 1c5369a2
+ 005-m1.bin        65536 91ee1f73
+ 005-v11.bin      524288 cc0455fd
+ 005-v21.bin      524288 f94ab5b7
+ 005-v22.bin      524288 232cfd04
+ 005-c1.bin       524288 806aee34
+ 005-c2.bin       524288 34aa9a86
+ 005-c3.bin       524288 c4c2b926
+ 005-c4.bin       524288 9c46dcf4
+ 005-c5.bin       524288 69086dec
+ 005-c6.bin       524288 ab7ac142
+
+Magician Lord (alternate set)
+maglordh.zip
+You must also have maglord.zip to play this game
+
+ ROM                SIZE    CRC32
+ 005-p1h.bin      524288 599043c5
+
+-------------------------------------------
+
+Mahjong Kyoretsuden
+mahretsu.zip
+
+ ROM                SIZE    CRC32
+ 004-p1.bin       524288 fc6f53db
+ 004-s1.bin        65536 b0d16529
+ 004-m1.bin        65536 37965a73
+ 004-v1.bin       524288 b2fb2153
+ 004-v2.bin       524288 8503317b
+ 004-v3.bin       524288 4999fb27
+ 004-v4.bin       524288 776fa2a2
+ 004-v5.bin       524288 b3e7eeea
+ 004-c1.bin       524288 f1ae16bc
+ 004-c2.bin       524288 bdc13520
+ 004-c3.bin       524288 9c571a37
+ 004-c4.bin       524288 7e81cb29
+
+-------------------------------------------
+
+Metal Slug: Super Vehicle-001
+mslug.zip
+
+ ROM                SIZE    CRC32
+ 201-p1.bin      2097152 08d8daa5
+ 201-s1.bin       131072 2f55958d
+ 201-m1.bin       131072 c28b3253
+ 201-v1.bin      4194304 23d22ed1
+ 201-v2.bin      4194304 472cf9db
+ 201-c1.bin      4194304 d00bd152
+ 201-c2.bin      4194304 ddff1dea
+ 201-c3.bin      4194304 d3d5f9e5
+ 201-c4.bin      4194304 5ac1d497
+
+-------------------------------------------
+
+Metal Slug 2: Super Vehicle-001/II
+mslug2.zip
+
+ ROM                SIZE    CRC32
+ 241-p1.bin      1048576 2a53c5da
+ 241-p2.bin      2097152 38883f44
+ 241-s1.bin       131072 f3d32f0f
+ 241-m1.bin       131072 94520ebd
+ 241-v1.bin      4194304 99ec20e8
+ 241-v2.bin      4194304 ecb16799
+ 241-c1.bin      8388608 394b5e0d
+ 241-c2.bin      8388608 e5806221
+ 241-c3.bin      8388608 9f6bfa6f
+ 241-c4.bin      8388608 7d3e306f
+
+-------------------------------------------
+
+Metal Slug X: Super Vehicle-001
+mslugx.zip
+
+ ROM                SIZE    CRC32
+ 250-p1.bin      1048576 81f1f60b
+ 250-p2.bin      4194304 1fda2e12
+ 250-s1.bin       131072 fb6f441d
+ 250-m1.bin       131072 fd42a842
+ 250-v1.bin      4194304 c79ede73
+ 250-v2.bin      4194304 ea9aabe1
+ 250-v3.bin      2097152 2ca65102
+ 250-c1.bin      8388608 09a52c6f
+ 250-c2.bin      8388608 31679821
+ 250-c3.bin      8388608 fd602019
+ 250-c4.bin      8388608 31354513
+ 250-c5.bin      8388608 a4b56124
+ 250-c6.bin      8388608 83e3e69d
+
+-------------------------------------------
+
+Metal Slug 3
+mslug3.zip
+
+ ROM                SIZE    CRC32
+ 256-c1.bin      8388608 5a79c34e
+ 256-c2.bin      8388608 944c362c
+ 256-c3.bin      8388608 6e69d36f
+ 256-c4.bin      8388608 b755b4eb
+ 256-c5.bin      8388608 7aacab47
+ 256-c6.bin      8388608 c698fd5d
+ 256-c7.bin      8388608 cfceddd2
+ 256-c8.bin      8388608 4d9be34c
+ 256-p1.bin      4194304 b07edfd5
+ 256-p2.bin      4194304 6097c26b
+ 256-sma.bin      262144 9cd55736
+ 256-m1.bin       524288 eaeec116
+ 256-v1.bin      4194304 f2690241
+ 256-v2.bin      4194304 7e2a10bd
+ 256-v3.bin      4194304 0eaec17c
+ 256-v4.bin      4194304 9b4b22d4
+
+Metal Slug 3 (non encrypted P)
+mslug3n.zip
+You must also have mslug3.zip to play this game
+
+ ROM                SIZE    CRC32
+ 256-ph1.rom     1048576 9c42ca85
+ 256-ph2.rom     4194304 1f3d8ce8
+
+Metal Slug 3 (non encrypted P, decrypted C)
+mslug3nd.zip
+You must also have mslug3.zip to play this game
+
+ ROM                SIZE    CRC32
+ 256-ph1.rom     1048576 9c42ca85
+ 256-ph2.rom     4194304 1f3d8ce8
+ ms3n_c1.rom     8388608 3540398c
+ ms3n_c2.rom     8388608 bdd220f0
+ ms3n_c3.rom     8388608 bfaade82
+ ms3n_c4.rom     8388608 1463add6
+ ms3n_c5.rom     8388608 48ca7f28
+ ms3n_c6.rom     8388608 806eb36f
+ ms3n_c7.rom     8388608 9395b809
+ ms3n_c8.rom     8388608 a369f9d4
+
+-------------------------------------------
+
+Minasan no Okagesama desu!
+minasan.zip
+
+ ROM                SIZE    CRC32
+ 027-p1.bin       524288 c8381327
+ 027-s1.bin       131072 e5824baa
+ 027-m1.bin       131072 add5a226
+ 027-v11.bin     1048576 59ad4459
+ 027-v21.bin     1048576 df5b4eeb
+ 027-c1.bin      1048576 d0086f94
+ 027-c2.bin      1048576 da61f5a6
+ 027-c3.bin      1048576 08df1228
+ 027-c4.bin      1048576 54e87696
+
+-------------------------------------------
+
+Money Puzzle Exchanger
+miexchng.zip
+
+ ROM                SIZE    CRC32
+ 231-p1.bin       524288 61be1810
+ 231-s1.bin       131072 fe0c0c53
+ 231-m1.bin       131072 de41301b
+ 231-v1.bin      4194304 113fb898
+ 231-c1.bin      2097152 6c403ba3
+ 231-c2.bin      2097152 554bcd9b
+ 231-c3.bin       524288 14524eb5
+ 231-c4.bin       524288 1694f171
+
+-------------------------------------------
+
+Mutation Nation
+mutnat.zip
+
+ ROM                SIZE    CRC32
+ 014-p1.bin       524288 6f1699c8
+ 014-s1.bin       131072 99419733
+ 014-m1.bin       131072 b6683092
+ 014-v1.bin      1048576 25419296
+ 014-v2.bin      1048576 0de53d5e
+ 014-c1.bin      1048576 5e4381bf
+ 014-c2.bin      1048576 69ba4e18
+ 014-c3.bin      1048576 890327d5
+ 014-c4.bin      1048576 e4002651
+
+-------------------------------------------
+
+NAM-1975
+nam1975.zip
+
+ ROM                SIZE    CRC32
+ 001-p1.bin       524288 cc9fc951
+ 001-s1.bin        65536 8ded55a5
+ 001-m1.bin        65536 cd088502
+ 001-v11.bin      524288 a7c3d5e5
+ 001-v21.bin      524288 55e670b3
+ 001-v22.bin      524288 ab0d8368
+ 001-v23.bin      524288 df468e28
+ 001-c1.bin       524288 32ea98e1
+ 001-c2.bin       524288 cbc4064c
+ 001-c3.bin       524288 0151054c
+ 001-c4.bin       524288 0a32570d
+ 001-c5.bin       524288 90b74cc2
+ 001-c6.bin       524288 e62bed58
+
+-------------------------------------------
+
+Neo Bomberman
+neobombe.zip
+
+ ROM                SIZE    CRC32
+ 093-p1.bin      1048576 a1a71d0d
+ 093-s1.bin       131072 4b3fa119
+ 093-m1.bin       131072 e81e780b
+ 093-v1.bin      4194304 43057e99
+ 093-v2.bin      2097152 a92b8b3d
+ 093-c1.bin      4194304 b90ebed4
+ 093-c2.bin      4194304 41e62b4f
+ 093-c3.bin       524288 e37578c5
+ 093-c4.bin       524288 59826783
+
+-------------------------------------------
+
+Neo Drift Out: New Technology
+neodrift.zip
+
+ ROM                SIZE    CRC32
+ 213-p1.bin      2097152 e397d798
+ 213-s1.bin       131072 b76b61bc
+ 213-m1.bin       131072 200045f1
+ 213-v1.bin      2097152 a421c076
+ 213-v2.bin      2097152 233c7dd9
+ 213-c1.bin      4194304 62c5edc9
+ 213-c2.bin      4194304 9dc9c72a
+
+-------------------------------------------
+
+Neo Mr. Do!
+neomrdo.zip
+
+ ROM                SIZE    CRC32
+ 207-p1.bin       524288 39efdb82
+ 207-s1.bin        65536 6c4b09c4
+ 207-m1.bin       131072 81eade02
+ 207-v1.bin      2097152 4143c052
+ 207-c1.bin      2097152 c7541b9d
+ 207-c2.bin      2097152 f57166d2
+
+-------------------------------------------
+
+Neo No Panepon
+neonopon.zip
+
+ ROM                SIZE    CRC32
+ nnp-p1.rom       524288 43b7c759
+ nnp-s1.rom        65536 e28ea706
+ nnp-m1.rom        65536 7669de64
+ nnp-v1.rom       524288 504bf849
+ nnp-c1.rom      1048576 24dcba77
+ nnp-c2.rom      1048576 57c41e26
+
+-------------------------------------------
+
+Neo Pong 1.1
+neopong.zip
+
+ ROM                SIZE    CRC32
+ neopong_p1.rom   131072 9f35e29d
+ neopong_m1.rom   131072 78c851cb
+ neopong_c1.rom  1048576 f5a57d1a
+ neopong_c2.rom  1048576 affde64e
+ neopong_s1.rom   131072 cd19264f
+ neopong_v1.rom  2097152 6c31223c
+
+-------------------------------------------
+
+Nightmare in the Dark
+nitd.zip
+
+ ROM                SIZE    CRC32
+ 260-c1.bin      8388608 147b0c7f
+ 260-c2.bin      8388608 d2b04b0d
+ 260-p1.bin       524288 61361082
+ 260-m1.bin       524288 6407c5e5
+ 260-v1.bin      4194304 24b0480c
+
+Nightmare in the Dark (decrypted C)
+nitdn.zip
+You must also have nitd.zip to play this game
+
+ ROM                SIZE    CRC32
+ nitdn_s1.rom     131072 dd3bf47c
+ nitdn_c1.rom    8388608 f3ff4953
+ nitdn_c2.rom    8388608 f1e49faa
+
+-------------------------------------------
+
+Ninja Combat
+ncombat.zip
+
+ ROM                SIZE    CRC32
+ 009-p1.bin       524288 b45fcfbf
+ 009-s1.bin       131072 d49afee8
+ 009-m1.bin       131072 b5819863
+ 009-v11.bin      524288 cf32a59c
+ 009-v12.bin      524288 7b3588b7
+ 009-v13.bin      524288 505a01b5
+ 009-v21.bin      524288 365f9011
+ 009-c1.bin       524288 33cc838e
+ 009-c2.bin       524288 26877feb
+ 009-c3.bin       524288 3b60a05d
+ 009-c4.bin       524288 39c2d039
+ 009-c5.bin       524288 67a4344e
+ 009-c6.bin       524288 2eca8b19
+
+-------------------------------------------
+
+Ninja Commando
+ncommand.zip
+
+ ROM                SIZE    CRC32
+ 050-p1.bin      1048576 4e097c40
+ 050-s1.bin       131072 db8f9c8e
+ 050-m1.bin       131072 6fcf07d3
+ 050-v1.bin      1048576 23c3ab42
+ 050-v2.bin       524288 80b8a984
+ 050-c1.bin      1048576 87421a0a
+ 050-c2.bin      1048576 c4cf5548
+ 050-c3.bin      1048576 03422c1e
+ 050-c4.bin      1048576 0845eadb
+
+-------------------------------------------
+
+Ninja Master's: haoh-ninpo-cho
+ninjamas.zip
+
+ ROM                SIZE    CRC32
+ 217-p1.bin      1048576 3e97ed69
+ 217-p2.bin      2097152 191fca88
+ 217-s1.bin       131072 8ff782f0
+ 217-m1.bin       131072 d00fb2af
+ 217-v1.bin      4194304 1c34e013
+ 217-v2.bin      2097152 22f1c681
+ 217-c1.bin      4194304 58f91ae0
+ 217-c2.bin      4194304 4258147f
+ 217-c3.bin      4194304 36c29ce3
+ 217-c4.bin      4194304 17e97a6e
+ 217-c5.bin      4194304 4683ffc0
+ 217-c6.bin      4194304 de004f4a
+ 217-c7.bin      4194304 3e1885c0
+ 217-c8.bin      4194304 5a5df034
+
+-------------------------------------------
+
+Operation Ragnagard
+ragnagrd.zip
+
+ ROM                SIZE    CRC32
+ 218-p1.bin      2097152 ca372303
+ 218-s1.bin       131072 7d402f9a
+ 218-m1.bin       131072 17028bcf
+ 218-v1.bin      4194304 61eee7f4
+ 218-v2.bin      4194304 6104e20b
+ 218-c1.bin      4194304 18f61d79
+ 218-c2.bin      4194304 dbf4ff4b
+ 218-c3.bin      4194304 108d5589
+ 218-c4.bin      4194304 7962d5ac
+ 218-c5.bin      4194304 4b74021a
+ 218-c6.bin      4194304 f5cf90bc
+ 218-c7.bin      4194304 32189762
+ 218-c8.bin      4194304 d5915828
+
+-------------------------------------------
+
+Over Top
+overtop.zip
+
+ ROM                SIZE    CRC32
+ 212-p1.bin      2097152 16c063a9
+ 212-s1.bin       131072 481d3ddc
+ 212-m1.bin       131072 fcab6191
+ 212-v1.bin      4194304 013d4ef9
+ 212-c1.bin      4194304 50f43087
+ 212-c2.bin      4194304 a5b39807
+ 212-c3.bin      4194304 9252ea02
+ 212-c4.bin      4194304 5f41a699
+ 212-c5.bin      2097152 fc858bef
+ 212-c6.bin      2097152 0589c15e
+
+-------------------------------------------
+
+Panic Bomber
+panicbom.zip
+
+ ROM                SIZE    CRC32
+ 073-p1.bin       262144 0b21130d
+ 073-s1.bin       131072 b876de7e
+ 073-m1.bin       131072 3cdf5d88
+ 073-v1.bin      2097152 7fc86d2f
+ 073-v2.bin      1048576 082adfc7
+ 073-c1.bin      1048576 8582e1b5
+ 073-c2.bin      1048576 e15a093b
+
+-------------------------------------------
+
+Pleasure Goal
+pgoal.zip
+
+ ROM                SIZE    CRC32
+ 219-p1.bin      2097152 6af0e574
+ 219-s1.bin       131072 002f3c88
+ 219-m1.bin       131072 958efdc8
+ 219-v1.bin      2097152 2cc1bd05
+ 219-v2.bin      2097152 06ac1d3f
+ 219-c1.bin      2097152 2dc69faf
+ 219-c2.bin      2097152 5db81811
+ 219-c3.bin      2097152 9dbfece5
+ 219-c4.bin      2097152 c9f4324c
+ 219-c5.bin      2097152 5fdad0a5
+ 219-c6.bin      2097152 f57b4a1c
+
+-------------------------------------------
+
+Pop 'n Bounce
+popbounc.zip
+
+ ROM                SIZE    CRC32
+ 237-p1.bin      1048576 be96e44f
+ 237-s1.bin       131072 b61cf595
+ 237-m1.bin       131072 d4c946dd
+ 237-v1.bin      2097152 edcb1beb
+ 237-c1.bin      2097152 eda42d66
+ 237-c2.bin      2097152 5e633c65
+
+-------------------------------------------
+
+Power Spikes 2
+pspikes2.zip
+
+ ROM                SIZE    CRC32
+ 068-p1.bin      1048576 105a408f
+ 068-s1.bin       131072 18082299
+ 068-m1.bin       131072 b1c7911e
+ 068-v1.bin      1048576 2ced86df
+ 068-v2.bin      1048576 970851ab
+ 068-v3.bin      1048576 81ff05aa
+ 068-c1.bin      1048576 7f250f76
+ 068-c2.bin      1048576 20912873
+ 068-c3.bin      1048576 4b641ba1
+ 068-c4.bin      1048576 35072596
+ 068-c5.bin      1048576 151dd624
+ 068-c6.bin      1048576 a6722604
+
+-------------------------------------------
+
+Prehistoric Isle 2
+preisle2.zip
+
+ ROM                SIZE    CRC32
+ 255-c1.bin      8388608 ea06000b
+ 255-c2.bin      8388608 04e67d79
+ 255-c3.bin      8388608 60e31e08
+ 255-c4.bin      8388608 40371d69
+ 255-c5.bin      8388608 0b2e6adf
+ 255-c6.bin      8388608 b001bdd3
+ 255-p1.bin      1048576 dfa3c0f3
+ 255-p2.bin      4194304 42050b80
+ 255-m1.bin       131072 8efd4014
+ 255-v1.bin      4194304 5a14543d
+ 255-v2.bin      2097152 6610d91a
+
+Prehistoric Isle 2 (decrypted C)
+preisl2n.zip
+You must also have preisle2.zip to play this game
+
+ ROM                SIZE    CRC32
+ pi2n_s1.rom      131072 666cabdc
+ pi2n_c1.rom     8388608 50fd785e
+ pi2n_c2.rom     8388608 ab913f1e
+ pi2n_c3.rom     8388608 bc0ee75c
+ pi2n_c4.rom     8388608 29908823
+ pi2n_c5.rom     8388608 83c56bca
+ pi2n_c6.rom     8388608 59e0e805
+
+-------------------------------------------
+
+Pulstar
+pulstar.zip
+
+ ROM                SIZE    CRC32
+ 089-p1.bin      1048576 5e5847a2
+ 089-p2.bin      2097152 028b774c
+ 089-s1.bin       131072 c79fc2c8
+ 089-m1.bin       131072 ff3df7c7
+ 089-v1.bin      4194304 b458ded2
+ 089-v2.bin      4194304 9d2db551
+ 089-c1.bin      4194304 63020fc6
+ 089-c2.bin      4194304 260e9d4d
+ 089-c3.bin      4194304 21ef41d7
+ 089-c4.bin      4194304 3b9e288f
+ 089-c5.bin      4194304 6fe9259c
+ 089-c6.bin      4194304 dc32f2b4
+ 089-c7.bin      2097152 6a5618ca
+ 089-c8.bin      2097152 a223572d
+
+-------------------------------------------
+
+Puzzle Bobble
+pbobblen.zip
+
+ ROM                SIZE    CRC32
+ 083-p1.bin       262144 7c3c34e1
+ 083-s1.bin       131072 9caae538
+ 083-m1.bin        65536 129e6054
+ 083-v3.bin      1048576 0840cbc4
+ 083-v4.bin       524288 0a548948
+ 083-c5.bin       524288 e89ad494
+ 083-c6.bin       524288 4b42d7eb
+
+Puzzle Bobble (set 2)
+pbobblna.zip
+You must also have pbobblen.zip to play this game
+
+ ROM                SIZE    CRC32
+ 083-p1.rom       262144 d6efe86f
+
+-------------------------------------------
+
+Puzzle Bobble 2
+pbobbl2n.zip
+
+ ROM                SIZE    CRC32
+ 248-p1.bin      1048576 9d6c0754
+ 248-s1.bin       131072 0a3fee41
+ 248-m1.bin       131072 883097a9
+ 248-v1.bin      4194304 57fde1fa
+ 248-v2.bin      4194304 4b966ef3
+ 248-c1.bin      4194304 d9115327
+ 248-c2.bin      4194304 77f9fdac
+ 248-c3.bin      1048576 8890bf7c
+ 248-c4.bin      1048576 8efead3f
+
+-------------------------------------------
+
+Puzzle de Pon
+puzzledp.zip
+
+ ROM                SIZE    CRC32
+ 202-p1.bin       524288 2b61415b
+ 202-s1.bin        65536 4a421612
+ 202-m1.bin       131072 9c0291ea
+ 202-v1.bin       524288 debeb8fb
+ 202-c1.bin      1048576 cc0095ef
+ 202-c2.bin      1048576 42371307
+
+Puzzle de Pon R
+puzzldpr.zip
+You must also have puzzledp.zip to play this game
+
+ ROM                SIZE    CRC32
+ 235-p1.bin       524288 afed5de2
+ 235-s1.bin        65536 5a68d91e
+
+-------------------------------------------
+
+Puzzled
+joyjoy.zip
+
+ ROM                SIZE    CRC32
+ 021-p1.bin       524288 39c3478f
+ 021-s1.bin       131072 6956d778
+ 021-m1.bin        65536 058683ec
+ 021-v1.bin       524288 66c1e5c4
+ 021-v2.bin       524288 8ed20a86
+ 021-c1.bin       524288 509250ec
+ 021-c2.bin       524288 09ed5258
+
+-------------------------------------------
+
+Quiz King of Fighters
+quizkof.zip
+
+ ROM                SIZE    CRC32
+ 080-p1.bin      1048576 4440315e
+ 080-s1.bin       131072 d7b86102
+ 080-m1.bin       131072 f5f44172
+ 080-v1.bin      2097152 0be18f60
+ 080-v2.bin      2097152 4abde3ff
+ 080-v3.bin      2097152 f02844e2
+ 080-c1.bin      2097152 ea1d764a
+ 080-c2.bin      2097152 c78c49da
+ 080-c3.bin      2097152 b4851bfe
+ 080-c4.bin      2097152 ca6f5460
+
+-------------------------------------------
+
+Quiz Daisousa Sen: The Last Count Down
+quizdais.zip
+
+ ROM                SIZE    CRC32
+ 023-p1.bin      1048576 c488fda3
+ 023-s1.bin       131072 ac31818a
+ 023-m1.bin       131072 2a2105e0
+ 023-v1.bin      1048576 a53e5bd3
+ 023-c1.bin      1048576 2999535a
+ 023-c2.bin      1048576 876a99e6
+
+-------------------------------------------
+
+Quiz Meintantei Neo Geo: Quiz Daisousa Sen Part 2
+quizdai2.zip
+
+ ROM                SIZE    CRC32
+ 042-p1.bin      1048576 ed719dcf
+ 042-s1.bin       131072 164fd6e6
+ 042-m1.bin       131072 bb19995d
+ 042-v1.bin      1048576 af7f8247
+ 042-v2.bin      1048576 c6474b59
+ 042-c1.bin      1048576 cb5809a1
+ 042-c2.bin      1048576 1436dfeb
+ 042-c3.bin       524288 bcd4a518
+ 042-c4.bin       524288 d602219b
+
+-------------------------------------------
+
+Robo Army
+roboarmy.zip
+
+ ROM                SIZE    CRC32
+ 032-p1.bin       524288 cd11cbd4
+ 032-s1.bin       131072 ac0daa1b
+ 032-m1.bin       131072 98edc671
+ 032-v1.bin       524288 daff9896
+ 032-v2.bin       524288 8781b1bc
+ 032-v3.bin       524288 b69c1da5
+ 032-v4.bin       524288 2c929c17
+ 032-c1.bin       524288 e17fa618
+ 032-c2.bin       524288 d5ebdb4d
+ 032-c3.bin       524288 aa4d7695
+ 032-c4.bin       524288 8d4ebbe3
+ 032-c5.bin       524288 40adfccd
+ 032-c6.bin       524288 462571de
+
+-------------------------------------------
+
+Real Bout Fatal Fury
+rbff1.zip
+
+ ROM                SIZE    CRC32
+ 095-p1.bin      1048576 63b4d8ae
+ 095-p2.bin      2097152 cc15826e
+ 095-s1.bin       131072 b6bf5e08
+ 095-m1.bin       131072 653492a7
+ 069-v1.bin      4194304 2bdbd4db
+ 069-v2.bin      4194304 a698a487
+ 095-v3.bin      4194304 189d1c6c
+ 069-c1.bin      4194304 e302f93c
+ 069-c2.bin      4194304 1053a455
+ 069-c3.bin      4194304 1c0fde2f
+ 069-c4.bin      4194304 a25fc3d0
+ 095-c5.bin      4194304 8b9b65df
+ 095-c6.bin      4194304 3e164718
+ 095-c7.bin      2097152 ca605e12
+ 095-c8.bin      2097152 4e6beb6c
+
+-------------------------------------------
+
+Real Bout Fatal Fury Special
+rbffspec.zip
+
+ ROM                SIZE    CRC32
+ 223-p1.bin      1048576 f84a2d1d
+ 223-p2.bin      4194304 27e3e54b
+ 223-s1.bin       131072 7ecd6e8c
+ 223-m1.bin       131072 3fee46bf
+ 223-v1.bin      4194304 76673869
+ 223-v2.bin      4194304 7a275acd
+ 223-v3.bin      4194304 5a797fd2
+ 223-c1.bin      4194304 436edad4
+ 223-c2.bin      4194304 cc7dc384
+ 223-c3.bin      4194304 375954ea
+ 223-c4.bin      4194304 c1a98dd7
+ 223-c5.bin      4194304 12c5418e
+ 223-c6.bin      4194304 c8ad71d5
+ 223-c7.bin      4194304 5c33d1d8
+ 223-c8.bin      4194304 efdeb140
+
+-------------------------------------------
+
+Real Bout Fatal Fury 2: The Newcomers
+rbff2.zip
+
+ ROM                SIZE    CRC32
+ 240-p1.bin      1048576 b6969780
+ 240-p2.bin      4194304 960aa88d
+ 240-s1.bin       131072 da3b40de
+ 240-m1.bin       262144 ed482791
+ 240-v1.bin      4194304 f796265a
+ 240-v2.bin      4194304 2cb3f3bb
+ 240-v3.bin      4194304 df77b7fa
+ 240-v4.bin      4194304 33a356ee
+ 240-c1.bin      8388608 effac504
+ 240-c2.bin      8388608 ed182d44
+ 240-c3.bin      8388608 22e0330a
+ 240-c4.bin      8388608 c19a07eb
+ 240-c5.bin      8388608 244dff5a
+ 240-c6.bin      8388608 4609e507
+
+Real Bout Fatal Fury 2: The Newcomers (set 2)
+rbff2a.zip
+You must also have rbff2.zip to play this game
+
+ ROM                SIZE    CRC32
+ 240-p1.rom      1048576 80e41205
+
+-------------------------------------------
+
+Samurai Shodown
+samsho.zip
+
+ ROM                SIZE    CRC32
+ 045-p1.bin       524288 80aa6c97
+ 045-p2.bin       524288 71768728
+ 045-p3.bin       524288 38ee9ba9
+ 045-s1.bin       131072 9142a4d3
+ 045-m1.bin       131072 95170640
+ 045-v1.bin      2097152 37f78a9b
+ 045-v2.bin      2097152 568b20cf
+ 045-c1.bin      2097152 2e5873a4
+ 045-c2.bin      2097152 04febb10
+ 045-c3.bin      2097152 f3dabd1e
+ 045-c4.bin      2097152 935c62f0
+ 045-c5.bin       524288 a2bb8284
+ 045-c6.bin       524288 4fa71252
+
+-------------------------------------------
+
+Samurai Shodown II
+samsho2.zip
+
+ ROM                SIZE    CRC32
+ 063-p1.bin      2097152 22368892
+ 063-s1.bin       131072 64a5cd66
+ 063-m1.bin       131072 56675098
+ 063-v1.bin      2097152 37703f91
+ 063-v2.bin      2097152 0142bde8
+ 063-v3.bin      2097152 d07fa5ca
+ 063-v4.bin      1048576 24aab4bb
+ 063-c1.bin      2097152 86cd307c
+ 063-c2.bin      2097152 cdfcc4ca
+ 063-c3.bin      2097152 7a63ccc7
+ 063-c4.bin      2097152 751025ce
+ 063-c5.bin      2097152 20d3a475
+ 063-c6.bin      2097152 ae4c0a88
+ 063-c7.bin      2097152 2df3cbcf
+ 063-c8.bin      2097152 1ffc6dfa
+
+-------------------------------------------
+
+Samurai Shodown III
+samsho3.zip
+
+ ROM                SIZE    CRC32
+ 087-p1.bin      1048576 282a336e
+ 087-p2.bin      2097152 9bbe27e0
+ 087-s1.bin       131072 74ec7d9f
+ 087-m1.bin       131072 8e6440eb
+ 087-v1.bin      4194304 84bdd9a0
+ 087-v2.bin      2097152 ac0f261a
+ 087-c1.bin      4194304 e079f767
+ 087-c2.bin      4194304 fc045909
+ 087-c3.bin      4194304 c61218d7
+ 087-c4.bin      4194304 054ec754
+ 087-c5.bin      4194304 05feee47
+ 087-c6.bin      4194304 ef7d9e29
+ 087-c7.bin       524288 7a01f666
+ 087-c8.bin       524288 ffd009c2
+
+-------------------------------------------
+
+Samurai Shodown IV: Amakusa's Revenge
+samsho4.zip
+
+ ROM                SIZE    CRC32
+ 222-p1.bin      1048576 1a5cb56d
+ 222-p2.bin      4194304 7587f09b
+ 222-s1.bin       131072 8d3d3bf9
+ 222-m1.bin       131072 7615bc1b
+ 222-v1.bin      4194304 7d6ba95f
+ 222-v2.bin      4194304 6c33bb5d
+ 222-v3.bin      2097152 831ea8c0
+ 222-c1.bin      4194304 289100fa
+ 222-c2.bin      4194304 c2716ea0
+ 222-c3.bin      4194304 6659734f
+ 222-c4.bin      4194304 91ebea00
+ 222-c5.bin      4194304 e22254ed
+ 222-c6.bin      4194304 00947b2e
+ 222-c7.bin      4194304 e3e3b0cd
+ 222-c8.bin      4194304 f33967f1
+
+-------------------------------------------
+
+Savage Reign
+savagere.zip
+
+ ROM                SIZE    CRC32
+ 059-p1.bin      2097152 01d4e9c0
+ 059-s1.bin       131072 e08978ca
+ 059-m1.bin       131072 29992eba
+ 059-v1.bin      2097152 530c50fd
+ 059-v2.bin      2097152 eb6f1cdb
+ 059-v3.bin      2097152 7038c2f9
+ 059-c1.bin      2097152 763ba611
+ 059-c2.bin      2097152 e05e8ca6
+ 059-c3.bin      2097152 3e4eba4b
+ 059-c4.bin      2097152 3c2a3808
+ 059-c5.bin      2097152 59013f9e
+ 059-c6.bin      2097152 1c8d5def
+ 059-c7.bin      2097152 c88f7035
+ 059-c8.bin      2097152 484ce3ba
+
+-------------------------------------------
+
+Sengoku
+sengoku.zip
+
+ ROM                SIZE    CRC32
+ 017-p1.bin       524288 f8a63983
+ 017-p2.bin       131072 3024bbb3
+ 017-s1.bin       131072 b246204d
+ 017-m1.bin       131072 9b4f34c6
+ 017-v1.bin      1048576 23663295
+ 017-v2.bin      1048576 f61e6765
+ 017-c1.bin      1048576 b4eb82a1
+ 017-c2.bin      1048576 d55c550d
+ 017-c3.bin      1048576 ed51ef65
+ 017-c4.bin      1048576 f4f3c9cb
+
+Sengoku (alternate set)
+sengokh.zip
+You must also have sengoku.zip to play this game
+
+ ROM                SIZE    CRC32
+ 017-p1h.bin      524288 33eccae0
+
+-------------------------------------------
+
+Sengoku 2
+sengoku2.zip
+
+ ROM                SIZE    CRC32
+ 040-p1.bin       524288 cc245299
+ 040-p2.bin       524288 2e466360
+ 040-s1.bin       131072 cd9802a3
+ 040-m1.bin       131072 9902dfa2
+ 040-v1.bin      1048576 b3725ced
+ 040-v2.bin      1048576 b5e70a0e
+ 040-v3.bin      1048576 c5cece01
+ 040-c1.bin      2097152 3cacd552
+ 040-c2.bin      2097152 e2aadef3
+ 040-c3.bin      2097152 037614d5
+ 040-c4.bin      2097152 e9947e5b
+
+-------------------------------------------
+
+Sengoku 3
+sengoku3.zip
+
+ ROM                SIZE    CRC32
+ 261-c1.bin      8388608 ded84d9c
+ 261-c2.bin      8388608 b8eb4348
+ 261-c3.bin      8388608 84e2034a
+ 261-c4.bin      8388608 0b45ae53
+ 261-p1.bin      2097152 e0d4bc0a
+ 261-m1.bin       131072 36ed9cdd
+ 261-v1.bin      4194304 64c30081
+ 261-v2.bin      4194304 392a9c47
+ 261-v3.bin      4194304 c1a7ebe3
+ 261-v4.bin      2097152 9000d085
+
+Sengoku 3 (decrypted C)
+sngoku3n.zip
+You must also have sengoku3.zip to play this game
+
+ ROM                SIZE    CRC32
+ sen3n_s1.rom     131072 c1e27cc7
+ sen3n_c1.rom    8388608 9af7cbca
+ sen3n_c2.rom    8388608 2a1f874d
+ sen3n_c3.rom    8388608 5403adb5
+ sen3n_c4.rom    8388608 18926df6
+
+-------------------------------------------
+
+Shock Troopers
+shocktro.zip
+
+ ROM                SIZE    CRC32
+ 238-p1.bin      1048576 5677456f
+ 238-p2.bin      4194304 646f6c76
+ 238-s1.bin       131072 1f95cedb
+ 238-m1.bin       131072 075b9518
+ 238-v1.bin      4194304 260c0bef
+ 238-v2.bin      2097152 4ad7d59e
+ 238-c1.bin      4194304 aad087fc
+ 238-c2.bin      4194304 7e39df1f
+ 238-c3.bin      4194304 6682a458
+ 238-c4.bin      4194304 cbef1f17
+ 238-c5.bin      4194304 e17762b1
+ 238-c6.bin      4194304 28beab71
+ 238-c7.bin      4194304 a47e62d2
+ 238-c8.bin      4194304 e8e890fb
+
+Shock Troopers (set 2)
+shocktra.zip
+You must also have shocktro.zip to play this game
+
+ ROM                SIZE    CRC32
+ 238-pg1.p1      1048576 efedf8dc
+
+-------------------------------------------
+
+Shock Troopers: 2nd Squad
+shocktr2.zip
+
+ ROM                SIZE    CRC32
+ 246-p1.bin      1048576 6d4b7781
+ 246-p2.bin      4194304 72ea04c3
+ 246-s1.bin       131072 2a360637
+ 246-m1.bin       131072 d0604ad1
+ 246-v1.bin      4194304 16986fc6
+ 246-v2.bin      4194304 ada41e83
+ 246-v3.bin      2097152 a05ba5db
+ 246-c1.bin      8388608 47ac9ec5
+ 246-c2.bin      8388608 7bcab64f
+ 246-c3.bin      8388608 db2f73e8
+ 246-c4.bin      8388608 5503854e
+ 246-c5.bin      8388608 055b3701
+ 246-c6.bin      8388608 7e2caae1
+
+-------------------------------------------
+
+Soccer Brawl
+socbrawl.zip
+
+ ROM                SIZE    CRC32
+ 031-p1.bin       524288 a2801c24
+ 031-s1.bin        65536 2db38c3b
+ 031-m1.bin        65536 2f38d5d3
+ 031-v1.bin      1048576 cc78497e
+ 031-v2.bin      1048576 dda043c6
+ 031-c1.bin      1048576 bd0a4eb8
+ 031-c2.bin      1048576 efde5382
+ 031-c3.bin       524288 580f7f33
+ 031-c4.bin       524288 ed297de8
+
+-------------------------------------------
+
+Spin Master
+spinmast.zip
+
+ ROM                SIZE    CRC32
+ 062-p1.bin      1048576 37aba1aa
+ 062-p2.bin       524288 43763ad2
+ 062-s1.bin       131072 289e2bbe
+ 062-m1.bin       131072 76108b2f
+ 062-v1.bin      1048576 cc281aef
+ 062-c1.bin      1048576 a9375aa2
+ 062-c2.bin      1048576 0e73b758
+ 062-c3.bin      1048576 df51e465
+ 062-c4.bin      1048576 38517e90
+ 062-c5.bin      1048576 7babd692
+ 062-c6.bin      1048576 cde5ade5
+ 062-c7.bin      1048576 bb2fd7c0
+ 062-c8.bin      1048576 8d7be933
+
+-------------------------------------------
+
+Stakes Winner
+stakwin.zip
+
+ ROM                SIZE    CRC32
+ 088-p1.bin      2097152 bd5814f6
+ 088-s1.bin       131072 073cb208
+ 088-m1.bin       131072 2fe1f499
+ 088-v1.bin      2097152 b7785023
+ 088-c1.bin      2097152 6e733421
+ 088-c2.bin      2097152 4d865347
+ 088-c3.bin      2097152 8fa5a9eb
+ 088-c4.bin      2097152 4604f0dc
+
+-------------------------------------------
+
+Stakes Winner 2
+stakwin2.zip
+
+ ROM                SIZE    CRC32
+ 227-p1.bin      2097152 daf101d2
+ 227-s1.bin       131072 2a8c4462
+ 227-m1.bin       131072 c8e5e0f9
+ 227-v1.bin      4194304 b8f24181
+ 227-v2.bin      4194304 ee39e260
+ 227-c1.bin      4194304 7d6c2af4
+ 227-c2.bin      4194304 7e402d39
+ 227-c3.bin      2097152 93dfd660
+ 227-c4.bin      2097152 7efea43a
+
+-------------------------------------------
+
+Strikers 1945 Plus
+s1945p.zip
+
+ ROM                SIZE    CRC32
+ 254-c1.bin      8388608 ae6fc8ef
+ 254-c2.bin      8388608 436fa176
+ 254-c3.bin      8388608 e53ff2dc
+ 254-c4.bin      8388608 818672f0
+ 254-c5.bin      8388608 4580eacd
+ 254-c6.bin      8388608 e34970fc
+ 254-c7.bin      8388608 f2323239
+ 254-c8.bin      8388608 66848c7d
+ 254-p1.bin      1048576 ff8efcff
+ 254-p2.bin      4194304 efdfd4dd
+ 254-m1.bin       131072 994b4487
+ 254-v1.bin      4194304 844f58fb
+ 254-v2.bin      4194304 d9a248f0
+ 254-v3.bin      4194304 0b0d2d33
+ 254-v4.bin      4194304 6d13dc91
+
+Strikers 1945 Plus (decrypted C)
+s1945pn.zip
+You must also have s1945p.zip to play this game
+
+ ROM                SIZE    CRC32
+ s45pn_s1.rom     131072 121a4f94
+ s45pn_c1.rom    8388608 7b6902f9
+ s45pn_c2.rom    8388608 51bd4252
+ s45pn_c3.rom    8388608 a38993e4
+ s45pn_c4.rom    8388608 d5696530
+ s45pn_c5.rom    8388608 28764bd6
+ s45pn_c6.rom    8388608 9931bdf1
+ s45pn_c7.rom    8388608 6e12afcd
+ s45pn_c8.rom    8388608 178d4684
+
+-------------------------------------------
+
+Street Hoop
+strhoop.zip
+
+ ROM                SIZE    CRC32
+ 079-p1.bin      1048576 5e78328e
+ 079-s1.bin       131072 3ac06665
+ 079-m1.bin        65536 1a5f08db
+ 079-v1.bin      2097152 718a2400
+ 079-v2.bin       524288 b19884f8
+ 079-c1.bin      2097152 0581c72a
+ 079-c2.bin      2097152 5b9b8fb6
+ 079-c3.bin      2097152 cd65bb62
+ 079-c4.bin      2097152 a4c90213
+
+-------------------------------------------
+
+Super Dodge Ball
+sdodgeb.zip
+
+ ROM                SIZE    CRC32
+ 208-p1.bin      2097152 127f3d32
+ 208-s1.bin       131072 64abd6b3
+ 208-m1.bin       131072 0a5f3325
+ 208-v1.bin      2097152 8b53e945
+ 208-v2.bin      2097152 af37ebf8
+ 208-c1.bin      4194304 93d8619b
+ 208-c2.bin      4194304 1c737bb6
+ 208-c3.bin      2097152 14cb1703
+ 208-c4.bin      2097152 c7165f19
+
+-------------------------------------------
+
+Super Sidekicks
+ssideki.zip
+
+ ROM                SIZE    CRC32
+ 052-p1.bin       524288 9cd97256
+ 052-s1.bin       131072 97689804
+ 052-m1.bin       131072 49f17d2d
+ 052-v1.bin      2097152 22c097a5
+ 052-c1.bin      2097152 53e1c002
+ 052-c2.bin      2097152 776a2d1f
+
+-------------------------------------------
+
+Syougi No Tatsujin: Master of Syougi
+mosyougi.zip
+
+ ROM                SIZE    CRC32
+ 203-p1.bin      1048576 7ba70e2d
+ 203-s1.bin       131072 4e132fac
+ 203-m1.bin       131072 a602c2c2
+ 203-v1.bin      2097152 baa2b9a5
+ 203-c1.bin      2097152 bba9e8c0
+ 203-c2.bin      2097152 2574be03
+
+-------------------------------------------
+
+Tecmo World Soccer '96
+tws96.zip
+
+ ROM                SIZE    CRC32
+ 086-p1.bin      1048576 03e20ab6
+ 086-s1.bin       131072 6f5e2b3a
+ 086-m1.bin        65536 860ba8c7
+ 086-v1.bin      2097152 97bf1986
+ 086-v2.bin      2097152 b7eb05df
+ 086-c1.bin      4194304 d301a867
+ 086-c2.bin      4194304 305fc74f
+ 086-c3.bin      1048576 750ddc0c
+ 086-c4.bin      1048576 7a6e7d82
+
+-------------------------------------------
+
+The King of Fighters '94
+kof94.zip
+
+ ROM                SIZE    CRC32
+ 055-p1.bin      2097152 f10a2042
+ 055-s1.bin       131072 825976c1
+ 055-m1.bin       131072 f6e77cf5
+ 055-v1.bin      2097152 8889596d
+ 055-v2.bin      2097152 25022b27
+ 055-v3.bin      2097152 83cf32c0
+ 055-c1.bin      2097152 b96ef460
+ 055-c2.bin      2097152 15e096a7
+ 055-c3.bin      2097152 54f66254
+ 055-c4.bin      2097152 0b01765f
+ 055-c5.bin      2097152 ee759363
+ 055-c6.bin      2097152 498da52c
+ 055-c7.bin      2097152 62f66888
+ 055-c8.bin      2097152 fe0a235d
+
+-------------------------------------------
+
+The King of Fighters '95
+kof95.zip
+
+ ROM                SIZE    CRC32
+ 084-p1.bin      2097152 5e54cf95
+ 084-s1.bin       131072 de716f8a
+ 084-m1.bin       131072 6f2d7429
+ 084-v1.bin      4194304 84861b56
+ 084-v2.bin      2097152 b38a2803
+ 084-v3.bin      1048576 d683a338
+ 084-c1.bin      4194304 fe087e32
+ 084-c2.bin      4194304 07864e09
+ 084-c3.bin      4194304 a4e65d1b
+ 084-c4.bin      4194304 c1ace468
+ 084-c5.bin      2097152 8a2c1edc
+ 084-c6.bin      2097152 f593ac35
+ 084-c7.bin      1048576 9904025f
+ 084-c8.bin      1048576 78eb0f9b
+
+The King of Fighters '95 (set 2)
+kof95a.zip
+You must also have kof95.zip to play this game
+
+ ROM                SIZE    CRC32
+ 084a-p1.bin     2097152 2cba2716
+
+-------------------------------------------
+
+The King of Fighters '96
+kof96.zip
+
+ ROM                SIZE    CRC32
+ 214-p1.bin      1048576 52755d74
+ 214-p2.bin      2097152 002ccb73
+ 214-s1.bin       131072 1254cbdb
+ 214-m1.bin       131072 dabc427c
+ 214-v1.bin      4194304 63f7b045
+ 214-v2.bin      4194304 25929059
+ 214-v3.bin      2097152 92a2257d
+ 214-c1.bin      4194304 7ecf4aa2
+ 214-c2.bin      4194304 05b54f37
+ 214-c3.bin      4194304 64989a65
+ 214-c4.bin      4194304 afbea515
+ 214-c5.bin      4194304 2a3bbd26
+ 214-c6.bin      4194304 44d30dc7
+ 214-c7.bin      4194304 3687331b
+ 214-c8.bin      4194304 fa1461ad
+
+The King of Fighters '96 (set 2)
+kof96h.zip
+You must also have kof96.zip to play this game
+
+ ROM                SIZE    CRC32
+ 214-pg1.bin     1048576 bd3757c9
+
+-------------------------------------------
+
+The King of Fighters '97
+kof97.zip
+
+ ROM                SIZE    CRC32
+ 232-p1.bin      1048576 7db81ad9
+ 232-p2.bin      4194304 158b23f6
+ 232-s1.bin       131072 8514ecf5
+ 232-m1.bin       131072 45348747
+ 232-v1.bin      4194304 22a2b5b5
+ 232-v2.bin      4194304 2304e744
+ 232-v3.bin      4194304 759eb954
+ 232-c1.bin      8388608 5f8bf0a1
+ 232-c2.bin      8388608 e4d45c81
+ 232-c3.bin      8388608 581d6618
+ 232-c4.bin      8388608 49bb1e68
+ 232-c5.bin      4194304 34fc4e51
+ 232-c6.bin      4194304 4ff4d47b
+
+The King of Fighters '97 (set 2)
+kof97a.zip
+You must also have kof97.zip to play this game
+
+ ROM                SIZE    CRC32
+ 232-pg1.bin     1048576 5c2400b7
+
+The King of Fighters '97 Plus (bootleg)
+kof97pls.zip
+You must also have kof97.zip to play this game
+
+ ROM                SIZE    CRC32
+ 232-p1p.bin     1048576 c01fda46
+ 232-p2p.bin     4194304 5502b020
+ 232-s1p.bin      131072 73254270
+
+-------------------------------------------
+
+The King of Fighters '98: The Slugfest
+kof98.zip
+
+ ROM                SIZE    CRC32
+ yz98-p1.160     2097152 8893df89
+ 242-p2.bin      4194304 980aba4c
+ 242-s1.bin       131072 7f7b4805
+ 242-m1a.bin      262144 4ef7016b
+ 242-v1.bin      4194304 b9ea8051
+ 242-v2.bin      4194304 cc11106e
+ 242-v3.bin      4194304 044ea4e1
+ 242-v4.bin      4194304 7985ea30
+ 242-c1.bin      8388608 e564ecd6
+ 242-c2.bin      8388608 bd959b60
+ 242-c3.bin      8388608 22127b4f
+ 242-c4.bin      8388608 0b4fa044
+ 242-c5.bin      8388608 9d10bed3
+ 242-c6.bin      8388608 da07b6a2
+ 242-c7.bin      8388608 f6d7a38a
+ 242-c8.bin      8388608 c823e045
+
+The King of Fighters '98: The Slugfest (Korean M1)
+kof98k.zip
+You must also have kof98.zip to play this game
+
+ ROM                SIZE    CRC32
+ 242-m1k.bin      262144 ce12da0c
+
+The King of Fighters '98: The Slugfest (censored M1)
+kof98n.zip
+You must also have kof98.zip to play this game
+
+ ROM                SIZE    CRC32
+ 242-p1.bin      1048576 61ac868a
+ 242-m1.bin       262144 4e7a6b1b
+
+-------------------------------------------
+
+The King of Fighters '99: Millennium Battle
+kof99.zip
+
+ ROM                SIZE    CRC32
+ 251-c1.bin      8388608 0f9e93fe
+ 251-c2.bin      8388608 e71e2ea3
+ 251-c3.bin      8388608 238755d2
+ 251-c4.bin      8388608 438c8b22
+ 251-c5.bin      8388608 0b0abd0a
+ 251-c6.bin      8388608 65bbf281
+ 251-c7.bin      8388608 ff65f62e
+ 251-c8.bin      8388608 8d921c68
+ 251-p1.bin      4194304 006e4532
+ 251-pg2.bin     4194304 d9057f51
+ 251-sma.kc       262144 6c9d0647
+ 251-m1.bin       131072 5e74539c
+ 251-v1.bin      4194304 ef2eecc8
+ 251-v2.bin      4194304 73e211ca
+ 251-v3.bin      4194304 821901da
+ 251-v4.bin      2097152 b49e6178
+
+The King of Fighters '99: Millennium Battle (set 2)
+kof99a.zip
+You must also have kof99.zip to play this game
+
+ ROM                SIZE    CRC32
+ 251-p2.bin      4194304 90175f15
+ 251-sma.ka       262144 7766d09e
+
+The King of Fighters '99: Millennium Battle (earlier)
+kof99e.zip
+You must also have kof99.zip to play this game
+
+ ROM                SIZE    CRC32
+ 251-ep1.p1      2097152 1e8d692d
+ 251-ep2.p2      2097152 d6206e5a
+ 251-ep3.p3      2097152 d58c3ef8
+ 251-ep4.p4      2097152 52de02ae
+ 251-sma.ka       262144 7766d09e
+
+The King of Fighters '99: Millennium Battle (decrypted C)
+kof99nd.zip
+You must also have kof99.zip to play this game
+
+ ROM                SIZE    CRC32
+ kf99n_p1.rom    1048576 f2c7ddfa
+ kf99n_p2.rom    4194304 274ef47a
+ kf99n_s1.rom     131072 1b0133fe
+ kf99n_c1.rom    8388608 b3d88546
+ kf99n_c2.rom    8388608 915c8634
+ kf99n_c3.rom    8388608 b047c9d5
+ kf99n_c4.rom    8388608 6bc8e4b1
+ kf99n_c5.rom    8388608 9746268c
+ kf99n_c6.rom    8388608 238b3e71
+ kf99n_c7.rom    8388608 2f68fdeb
+ kf99n_c8.rom    8388608 4c2fad1e
+
+The King of Fighters '99: Millennium Battle (non encrypted P)
+kof99n.zip
+You must also have kof99.zip to play this game
+
+ ROM                SIZE    CRC32
+ 152-p1.bin      1048576 f2c7ddfa
+ 152-p2.bin      4194304 274ef47a
+
+The King of Fighters '99: Millennium Battle (prototype)
+kof99p.zip
+You must also have kof99.zip to play this game
+
+ ROM                SIZE    CRC32
+ 251-p1p.bin     1048576 f37929c4
+ 251-p2p.bin     4194304 739742ad
+ 251-s1p.bin      131072 fb1498ed
+ 251-c1p.bin     8388608 e5d8ffa4
+ 251-c2p.bin     8388608 d822778f
+ 251-c3p.bin     8388608 f20959e8
+ 251-c4p.bin     8388608 54ffbe9f
+ 251-c5p.bin     8388608 d87a3bbc
+ 251-c6p.bin     8388608 4d40a691
+ 251-c7p.bin     8388608 a4479a58
+ 251-c8p.bin     8388608 ead513ce
+
+-------------------------------------------
+
+The King of Fighters 2000
+kof2000.zip
+
+ ROM                SIZE    CRC32
+ 257-c1.bin      8388608 cef1cdfa
+ 257-c2.bin      8388608 f7bf0003
+ 257-c3.bin      8388608 101e6560
+ 257-c4.bin      8388608 bd2fc1b1
+ 257-c5.bin      8388608 89775412
+ 257-c6.bin      8388608 fa7200d5
+ 257-c7.bin      8388608 7da11fe4
+ 257-c8.bin      8388608 b1afa60b
+ 257-p1.bin      4194304 60947b4c
+ 257-p2.bin      4194304 1b7ec415
+ 257-sma.bin      262144 71c6e6bb
+ 257-m1.bin       262144 4b749113
+ 257-m1d.bin      262144 d404db70
+ 257-v1.bin      4194304 17cde847
+ 257-v2.bin      4194304 1afb20ff
+ 257-v3.bin      4194304 4605036a
+ 257-v4.bin      4194304 764bbd6b
+
+The King of Fighters 2000 (non encrypted P)
+kof2000n.zip
+You must also have kof2000.zip to play this game
+
+ ROM                SIZE    CRC32
+ 257-p1n.bin     1048576 5f809dbe
+ 257-p2n.bin     4194304 693c2c5e
+
+The King of Fighters 2000 (non encrypted P, decrypted C)
+kof2knd.zip
+You must also have kof2000.zip to play this game
+
+ ROM                SIZE    CRC32
+ 257-p1n.bin     1048576 5f809dbe
+ 257-p2n.bin     4194304 693c2c5e
+ kof2k_c1.rom    8388608 abcdd424
+ kof2k_c2.rom    8388608 cda33778
+ kof2k_c3.rom    8388608 087fb15b
+ kof2k_c4.rom    8388608 fe9dfde4
+ kof2k_c5.rom    8388608 03ee4bf4
+ kof2k_c6.rom    8388608 8599cc5b
+ kof2k_c7.rom    8388608 71dfc3e2
+ kof2k_c8.rom    8388608 0fa30e5f
+
+-------------------------------------------
+
+The King of Fighters 2001
+kof2001.zip
+
+ ROM                SIZE    CRC32
+ 262-c1.bin      8388608 99cc785a
+ 262-c2.bin      8388608 50368cbf
+ 262-c3.bin      8388608 fb14ff87
+ 262-c4.bin      8388608 4397faf8
+ 262-c5.bin      8388608 91f24be4
+ 262-c6.bin      8388608 a31e4403
+ 262-c7.bin      8388608 54d9d1ec
+ 262-c8.bin      8388608 59289a6b
+ 262-p1.bin      1048576 9381750d
+ 262-p2.bin      4194304 8e0d8329
+ 265-262.m1       131072 1d5aab51
+ 262-m1d.bin      131072 73c1f5b0
+ 262-v1.bin      4194304 83d49ecf
+ 262-v2.bin      4194304 003f1843
+ 262-v3.bin      4194304 2ae38dbe
+ 262-v4.bin      4194304 26ec4dd9
+
+The King of Fighters 2001 (decrypted C)
+kof2k1nd.zip
+You must also have kof2001.zip to play this game
+
+ ROM                SIZE    CRC32
+ kf2k1_c1.rom    8388608 103225b1
+ kf2k1_c2.rom    8388608 f9d05d99
+ kf2k1_c3.rom    8388608 4c7ec427
+ kf2k1_c4.rom    8388608 1d237aa6
+ kf2k1_c5.rom    8388608 c2256db5
+ kf2k1_c6.rom    8388608 8d6565a9
+ kf2k1_c7.rom    8388608 d1408776
+ kf2k1_c8.rom    8388608 954d0e16
+ kf2k1_s1.rom     131072 6d209796
+
+-------------------------------------------
+
+The Irritating Maze
+irrmaze.zip
+
+ ROM                SIZE    CRC32
+ 236-p1.bin      2097152 6d536c6e
+ 236-bios.bin     131072 853e6b96
+ 236-s1.bin       131072 5d1ca640
+ 236-m1.bin       131072 880a1abd
+ 236-v1.bin      2097152 5f89c3b4
+ 236-v2.bin      1048576 1e843567
+ 236-c1.bin      4194304 c1d47902
+ 236-c2.bin      4194304 e15f972e
+
+-------------------------------------------
+
+The Last Blade
+lastblad.zip
+
+ ROM                SIZE    CRC32
+ 234-p1.bin      1048576 cd01c06d
+ 234-p2.bin      4194304 0fdc289e
+ 234-s1.bin       131072 95561412
+ 234-m1.bin       131072 087628ea
+ 234-v1.bin      4194304 ed66b76f
+ 234-v2.bin      4194304 a0e7f6e2
+ 234-v3.bin      4194304 a506e1e2
+ 234-v4.bin      2097152 13583c4b
+ 234-c1.bin      8388608 9f7e2bd3
+ 234-c2.bin      8388608 80623d3c
+ 234-c3.bin      8388608 91ab1a30
+ 234-c4.bin      8388608 3d60b037
+ 234-c5.bin      2097152 17bbd7ca
+ 234-c6.bin      2097152 5c35d541
+
+The Last Blade (set 2)
+lastblda.zip
+You must also have lastblad.zip to play this game
+
+ ROM                SIZE    CRC32
+ 234-p1.rom      1048576 e123a5a3
+
+-------------------------------------------
+
+The Last Blade 2
+lastbld2.zip
+
+ ROM                SIZE    CRC32
+ 243-p1.bin      1048576 af1e6554
+ 243-p2.bin      4194304 add4a30b
+ 243-s1.bin       131072 c9cd2298
+ 243-m1.bin       131072 acf12d10
+ 243-v1.bin      4194304 f7ee6fbb
+ 243-v2.bin      4194304 aa9e4df6
+ 243-v3.bin      4194304 4ac750b2
+ 243-v4.bin      4194304 f5c64ba6
+ 243-c1.bin      8388608 5839444d
+ 243-c2.bin      8388608 dd087428
+ 243-c3.bin      8388608 6054cbe0
+ 243-c4.bin      8388608 8bd2a9d2
+ 243-c5.bin      8388608 6a503dcf
+ 243-c6.bin      8388608 ec9c36d0
+
+-------------------------------------------
+
+The Super Spy
+superspy.zip
+
+ ROM                SIZE    CRC32
+ 011-p1.bin       524288 c7f944b5
+ 011-p2.bin       131072 811a4faf
+ 011-s1.bin       131072 ec5fdb96
+ 011-m1.bin       131072 d59d5d12
+ 011-v11.bin     1048576 5c674d5c
+ 011-v12.bin     1048576 7df8898b
+ 011-v21.bin     1048576 1ebe94c7
+ 011-c1.bin      1048576 cae7be57
+ 011-c2.bin      1048576 9e29d986
+ 011-c3.bin      1048576 14832ff2
+ 011-c4.bin      1048576 b7f63162
+
+-------------------------------------------
+
+Top Hunter: Roddy & Cathy
+tophuntr.zip
+
+ ROM                SIZE    CRC32
+ 046-p1.bin      1048576 69fa9e29
+ 046-p2.sp2      1048576 f182cb3e
+ 046-s1.bin       131072 14b01d7b
+ 046-m1.bin       131072 3f84bb9f
+ 046-v1.bin      1048576 c1f9c2db
+ 046-v2.bin      1048576 56254a64
+ 046-v3.bin      1048576 58113fb1
+ 046-v4.bin      1048576 4f54c187
+ 046-c1.bin      1048576 fa720a4a
+ 046-c2.bin      1048576 c900c205
+ 046-c3.bin      1048576 880e3c25
+ 046-c4.bin      1048576 7a2248aa
+ 046-c5.bin      1048576 4b735e45
+ 046-c6.bin      1048576 273171df
+ 046-c7.bin      1048576 12829c4c
+ 046-c8.bin      1048576 c944e03d
+
+-------------------------------------------
+
+Top Player's Golf
+tpgolf.zip
+
+ ROM                SIZE    CRC32
+ 003-p1.bin       524288 f75549ba
+ 003-p2.bin       524288 b7809a8f
+ 003-s1.bin       131072 7b3eb9b1
+ 003-m1.bin        65536 7851d0d9
+ 003-v11.bin      524288 ff97f1cb
+ 003-v21.bin      524288 d34960c6
+ 003-v22.bin      524288 9a5f58d4
+ 003-v23.bin      524288 30f53e54
+ 003-v24.bin      524288 5ba0f501
+ 003-c1.bin       524288 0315fbaf
+ 003-c2.bin       524288 b4c15d59
+ 003-c3.bin       524288 b09f1612
+ 003-c4.bin       524288 150ea7a1
+ 003-c5.bin       524288 9a7146da
+ 003-c6.bin       524288 1e63411a
+ 003-c7.bin       524288 2886710c
+ 003-c8.bin       524288 422af22d
+
+-------------------------------------------
+
+Thrash Rally
+trally.zip
+
+ ROM                SIZE    CRC32
+ 038-p1.bin       524288 1e52a576
+ 038-p2.bin       524288 a5193e2f
+ 038-s1.bin       131072 fff62ae3
+ 038-m1.bin       131072 0908707e
+ 038-v1.bin      1048576 5ccd9fd5
+ 038-v2.bin       524288 ddd8d1e6
+ 038-c1.bin      1048576 c58323d4
+ 038-c2.bin      1048576 bba9c29e
+ 038-c3.bin       524288 3bb7b9d6
+ 038-c4.bin       524288 a4513ecf
+
+-------------------------------------------
+
+Twinkle Star Sprites
+twinspri.zip
+
+ ROM                SIZE    CRC32
+ 224-p1.bin      2097152 7697e445
+ 224-s1.bin       131072 eeed5758
+ 224-m1.bin       131072 364d6f96
+ 224-v1.bin      4194304 ff57f088
+ 224-v2.bin      2097152 7ad26599
+ 224-c1.bin      4194304 73b2a70b
+ 224-c2.bin      4194304 3a3e506c
+ 224-c3.bin      1048576 c59e4129
+ 224-c4.bin      1048576 b5532e53
+
+-------------------------------------------
+
+View Point
+viewpoin.zip
+
+ ROM                SIZE    CRC32
+ 051-p1.bin      1048576 17aa899d
+ 051-s1.bin        65536 6d0f146a
+ 051-m1.bin        65536 d57bd7af
+ 051-v1.bin      2097152 019978b6
+ 051-v2.bin      2097152 5758f38c
+ 051-c1.bin      2097152 d624c132
+ 051-c2.bin      2097152 40d69f1e
+
+-------------------------------------------
+
+Voltage Fighter: Gowcaizer
+gowcaizr.zip
+
+ ROM                SIZE    CRC32
+ 094-p1.bin      2097152 33019545
+ 094-s1.bin       131072 2f8748a2
+ 094-m1.bin       131072 78c851cb
+ 094-v1.bin      2097152 6c31223c
+ 094-v2.bin      2097152 8edb776c
+ 094-v3.bin      1048576 c63b9285
+ 094-c1.bin      2097152 042f6af5
+ 094-c2.bin      2097152 0fbcd046
+ 094-c3.bin      2097152 58bfbaa1
+ 094-c4.bin      2097152 9451ee73
+ 094-c5.bin      2097152 ff9cf48c
+ 094-c6.bin      2097152 31bbd918
+ 094-c7.bin      2097152 2091ec04
+ 094-c8.bin      2097152 0d31dee6
+
+-------------------------------------------
+
+Waku Waku 7
+wakuwak7.zip
+
+ ROM                SIZE    CRC32
+ 225-p1.bin      1048576 b14da766
+ 225-p2.bin      2097152 fe190665
+ 225-s1.bin       131072 71c4b4b5
+ 225-m1.bin       131072 0634bba6
+ 225-v1.bin      4194304 6195c6b4
+ 225-v2.bin      4194304 6159c5fe
+ 225-c1.bin      4194304 d91d386f
+ 225-c2.bin      4194304 36b5cf41
+ 225-c3.bin      4194304 02fcff2f
+ 225-c4.bin      4194304 cd7f1241
+ 225-c5.bin      4194304 03d32f25
+ 225-c6.bin      4194304 d996a90a
+
+-------------------------------------------
+
+Wind Jammers
+wjammers.zip
+
+ ROM                SIZE    CRC32
+ 065-p1.bin       524288 e81e7a31
+ 065-s1.bin       131072 074b5723
+ 065-m1.bin       131072 52c23cfc
+ 065-v1.bin      1048576 ce8b3698
+ 065-v2.bin      1048576 659f9b96
+ 065-v3.bin      1048576 39f73061
+ 065-v4.bin       524288 3740edde
+ 065-c1.bin      1048576 c7650204
+ 065-c2.bin      1048576 d9f3e71d
+ 065-c3.bin      1048576 40986386
+ 065-c4.bin      1048576 715e15ff
+
+-------------------------------------------
+
+World Heroes
+wh1.zip
+
+ ROM                SIZE    CRC32
+ 053-p1.bin       524288 95b574cb
+ 053-p2.bin       524288 f198ed45
+ 053-s1.bin       131072 8c2c2d6b
+ 053-m1.bin       131072 1bd9d04b
+ 053-v2.bin      2097152 a68df485
+ 053-v4.bin      1048576 7bea8f66
+ 053-c1.bin      2097152 85eb5bce
+ 053-c2.bin      2097152 ec93b048
+ 053-c3.bin      1048576 0dd64965
+ 053-c4.bin      1048576 9270d954
+
+World Heroes (alternate set)
+wh1h.zip
+You must also have wh1.zip to play this game
+
+ ROM                SIZE    CRC32
+ 053-p1.rom       524288 ed29fde2
+ 053-p2.rom       524288 98f2b158
+
+-------------------------------------------
+
+World Heroes 2
+wh2.zip
+
+ ROM                SIZE    CRC32
+ 057-p1.bin      2097152 65a891d9
+ 057-s1.bin       131072 fcaeb3a4
+ 057-m1.bin       131072 8fa3bc77
+ 057-v1.bin      2097152 8877e301
+ 057-v2.bin      2097152 c1317ff4
+ 057-c1.bin      2097152 21c6bb91
+ 057-c2.bin      2097152 a3999925
+ 057-c3.bin      2097152 b725a219
+ 057-c4.bin      2097152 8d96425e
+ 057-c5.bin      2097152 b20354af
+ 057-c6.bin      2097152 b13d1de3
+
+-------------------------------------------
+
+World Heroes 2 Jet
+wh2j.zip
+
+ ROM                SIZE    CRC32
+ 064-p1.bin      2097152 385a2e86
+ 064-s1.bin       131072 2a03998a
+ 064-m1.bin       131072 d2eec9d3
+ 064-v1.bin      2097152 aa277109
+ 064-v2.bin      2097152 b6527edd
+ 064-c1.bin      2097152 2ec87cea
+ 064-c2.bin      2097152 526b81ab
+ 064-c3.bin      2097152 436d1b31
+ 064-c4.bin      2097152 f9c8dd26
+ 064-c5.bin      2097152 8e34a9f4
+ 064-c6.bin      2097152 a43e4766
+ 064-c7.bin      2097152 59d97215
+ 064-c8.bin      2097152 fc092367
+
+-------------------------------------------
+
+World Heroes Perfect
+whp.zip
+
+ ROM                SIZE    CRC32
+ 090-p1.bin      2097152 afaa4702
+ 090-s1.bin       131072 174a880f
+ 090-m1.bin       131072 28065668
+ 090-v1.bin      2097152 30cf2709
+ 090-v2.bin      2097152 b6527edd
+ 090-v3.bin      2097152 1908a7ce
+ 090-c1.bin      4194304 aecd5bb1
+ 090-c2.bin      4194304 7566ffc0
+ 090-c3.bin      2097152 436d1b31
+ 090-c4.bin      2097152 f9c8dd26
+ 090-c5.bin      2097152 8e34a9f4
+ 090-c6.bin      2097152 a43e4766
+ 090-c7.bin      2097152 59d97215
+ 090-c8.bin      2097152 fc092367
+
+-------------------------------------------
+
+Zed Blade
+zedblade.zip
+
+ ROM                SIZE    CRC32
+ 076-p1.bin       524288 d7c1effd
+ 076-s1.bin       131072 f4c25dd5
+ 076-m1.bin       131072 7b5f3d0a
+ 076-v1.bin      2097152 1a21d90c
+ 076-v2.bin      2097152 b61686c3
+ 076-v3.bin      1048576 b90658fa
+ 076-c1.bin      2097152 4d9cb038
+ 076-c2.bin      2097152 09233884
+ 076-c3.bin      2097152 d06431e3
+ 076-c4.bin      2097152 4b1c089b
+
+-------------------------------------------
+
+Zupapa!
+zupapa.zip
+
+ ROM                SIZE    CRC32
+ 070-c1.bin      8388608 f8ad02d8
+ 070-c2.bin      8388608 70156dde
+ 070-p1.bin      1048576 5a96203e
+ 070-m1.bin       131072 5a3b3191
+ 070-v1.bin      2097152 d3a7e1ff
+
+Zupapa! (decrypted C)
+zupapan.zip
+You must also have zupapa.zip to play this game
+
+ ROM                SIZE    CRC32
+ zupan_s1.rom     131072 307967ba
+ zupan_c1.rom    8388608 65d73348
+ zupan_c2.rom    8388608 c498708f
+
+-------------------------------------------
+
+Jockey Grandprix
+jockeygp.zip
+
+ ROM                SIZE    CRC32
+ jgp-c1.rom      8388608 a9acbf18
+ jgp-c2.rom      8388608 6289eef9
+ jgp-p1.rom      1048576 2fb7f388
+ jgp-m1.rom       524288 d163c690
+ vl_m1.rom         65536 9b92b7d1
+ jgp-v1.rom      2097152 443eadba
+
+-------------------------------------------
+
+V Liner
+vliner.zip
+
+ ROM                SIZE    CRC32
+ vl_p1.rom        524288 72a2c043
+ vl_s1.rom        131072 972d8c31
+ vl_m1.rom         65536 9b92b7d1
+ vl_c1.rom        524288 5118f7c0
+ vl_c2.rom        524288 efe9b33e
+
+-------------------------------------------
+
+Galaxy Fight: Universal Warriors  (Misses rasters)
+galaxyfg.zip
+
+ ROM                SIZE    CRC32
+ 078-p1.bin      2097152 45906309
+ 078-s1.bin       131072 72f8923e
+ 078-m1.bin       131072 8e9e3b10
+ 078-v1.bin      2097152 e3b735ac
+ 078-v2.bin      2097152 6a8e78c2
+ 078-v3.bin      1048576 70bca656
+ 078-c1.bin      2097152 c890c7c0
+ 078-c2.bin      2097152 b6d25419
+ 078-c3.bin      2097152 9d87e761
+ 078-c4.bin      2097152 765d7cb8
+ 078-c5.bin      2097152 e6b77e6a
+ 078-c6.bin      2097152 d779a181
+ 078-c7.bin      1048576 4f27d580
+ 078-c8.bin      1048576 0a7cc0d8
+
+-------------------------------------------
+
+Neo-Geo Cup '98: The Road to the Victory  (Misses rasters)
+neocup98.zip
+
+ ROM                SIZE    CRC32
+ 244-p1.bin      2097152 f8fdb7a5
+ 244-s1.bin       131072 9bddb697
+ 244-m1.bin       131072 a701b276
+ 244-v1.bin      4194304 79def46d
+ 244-v2.bin      2097152 b231902f
+ 244-c1.bin      8388608 d2c40ec7
+ 244-c2.bin      8388608 33aa0f35
+
+-------------------------------------------
+
+Neo Turf Masters (Misses rasters)
+turfmast.zip
+
+ ROM                SIZE    CRC32
+ 200-p1.bin      2097152 28c83048
+ 200-s1.bin       131072 9a5402b2
+ 200-m1.bin       131072 9994ac00
+ 200-v1.bin      2097152 00fd48d2
+ 200-v2.bin      2097152 082acb31
+ 200-v3.bin      2097152 7abca053
+ 200-v4.bin      2097152 6c7b4902
+ 200-c1.bin      4194304 8c6733f2
+ 200-c2.bin      4194304 596cc256
+
+-------------------------------------------
+
+Riding Hero (Misses rasters)
+ridhero.zip
+
+ ROM                SIZE    CRC32
+ 006-p1.bin       524288 d4aaf597
+ 006-s1.bin        65536 197d1a28
+ 006-m1.bin       131072 f0b6425d
+ 006-v11.bin      524288 cdf74a42
+ 006-v12.bin      524288 e2fd2371
+ 006-v21.bin      524288 94092bce
+ 006-v22.bin      524288 4e2cd7c3
+ 006-v23.bin      524288 069c71ed
+ 006-v24.bin      524288 89fbb825
+ 006-c1.bin       524288 4a5c7f78
+ 006-c2.bin       524288 e0b70ece
+ 006-c3.bin       524288 8acff765
+ 006-c4.bin       524288 205e3208
+
+Riding Hero (alternate set) (Misses rasters)
+ridheroh.zip
+You must also have ridhero.zip to play this game
+
+ ROM                SIZE    CRC32
+ 006-p1h.bin      524288 52445646
+
+-------------------------------------------
+
+Super Sidekicks 2: The World Championship  (Misses rasters)
+ssideki2.zip
+
+ ROM                SIZE    CRC32
+ 061-p1.bin      1048576 5969e0dc
+ 061-s1.bin       131072 226d1b68
+ 061-m1.bin       131072 156f6951
+ 061-v1.bin      2097152 f081c8d3
+ 061-v2.bin      2097152 7cd63302
+ 061-c1.bin      2097152 a626474f
+ 061-c2.bin      2097152 c3be42ae
+ 061-c3.bin      2097152 2a7b98b9
+ 061-c4.bin      2097152 c0be9a1f
+
+-------------------------------------------
+
+Super Sidekicks 3: The Next Glory  (Misses rasters)
+ssideki3.zip
+
+ ROM                SIZE    CRC32
+ 081-p1.bin      2097152 6bc27a3d
+ 081-s1.bin       131072 7626da34
+ 081-m1.bin       131072 82fcd863
+ 081-v1.bin      2097152 201fa1e1
+ 081-v2.bin      2097152 acf29d96
+ 081-v3.bin      2097152 e524e415
+ 081-c1.bin      2097152 1fb68ebe
+ 081-c2.bin      2097152 b28d928f
+ 081-c3.bin      2097152 3b2572e8
+ 081-c4.bin      2097152 47d26a7c
+ 081-c5.bin      2097152 17d42f0d
+ 081-c6.bin      2097152 6b53fb75
+
+-------------------------------------------
+
+Super Sidekicks 4: The Ultimate 11 (Misses rasters)
+ssideki4.zip
+
+ ROM                SIZE    CRC32
+ 215-p1.bin      2097152 519b4ba3
+ 215-s1.bin       131072 f0fe5c36
+ 215-m1.bin       131072 a932081d
+ 215-v1.bin      4194304 c4bfed62
+ 215-v2.bin      2097152 1bfa218b
+ 215-c1.bin      4194304 288a9225
+ 215-c2.bin      4194304 3fc9d1c4
+ 215-c3.bin      4194304 fedfaebe
+ 215-c4.bin      4194304 877a5bb2
+ 215-c5.bin      2097152 0c6f97ec
+ 215-c6.bin      2097152 329c5e1b
+
+-------------------------------------------
+
+1944: The Loop Master (US 000620)
+1944.zip
+
+ ROM                SIZE    CRC32
+ nffu.03          524288 9693cf8f
+ nff.04           524288 dba1c66e
+ nffu.05          524288 ea813eb7
+ nffux.03         524288 675c8109
+ nff.13          4194304 c9fca741
+ nff.15          4194304 f809d898
+ nff.17          4194304 15ba4507
+ nff.19          4194304 3dd41b8c
+ nff.14          1048576 3fe3a54b
+ nff.16          1048576 565cd231
+ nff.18          1048576 63ca5988
+ nff.20          1048576 21eb8f3b
+ nff.01           131072 d2e44318
+ nff.11          4194304 243e4e05
+ nff.12          4194304 4fcf1600
+
+-------------------------------------------
+
+19XX: The War Against Destiny (US 951207)
+19xx.zip
+
+ ROM                SIZE    CRC32
+ 19x.13           524288 427aeb18
+ 19x.15           524288 63bdbf54
+ 19x.17           524288 2dfe18b5
+ 19x.19           524288 cbef9579
+ 19x.14          2097152 e916967c
+ 19x.16          2097152 6e75f3db
+ 19x.18          2097152 2213e798
+ 19x.20          2097152 ab9d5b96
+ 19xu.03          524288 05955268
+ 19xu.04          524288 3111ab7f
+ 19xu.05          524288 38df4a63
+ 19xu.06          524288 5c7e60d3
+ 19x.07           524288 61c0296c
+ 19xux.03         524288 239a08ae
+ 19xux.04         524288 c13a1072
+ 19xux.05         524288 8c066ec3
+ 19xux.06         524288 4b1caeb9
+ 19x.01           131072 ef55195e
+ 19x.11          2097152 d38beef3
+ 19x.12          2097152 d47c96e2
+
+19XX: The War Against Destiny (Japan 951207)
+19xxjr1.zip
+You must also have 19xx.zip to play this game
+
+ ROM                SIZE    CRC32
+ 19xj.03          524288 26a381ed
+ 19xj.04          524288 30100cca
+ 19xj.05          524288 de67e938
+ 19xj.06          524288 39f9a409
+ 19xjx.03         524288 782b4258
+ 19xjx.04         524288 11125b05
+ 19xjx.05         524288 d4478468
+ 19xjx.06         524288 2e9b6a63
+
+19XX: The War Against Destiny (Hispanic 951218)
+19xxh.zip
+You must also have 19xx.zip to play this game
+
+ ROM                SIZE    CRC32
+ 19xh.03a         524288 357be2ac
+ 19xh.04a         524288 bb13ea3b
+ 19xh.05a         524288 cbd76601
+ 19xh.06a         524288 b362de8b
+ 19xhx.03a        524288 374ce871
+ 19xhx.04a        524288 ebd16e33
+ 19xhx.05a        524288 0bb5ad27
+ 19xhx.06a        524288 3663c8d2
+
+-------------------------------------------
+
+Alien vs. Predator (Euro 940520)
+avsp.zip
+
+ ROM                SIZE    CRC32
+ avp.13          2097152 8f8b5ae4
+ avp.15          2097152 b00280df
+ avp.17          2097152 94403195
+ avp.19          2097152 e1981245
+ avp.14          2097152 ebba093e
+ avp.16          2097152 fb228297
+ avp.18          2097152 34fb7232
+ avp.20          2097152 f90baa21
+ avpe.03d         524288 774334a9
+ avpe.04d         524288 7fa83769
+ avp.05d          524288 fbfb5d7a
+ avp.06           524288 190b817f
+ avpex.03d        524288 73dd740e
+ avpex.04d        524288 185f8c43
+ avp.01           131072 2d3b4220
+ avp.11          2097152 83499817
+ avp.12          2097152 f4110d49
+
+Alien vs. Predator (US 940520)
+avspu.zip
+You must also have avsp.zip to play this game
+
+ ROM                SIZE    CRC32
+ avpu.03d         524288 42757950
+ avpu.04d         524288 5abcdee6
+ avpux.03d        524288 d5b01046
+ avpux.04d        524288 94bd7603
+
+Alien vs. Predator (Japan 940520)
+avspj.zip
+You must also have avsp.zip to play this game
+
+ ROM                SIZE    CRC32
+ avpj.03d         524288 49799119
+ avpj.04d         524288 8cd2bba8
+ avpjx.03d        524288 94095fb0
+ avpjx.04d        524288 a56b00ae
+
+Armored Warriors (Euro 941011)
+armwarr1.zip
+You must also have armwar.zip to play this game
+
+ ROM                SIZE    CRC32
+ pwge.03b         524288 e822e3e9
+ pwge.04b         524288 4f89de39
+ pwge.05a         524288 83df24e5
+ pwg.09           524288 ddc85ca6
+ pwgex.03b        524288 741fc2b0
+ pwgex.04b        524288 5bb96a5d
+
+Armored Warriors (US 941024)
+armwaru.zip
+You must also have armwar.zip to play this game
+
+ ROM                SIZE    CRC32
+ pwgu.03b         524288 8b95497a
+ pwgu.04b         524288 29eb5661
+ pwgu.05b         524288 a54e9e44
+ pwgux.03b        524288 5d41ddde
+ pwgux.04b        524288 4d0619f3
+
+Powered Gear: S.V.A.E. (Japan 941024)
+pgear.zip
+You must also have armwar.zip to play this game
+
+ ROM                SIZE    CRC32
+ pwgj.03a         524288 c79c0c02
+ pwgj.04a         524288 167c6ed8
+ pwgj.05a         524288 a63fb400
+ pwgjx.03a        524288 cf0284a9
+ pwgjx.04a        524288 99437cf1
+
+Powered Gear: S.V.A.E. (Japan 940916)
+pgearr1.zip
+You must also have armwar.zip to play this game
+
+ ROM                SIZE    CRC32
+ pwgj.03          524288 f264e74b
+ pwgj.04          524288 23a84983
+ pwgj.05          524288 bef58c62
+ pwg.09           524288 ddc85ca6
+ pwgjx.03         524288 ebd9e371
+ pwgjx.04         524288 e05a4756
+
+-------------------------------------------
+
+Battle Circuit (Euro 970319)
+batcir.zip
+
+ ROM                SIZE    CRC32
+ btc.13          4194304 dc705bad
+ btc.15          4194304 e5779a3c
+ btc.17          4194304 b33f4112
+ btc.19          4194304 a6fcdb7e
+ btce.03          524288 bc60484b
+ btce.04          524288 457d55f6
+ btce.05          524288 e86560d7
+ btce.06          524288 f778e61b
+ btc.07           524288 7322d5db
+ btc.08           524288 6aac85ab
+ btc.09           524288 1203db08
+ btcex.03         524288 2d193cd0
+ btcex.04         524288 a3895d8b
+ btcex.05         524288 bdbed16f
+ btcex.06         524288 02048217
+ btc.01           131072 1e194310
+ btc.02           131072 01aeb8e6
+ btc.11          2097152 c27f2229
+ btc.12          2097152 418a2e33
+
+Battle Circuit (Japan 970319)
+batcirj.zip
+You must also have batcir.zip to play this game
+
+ ROM                SIZE    CRC32
+ btcj.03          524288 6b7e168d
+ btcj.04          524288 46ba3467
+ btcj.05          524288 0e23a859
+ btcj.06          524288 a853b59c
+ btcjx.03         524288 01482d08
+ btcjx.04         524288 3d4c976b
+ btcjx.05         524288 5bf819e1
+ btcjx.06         524288 5d2fd190
+
+-------------------------------------------
+
+Capcom Sports Club (Euro 970722)
+csclub.zip
+
+ ROM                SIZE    CRC32
+ csc.14          2097152 e8904afa
+ csc.16          2097152 c98c8079
+ csc.18          2097152 c030df5a
+ csc.20          2097152 b4e55863
+ csce.03          524288 f2c852ef
+ csce.04          524288 1184530f
+ csce.05          524288 804e2b6b
+ csce.06          524288 09277cb9
+ csc.07           524288 01b05caa
+ cscex.03         524288 305fce70
+ cscex.04         524288 d11da066
+ cscex.05         524288 410c6220
+ cscex.06         524288 eaf70123
+ csc.01           131072 ee162111
+ csc.11          2097152 a027b827
+ csc.12          2097152 cb7f6e55
+
+Capcom Sports Club (Asia 970722)
+cscluba.zip
+You must also have csclub.zip to play this game
+
+ ROM                SIZE    CRC32
+ csca.03          524288 b6acd708
+ csca.04          524288 d44ae35f
+ csca.05          524288 8da76aec
+ csca.06          524288 a1b7b1ee
+ cscax.03         524288 9f95b1e1
+ cscax.04         524288 08e85ab2
+ cscax.05         524288 1b2fae1d
+ cscax.06         524288 9e548ba8
+
+Capcom Sports Club (Japan 970722)
+csclubj.zip
+You must also have csclub.zip to play this game
+
+ ROM                SIZE    CRC32
+ cscj.03          524288 ec4ddaa2
+ cscj.04          524288 60c632bb
+ cscj.05          524288 ad042003
+ cscj.06          524288 169e4d40
+ cscjx.03         524288 2de1d45d
+ cscjx.04         524288 81b25d76
+ cscjx.05         524288 5adb1c93
+ cscjx.06         524288 f5558f79
+
+-------------------------------------------
+
+Cyberbots: Fullmetal Madness (US 950424)
+cybots.zip
+
+ ROM                SIZE    CRC32
+ cyb.13          4194304 f0dce192
+ cyb.15          4194304 187aa39c
+ cyb.17          4194304 8a0e4b12
+ cyb.19          4194304 34b62612
+ cyb.14          4194304 c1537957
+ cyb.16          4194304 15349e86
+ cyb.18          4194304 d83e977d
+ cyb.20          4194304 77cdad5c
+ cybu.03          524288 db4da8f4
+ cybu.04          524288 1eec68ac
+ cyb.05           524288 ec40408e
+ cyb.06           524288 1ad0bed2
+ cyb.07           524288 6245a39a
+ cyb.08           524288 4b48e223
+ cyb.09           524288 e15238f6
+ cyb.10           524288 75f4003b
+ cybux.03         524288 4b4f5b32
+ cybux.04         524288 6615a7e9
+ cyb.01           131072 9c0fb079
+ cyb.02           131072 51cb0c4e
+ cyb.11          2097152 362ccab2
+ cyb.12          2097152 7066e9cc
+
+Cyberbots: Fullmetal Madness (Japan 950420)
+cybotsj.zip
+You must also have cybots.zip to play this game
+
+ ROM                SIZE    CRC32
+ cybj.03          524288 6096eada
+ cybj.04          524288 7b0ffaa9
+ cybjx.03         524288 867c9acd
+ cybjx.04         524288 57ed677f
+
+-------------------------------------------
+
+Darkstalkers: The Night Warriors (Euro 940705)
+dstlk.zip
+
+ ROM                SIZE    CRC32
+ vam.13          4194304 c51baf99
+ vam.15          4194304 3ce83c77
+ vam.17          4194304 4f2408e0
+ vam.19          4194304 9ff60250
+ vam.14          1048576 bd87243c
+ vam.16          1048576 afec855f
+ vam.18          1048576 3a033625
+ vam.20          1048576 2bff6a89
+ vame.03a         524288 004c9cff
+ vame.04a         524288 ae413ff2
+ vame.05a         524288 60678756
+ vame.06a         524288 912870b3
+ vame.07a         524288 dabae3e8
+ vame.08a         524288 2c6e3077
+ vame.09a         524288 f16db74b
+ vame.10a         524288 701e2147
+ vamex.03a        524288 2d1e4919
+ vamex.04a        524288 e5172837
+ vam.01           131072 64b685d5
+ vam.02           131072 cf7c97c7
+ vam.11          2097152 4a39deb2
+ vam.12          2097152 1a3e5c03
+
+Darkstalkers: The Night Warriors (US 940818)
+dstlku.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vamu.03b         524288 68a6343f
+ vamu.04b         524288 58161453
+ vamu.05b         524288 dfc038b8
+ vamu.06b         524288 c3842c89
+ vamu.07b         524288 25b60b6e
+ vamu.08b         524288 2113c596
+ vamu.09b         524288 2d1e9ae5
+ vamu.10b         524288 81145622
+ vamux.03b        524288 15ff2d3e
+ vamux.04b        524288 4cf62f1b
+
+Darkstalkers: The Night Warriors (US 940705)
+dstlkur1.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vamu.03a         524288 628899f9
+ vamu.04a         524288 696d9b25
+ vamu.05a         524288 673ed50a
+ vamu.06a         524288 f2377be7
+ vamu.07a         524288 d8f498c4
+ vamu.08a         524288 e6a8a1a0
+ vamu.09a         524288 8dd55b24
+ vamu.10a         524288 c1a3d9be
+ vamux.03a        524288 db0837f5
+ vamux.04a        524288 8a924055
+
+Darkstalkers: The Night Warriors (Asia 940705)
+dstlka.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vama.03a         524288 294e0bec
+ vama.04a         524288 bc18e128
+ vama.05a         524288 e709fa59
+ vama.06a         524288 55e4d387
+ vama.07a         524288 24e8f981
+ vama.08a         524288 743f3a8e
+ vama.09a         524288 67fa5573
+ vama.10a         524288 5e03d747
+ vamax.03a        524288 9b7d6254
+ vamax.04a        524288 d9ec3a82
+
+Vampire: The Night Warriors (Japan 940705)
+vampj.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vamj.03a         524288 f55d3722
+ vamj.04b         524288 4d9c43c4
+ vamj.05a         524288 6c497e92
+ vamj.06a         524288 f1bbecb6
+ vamj.07a         524288 1067ad84
+ vamj.08a         524288 4b89f41f
+ vamj.09a         524288 fc0a4aac
+ vamj.10a         524288 9270c26b
+ vamjx.03a        524288 2549f7bc
+ vamjx.04b        524288 bb5a30a5
+
+Vampire: The Night Warriors (Japan 940705 alt)
+vampja.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vamj.03a         524288 f55d3722
+ vamj.04a         524288 fdcbdae3
+ vamj.05a         524288 6c497e92
+ vamj.06a         524288 f1bbecb6
+ vamj.07a         524288 1067ad84
+ vamj.08a         524288 4b89f41f
+ vamj.09a         524288 fc0a4aac
+ vamj.10a         524288 9270c26b
+ vamjx.03a        524288 2549f7bc
+ vamjx.04a        524288 fe64a5cf
+
+Vampire: The Night Warriors (Japan 940630)
+vampjr1.zip
+You must also have dstlk.zip to play this game
+
+ ROM                SIZE    CRC32
+ vamj.03          524288 8895bf77
+ vamj.04          524288 5027db3d
+ vamj.05          524288 97c66fdb
+ vamj.06          524288 9b4c3426
+ vamj.07          524288 303bc4fd
+ vamj.08          524288 3dea3646
+ vamj.09          524288 c119a827
+ vamj.10          524288 46593b79
+ vamjx.03         524288 f6fe646a
+ vamjx.04         524288 566014e5
+
+-------------------------------------------
+
+Dimahoo (US 000121)
+dimahoo.zip
+
+ ROM                SIZE    CRC32
+ gmdu.03          524288 43bcb15f
+ gmd.04           524288 37485567
+ gmd.05           524288 da269ffb
+ gmd.06           524288 55b483c9
+ gmdux.03         524288 9f820809
+ gmd.13          4194304 80dd19f0
+ gmd.15          4194304 dfd93a78
+ gmd.17          4194304 16356520
+ gmd.19          4194304 dfc33031
+ gmd.01           131072 3f9bc985
+ gmd.02           131072 3fd39dde
+ gmd.11          4194304 06a65542
+ gmd.12          4194304 50bc7a31
+
+Great Mahou Daisakusen (Japan 000121)
+gmahou.zip
+You must also have dimahoo.zip to play this game
+
+ ROM                SIZE    CRC32
+ gmdj.03          524288 cd6979e3
+ gmdjx.03         524288 c0c8fd1e
+
+-------------------------------------------
+
+Dungeons and Dragons: Tower of Doom (Euro 940412)
+ddtod.zip
+
+ ROM                SIZE    CRC32
+ dade.03c         524288 8e73533d
+ dade.04c         524288 00c2e82e
+ dade.05c         524288 ea996008
+ dade.06a         524288 6225495a
+ dade.07a         524288 b3480ec3
+ dadex.03c        524288 7b8b9b2c
+ dadex.04c        524288 370626d3
+ dadex.05c        524288 5fd29e95
+ dad.13          2097152 da3cb7d6
+ dad.15          2097152 92b63172
+ dad.17          2097152 b98757f5
+ dad.19          2097152 8121ce46
+ dad.14          1048576 837e6f3f
+ dad.16          1048576 f0916bdb
+ dad.18          1048576 cef393ef
+ dad.20          1048576 8953fe9e
+ dad.01           131072 3f5e2424
+ dad.11          2097152 0c499b67
+ dad.12          2097152 2f0b5a4e
+
+Dungeons and Dragons: Tower of Doom (US 940125)
+ddtodu.zip
+You must also have ddtod.zip to play this game
+
+ ROM                SIZE    CRC32
+ dadu.03b         524288 a519905f
+ dadu.04b         524288 52562d38
+ dadu.05b         524288 ee1cfbfe
+ dad.06           524288 13aa3e56
+ dad.07           524288 431cb6dd
+ dadux.03b        524288 f59ee70c
+ dadux.04b        524288 622628ae
+ dadux.05b        524288 424bd6e3
+
+Dungeons and Dragons: Tower of Doom (US 940113)
+ddtodur1.zip
+You must also have ddtod.zip to play this game
+
+ ROM                SIZE    CRC32
+ dadu.03a         524288 4413f177
+ dadu.04a         524288 168de230
+ dadu.05a         524288 03d39e91
+ dad.06           524288 13aa3e56
+ dad.07           524288 431cb6dd
+ dadux.03a        524288 f9ba14b6
+ dadux.04a        524288 ed85ec29
+ dadux.05a        524288 dbae3d1b
+
+Dungeons and Dragons: Tower of Doom (Japan 940113)
+ddtodj.zip
+You must also have ddtod.zip to play this game
+
+ ROM                SIZE    CRC32
+ dadj.03a         524288 711638dc
+ dadj.04a         524288 4869639c
+ dadj.05a         524288 484c0efa
+ dad.06           524288 13aa3e56
+ dad.07           524288 431cb6dd
+ dadjx.03a        524288 4c7334d3
+ dadjx.04a        524288 cfd15109
+ dadjx.05a        524288 d23bcd71
+
+Dungeons and Dragons: Tower of Doom (Hispanic 940125)
+ddtodh.zip
+You must also have ddtod.zip to play this game
+
+ ROM                SIZE    CRC32
+ dadh.03b         524288 ae0cb98e
+ dadh.04b         524288 b5774363
+ dadh.05b         524288 6ce2a485
+ dad.06           524288 13aa3e56
+ dad.07           524288 431cb6dd
+ dadhx.03b        524288 b9a16065
+ dadhx.04b        524288 6b0d5086
+ dadhx.05b        524288 e01ee2b2
+
+-------------------------------------------
+
+Dungeons and Dragons: Shadow over Mystara (Euro 960619)
+ddsom.zip
+
+ ROM                SIZE    CRC32
+ dd2e.03e         524288 449361af
+ dd2e.04e         524288 5b7052b6
+ dd2e.05e         524288 788d5f60
+ dd2e.06e         524288 e0807e1e
+ dd2e.07          524288 bb777a02
+ dd2e.08          524288 30970890
+ dd2e.09          524288 99e2194d
+ dd2e.10          524288 e198805e
+ dd2ex.03e        524288 bdbc9b38
+ dd2ex.04e        524288 24d1be86
+ dd2.13          4194304 a46b4e6e
+ dd2.15          4194304 d5fc50fc
+ dd2.17          4194304 837c0867
+ dd2.19          4194304 bb0ec21c
+ dd2.14          2097152 6d824ce2
+ dd2.16          2097152 79682ae5
+ dd2.18          2097152 acddd149
+ dd2.20          2097152 117fb0c0
+ dd2.01           131072 99d657e5
+ dd2.02           131072 117a3824
+ dd2.11          2097152 98d0c325
+ dd2.12          2097152 5ea2e7fa
+
+Dungeons and Dragons: Shadow over Mystara (Euro 960209)
+ddsomr1.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2e.03b         524288 cd2deb66
+ dd2e.04d         524288 bfee43cc
+ dd2e.05b         524288 049ab19d
+ dd2e.06d         524288 3994fb8b
+ dd2ex.03b        524288 e4924c80
+ dd2ex.04d        524288 13c8b16f
+
+Dungeons and Dragons: Shadow over Mystara (US 960619)
+ddsomu.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2u.03g         524288 fb089b39
+ dd2u.04g         524288 cd432b73
+ dd2.05g          524288 5eb1991c
+ dd2.06g          524288 c26b5e55
+ dd2.07           524288 909a0b8b
+ dd2.08           524288 e53c4d01
+ dd2.09           524288 5f86279f
+ dd2.10           524288 ad954c26
+ dd2ux.03g        524288 124ad51a
+ dd2ux.04g        524288 5401c248
+
+Dungeons and Dragons: Shadow over Mystara (US 960209)
+ddsomur1.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2u.03d         524288 0f700d84
+ dd2u.04d         524288 b99eb254
+ dd2.05d          524288 b23061f3
+ dd2.06d          524288 8bf1d8ce
+ dd2.07           524288 909a0b8b
+ dd2.08           524288 e53c4d01
+ dd2.09           524288 5f86279f
+ dd2.10           524288 ad954c26
+ dd2ux.03d        524288 5cecbdb3
+ dd2ux.04d        524288 1307a77d
+
+Dungeons and Dragons: Shadow over Mystara (Japan 960619)
+ddsomj.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2j.03g         524288 e6c8c985
+ dd2j.04g         524288 8386c0bd
+ dd2.05g          524288 5eb1991c
+ dd2.06g          524288 c26b5e55
+ dd2.07           524288 909a0b8b
+ dd2.08           524288 e53c4d01
+ dd2.09           524288 5f86279f
+ dd2.10           524288 ad954c26
+ dd2jx.03g        524288 f6abe885
+ dd2jx.04g        524288 3abd7f79
+
+Dungeons and Dragons: Shadow over Mystara (Japan 960206)
+ddsomjr1.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2j.03b         524288 965d74e5
+ dd2j.04b         524288 958eb8f3
+ dd2.05b          524288 d38571ca
+ dd2.06b          524288 6d5a3bbb
+ dd2.07           524288 909a0b8b
+ dd2.08           524288 e53c4d01
+ dd2.09           524288 5f86279f
+ dd2.10           524288 ad954c26
+ dd2jx.03b        524288 a63488bb
+ dd2jx.04b        524288 e3ff7985
+
+Dungeons and Dragons: Shadow over Mystara (Asia 960619)
+ddsoma.zip
+You must also have ddsom.zip to play this game
+
+ ROM                SIZE    CRC32
+ dd2a.03g         524288 0b4fec22
+ dd2a.04g         524288 055b7019
+ dd2.05g          524288 5eb1991c
+ dd2.06g          524288 c26b5e55
+ dd2.07           524288 909a0b8b
+ dd2.08           524288 e53c4d01
+ dd2.09           524288 5f86279f
+ dd2.10           524288 ad954c26
+ dd2ax.03g        524288 3eacb6c3
+ dd2ax.04g        524288 2afaa486
+
+-------------------------------------------
+
+Eco Fighters (World 931203)
+ecofghtr.zip
+
+ ROM                SIZE    CRC32
+ uec.13          2097152 dcaf1436
+ uec.15          2097152 2807df41
+ uec.17          2097152 8a708d02
+ uec.19          2097152 de7be0ef
+ uec.14          1048576 1a003558
+ uec.16          1048576 4ff8a6f9
+ uec.18          1048576 b167ae12
+ uec.20          1048576 1064bdc2
+ uece.03          524288 ec2c1137
+ uece.04          524288 b35f99db
+ uece.05          524288 d9d42d31
+ uece.06          524288 9d9771cf
+ uecex.03         524288 e0ff3d51
+ uecex.04         524288 b9f998e8
+ uecex.05         524288 12410260
+ uecex.06         524288 d5b4b1a2
+ uec.01           131072 c235bd15
+ uec.11          2097152 81b25d39
+ uec.12          2097152 27729e52
+
+-------------------------------------------
+
+Giga Wing (US 990222)
+gigawing.zip
+
+ ROM                SIZE    CRC32
+ ggwu.03          524288 ac725eb2
+ ggwu.04          524288 392f4118
+ ggwu.05          524288 3239d642
+ ggwux.03         524288 2f18fd96
+ ggwux.04         524288 7be82def
+ ggw.13          4194304 105530a4
+ ggw.15          4194304 9e774ab9
+ ggw.17          4194304 466e0ba4
+ ggw.19          4194304 840c8dea
+ ggw.01           131072 4c6351d5
+ ggw.11          4194304 e172acf5
+ ggw.12          4194304 4bee4e8f
+
+Giga Wing (Japan 990223)
+gwingj.zip
+You must also have gigawing.zip to play this game
+
+ ROM                SIZE    CRC32
+ ggwj.03a         524288 fdd23b91
+ ggwj.04a         524288 8c6e093c
+ ggwj.05a         524288 43811454
+ ggwjx.03a        524288 deb45124
+ ggwjx.04a        524288 8b981d04
+
+-------------------------------------------
+
+Mars Matrix: Hyper Solid Shooting (US 000412)
+mmatrix.zip
+
+ ROM                SIZE    CRC32
+ mmxu.03          524288 ab65b599
+ mmxu.04          524288 0135fc6c
+ mmxu.05          524288 f1fd2b84
+ mmxux.03         524288 7868ae77
+ mmxux.04         524288 a5ee6d07
+ mmxux.05         524288 b07745ff
+ mmx.13          4194304 04748718
+ mmx.15          4194304 38074f44
+ mmx.17          4194304 e4635e35
+ mmx.19          4194304 4400a3f2
+ mmx.14          4194304 d52bf491
+ mmx.16          4194304 23f70780
+ mmx.18          4194304 2562c9d5
+ mmx.20          4194304 583a9687
+ mmx.01           131072 c57e8171
+ mmx.11          4194304 4180b39f
+ mmx.12          4194304 95e22a59
+
+Mars Matrix: Hyper Solid Shooting (Japan 000412)
+mmatrixj.zip
+You must also have mmatrix.zip to play this game
+
+ ROM                SIZE    CRC32
+ mmxj.03          524288 1d5de213
+ mmxj.04          524288 d943a339
+ mmxj.05          524288 0c8b4abb
+ mmxjx.03         524288 4ca1424f
+ mmxjx.04         524288 61b9b2a1
+ mmxjx.05         524288 bdd304cf
+
+Marvel Super Heroes (US 951024)
+mshu.zip
+You must also have msh.zip to play this game
+
+ ROM                SIZE    CRC32
+ mshu.03          524288 d2805bdd
+ mshu.04          524288 743f96ff
+ mshux.03         524288 10bfc357
+ mshux.04         524288 871f0863
+
+Marvel Super Heroes (Hispanic 951117)
+mshh.zip
+You must also have msh.zip to play this game
+
+ ROM                SIZE    CRC32
+ mshh.03c         524288 8d84b0fa
+ mshh.04c         524288 d638f601
+ msh.05a          524288 f37539e6
+ mshhx.03c        524288 6daf52bb
+ mshhx.04c        524288 5684655a
+
+Marvel Super Heroes (Japan 951024)
+mshj.zip
+You must also have msh.zip to play this game
+
+ ROM                SIZE    CRC32
+ mshj.03f         524288 ff172fd2
+ mshj.04f         524288 ebbb205a
+ mshjx.03f        524288 a15f32f2
+ mshjx.04f        524288 c81be228
+
+Marvel Super Heroes (Asia 951024)
+msha.zip
+You must also have msh.zip to play this game
+
+ ROM                SIZE    CRC32
+ msha.03e         524288 ec84ec44
+ msha.04e         524288 098b8503
+ mshax.03e        524288 7423947b
+ mshax.04e        524288 bd4a3071
+
+-------------------------------------------
+
+Marvel Super Heroes Vs. Street Fighter (US 970827)
+mshvsf.zip
+
+ ROM                SIZE    CRC32
+ mvsu.03g         524288 0664ab15
+ mvsu.04g         524288 97e060ee
+ mvs.05d          524288 921fc542
+ mvs.06a          524288 959f3030
+ mvs.07b          524288 7f915bdb
+ mvs.08a          524288 c2813884
+ mvs.09b          524288 3ba08818
+ mvs.10b          524288 cf0dba98
+ mvsux.03g        524288 17b12a95
+ mvsux.04g        524288 f98200cf
+ mvs.13          4194304 29b05fd9
+ mvs.15          4194304 faddccf1
+ mvs.17          4194304 97aaf4c7
+ mvs.19          4194304 cb70e915
+ mvs.14          4194304 b3b1972d
+ mvs.16          4194304 08aadb5d
+ mvs.18          4194304 c1228b35
+ mvs.20          4194304 366cc6c2
+ mvs.01           131072 68252324
+ mvs.02           131072 b34e773d
+ mvs.11          4194304 86219770
+ mvs.12          4194304 f2fd7f68
+
+Marvel Super Heroes Vs. Street Fighter (US 970625)
+mshvsfu1.zip
+You must also have mshvsf.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvsu.03d         524288 ae60a66a
+ mvsu.04d         524288 91f67d8a
+ mvs.05a          524288 1a5de0cb
+ mvsux.03d        524288 281bcb48
+ mvsux.04d        524288 a2d68628
+
+Marvel Super Heroes Vs. Street Fighter (Japan 970707)
+mshvsfj.zip
+You must also have mshvsf.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvsj.03i         524288 d8cbb691
+ mvsj.04i         524288 32741ace
+ mvs.05h          524288 77870dc3
+ mvsjx.03i        524288 55170c4c
+ mvsjx.04i        524288 e7883768
+
+Marvel Super Heroes Vs. Street Fighter (Japan 970702)
+mshvsfj1.zip
+You must also have mshvsf.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvsj.03h         524288 fbe2115f
+ mvsj.04h         524288 b528a367
+ mvs.05g          524288 9515a245
+ mvsjx.03h        524288 6b4201c1
+ mvsjx.04h        524288 ab1b04cc
+
+-------------------------------------------
+
+Marvel Vs. Capcom: Clash of Super Heroes (US 980123)
+mvsc.zip
+
+ ROM                SIZE    CRC32
+ mvcu.03d         524288 c6007557
+ mvcu.04d         524288 724b2b20
+ mvc.05a          524288 2d8c8e86
+ mvc.06a          524288 8528e1f5
+ mvc.07           524288 c3baa32b
+ mvc.08           524288 bc002fcd
+ mvc.09           524288 c67b26df
+ mvc.10           524288 0fdd1e26
+ mvcux.03d        524288 86685cbf
+ mvcux.04d        524288 438ba92b
+ mvc.13          4194304 fa5f74bc
+ mvc.15          4194304 71938a8f
+ mvc.17          4194304 92741d07
+ mvc.19          4194304 bcb72fc6
+ mvc.14          4194304 7f1df4e4
+ mvc.16          4194304 90bd3203
+ mvc.18          4194304 67aaf727
+ mvc.20          4194304 8b0bade8
+ mvc.01           131072 41629e95
+ mvc.02           131072 963abf6b
+ mvc.11          4194304 850fe663
+ mvc.12          4194304 7ccb1896
+
+Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123)
+mvscj.zip
+You must also have mvsc.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvcj.03a         524288 3df18879
+ mvcj.04a         524288 07d212e8
+ mvcjx.03a        524288 e696a098
+ mvcjx.04a        524288 7faeee82
+
+Marvel Vs. Capcom: Clash of Super Heroes (Japan 980112)
+mvscjr1.zip
+You must also have mvsc.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvcj.03          524288 2164213f
+ mvcj.04          524288 c905c86f
+ mvc.05           524288 7db71ce9
+ mvc.06           524288 4b0b6d3e
+ mvcjx.03         524288 cc94ab89
+ mvcjx.04         524288 c5a83202
+
+Marvel Vs. Capcom: Clash of Super Heroes (Asia 980112)
+mvsca.zip
+You must also have mvsc.zip to play this game
+
+ ROM                SIZE    CRC32
+ mvca.03          524288 fe5fa7b9
+ mvca.04          524288 082b701c
+ mvc.05           524288 7db71ce9
+ mvc.06           524288 4b0b6d3e
+ mvcax.03         524288 4512a6af
+ mvcax.04         524288 e6f537d2
+
+-------------------------------------------
+
+Mighty! Pang (Japan 001011)
+mpangj.zip
+
+ ROM                SIZE    CRC32
+ mpnj.03a         524288 bf597b1c
+ mpnj.04a         524288 f4a3ab0f
+ mpnjx.03a        524288 eccaf0cc
+ mpnjx.04a        524288 34ac83f8
+ mpn-sim.01c     2097152 388db66b
+ mpn-sim.01d     2097152 aff1b494
+ mpn-sim.01a     2097152 a9c4857b
+ mpn-sim.01b     2097152 f759df22
+ mpn-sim.03c     2097152 dec6b720
+ mpn-sim.03d     2097152 f8774c18
+ mpn-sim.03a     2097152 c2aea4ec
+ mpn-sim.03b     2097152 84d6dc33
+ mpn.01           131072 90c7adb6
+ mpn-sim.05a     2097152 318a2e21
+ mpn-sim.05b     2097152 5462f4e8
+
+-------------------------------------------
+
+Night Warriors: Darkstalkers Revenge (US 950406)
+nwarr.zip
+
+ ROM                SIZE    CRC32
+ vphu.03f         524288 85d6a359
+ vphu.04c         524288 cb7fce77
+ vphu.05e         524288 e08f2bba
+ vphu.06c         524288 08c04cdb
+ vphu.07b         524288 b5a5ab19
+ vphu.08b         524288 51bb20fb
+ vphu.09b         524288 41a64205
+ vphu.10b         524288 2b1d43ae
+ vphux.03f        524288 d1c35094
+ vphux.04c        524288 48b01f4e
+ vphux.05e        524288 0147c2a5
+ vph.13          4194304 c51baf99
+ vph.15          4194304 3ce83c77
+ vph.17          4194304 4f2408e0
+ vph.19          4194304 9ff60250
+ vph.14          4194304 7a0e1add
+ vph.16          4194304 2f41ca75
+ vph.18          4194304 64498eed
+ vph.20          4194304 17f2433f
+ vph.01           131072 5045dcac
+ vph.02           131072 86b60e59
+ vph.11          2097152 e1837d33
+ vph.12          2097152 fbd3cd90
+
+Vampire Hunter: Darkstalkers Revenge (Japan 950316)
+vhuntj.zip
+You must also have nwarr.zip to play this game
+
+ ROM                SIZE    CRC32
+ vphj.03f         524288 3de2e333
+ vphj.04c         524288 c95cf304
+ vphj.05d         524288 50de5ddd
+ vphj.06c         524288 ac3bd3d5
+ vphj.07b         524288 0761309f
+ vphj.08b         524288 5a5c2bf5
+ vphj.09b         524288 823d6d99
+ vphj.10b         524288 32c7d8f0
+ vphjx.03f        524288 dde66666
+ vphjx.04c        524288 2dfed55f
+ vphjx.05d        524288 56c18710
+
+Vampire Hunter: Darkstalkers Revenge (Japan 950302)
+vhuntjr1.zip
+You must also have nwarr.zip to play this game
+
+ ROM                SIZE    CRC32
+ vphj.03b         524288 679c3fa9
+ vphj.04a         524288 eb6e71e4
+ vphj.05a         524288 eaf634ea
+ vphj.06a         524288 b70cc6be
+ vphj.07a         524288 46ab907d
+ vphj.08a         524288 1c00355e
+ vphj.09a         524288 026e6f82
+ vphj.10a         524288 aadfb3ea
+ vphjx.03b        524288 b3c43690
+ vphjx.04a        524288 22ff1003
+ vphjx.05a        524288 c35b50cb
+
+-------------------------------------------
+
+Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 960826)
+qndream.zip
+
+ ROM                SIZE    CRC32
+ tqz.14          2097152 98af88a2
+ tqz.16          2097152 df82d491
+ tqz.18          2097152 42f132ff
+ tqz.20          2097152 b2e128a3
+ tqzj.03a         524288 7acf3e30
+ tqzj.04          524288 f1044a87
+ tqzj.05          524288 4105ba0e
+ tqzj.06          524288 c371e8a5
+ tqzjx.03a        524288 5804a8f8
+ tqz.01           131072 e9ce9d0a
+ tqz.11          2097152 78e7884f
+ tqz.12          2097152 2e049b13
+
+-------------------------------------------
+
+Ring of Destruction: Slammasters II (Euro 940902)
+ringdest.zip
+
+ ROM                SIZE    CRC32
+ smb.13          2097152 d9b2d1de
+ smb.15          2097152 9a766d92
+ smb.17          2097152 51800f0f
+ smb.19          2097152 35757e96
+ smb.14          2097152 e5bfd0e7
+ smb.16          2097152 c56c0866
+ smb.18          2097152 4ded3910
+ smb.20          2097152 26ea1ec5
+ smb.21           524288 0a08c5fc
+ smb.23           524288 0911b6c4
+ smb.25           524288 82d6c4ec
+ smb.27           524288 9b48678b
+ smbe.03b         524288 b8016278
+ smbe.04b         524288 18c4c447
+ smbe.05b         524288 18ebda7f
+ smbe.06b         524288 89c80007
+ smb.07           524288 b9a11577
+ smb.08           524288 f931b76b
+ smbex.03b        524288 3b1457bd
+ smbex.04b        524288 6299eb4e
+ smbex.05b        524288 be4a84d1
+ smb.01           131072 0abc229a
+ smb.02           131072 d051679a
+ smb.11          2097152 c56935f9
+ smb.12          2097152 955b0782
+
+Super Muscle Bomber: The International Blowout (Japan 940831)
+smbomb.zip
+You must also have ringdest.zip to play this game
+
+ ROM                SIZE    CRC32
+ smbj.03a         524288 1c5613de
+ smbj.04a         524288 29071ed7
+ smbj.05a         524288 eb20bce4
+ smbj.06a         524288 94b420cd
+ smbjx.03a        524288 3600f8d8
+ smbjx.04a        524288 6d0f1b81
+ smbjx.05a        524288 97f5b4af
+
+Super Muscle Bomber: The International Blowout (Japan 940808)
+smbombr1.zip
+You must also have ringdest.zip to play this game
+
+ ROM                SIZE    CRC32
+ smbj.03          524288 52eafb10
+ smbj.04          524288 aa6e8078
+ smbj.05          524288 b69e7d5f
+ smbj.06          524288 8d857b56
+ smbjx.03         524288 b0b67439
+ smbjx.04         524288 a012f690
+ smbjx.05         524288 f6e886d0
+
+-------------------------------------------
+
+Mega Man 2: The Power Fighters (US 960708)
+megaman2.zip
+
+ ROM                SIZE    CRC32
+ rm2u.03          524288 8ffc2cd1
+ rm2u.04          524288 bb30083a
+ rm2.05           524288 02ee9efc
+ rm2ux.03         524288 93e28bde
+ rm2ux.04         524288 74ebf83c
+ rm2.14          2097152 9b1f00b4
+ rm2.16          2097152 c2bb0c24
+ rm2.18          2097152 12257251
+ rm2.20          2097152 f9b6e786
+ rm2.01a          131072 d18e7859
+ rm2.02           131072 c463ece0
+ rm2.11          2097152 2106174d
+ rm2.12          2097152 546c1636
+
+Rockman 2: The Power Fighters (Japan 960708)
+rckman2j.zip
+You must also have megaman2.zip to play this game
+
+ ROM                SIZE    CRC32
+ rm2j.03          524288 dbaa1437
+ rm2j.04          524288 cf5ba612
+ rm2jx.03         524288 2c297750
+ rm2jx.04         524288 676a116e
+
+-------------------------------------------
+
+Street Fighter Alpha: Warriors' Dreams (Euro 950727)
+sfa.zip
+
+ ROM                SIZE    CRC32
+ sfz.14          2097152 90fefdb3
+ sfz.16          2097152 5354c948
+ sfz.18          2097152 41a1e790
+ sfz.20          2097152 a549df98
+ sfze.03b         524288 ebf2054d
+ sfz.04b          524288 8b73b0e5
+ sfz.05a          524288 0810544d
+ sfz.06           524288 806e8f38
+ sfzex.03b        524288 505a1b4a
+ sfz.01           131072 ffffec7d
+ sfz.02           131072 45f46a08
+ sfz.11          2097152 c4b093cd
+ sfz.12          2097152 8bdbc4b4
+
+Street Fighter Alpha: Warriors' Dreams (Euro 950718)
+sfar1.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfze.03c         524288 a1b69dd7
+ sfze.04b         524288 bb90acd5
+ sfzex.03c        524288 818f6bde
+
+Street Fighter Alpha: Warriors' Dreams (Euro 950605)
+sfar2.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfze.03a         524288 fdbcd434
+ sfz.04           524288 0c436d30
+ sfz.05           524288 1f363612
+ sfzex.03a        524288 b50d87c7
+
+Street Fighter Alpha: Warriors' Dreams (US 950627)
+sfau.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfzu.03a         524288 49fc7db9
+ sfz.04a          524288 5f99e9a5
+ sfzux.03a        524288 1a3160ed
+
+Street Fighter Zero (Japan 950727)
+sfzj.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfzj.03c         524288 f5444120
+ sfzjx.03c        524288 d6b17a9b
+
+Street Fighter Zero (Japan 950627)
+sfzjr1.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfzj.03b         524288 844220c2
+ sfz.04a          524288 5f99e9a5
+ sfzjx.03b        524288 b501f03c
+
+Street Fighter Zero (Japan 950605)
+sfzjr2.zip
+You must also have sfa.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfzj.03a         524288 3cfce93c
+ sfz.04           524288 0c436d30
+ sfz.05           524288 1f363612
+ sfzjx.03a        524288 3cc138b5
+
+-------------------------------------------
+
+Street Fighter Alpha 2 (US 960306)
+sfa2.zip
+
+ ROM                SIZE    CRC32
+ sz2.13          4194304 4d1f1f22
+ sz2.15          4194304 19cea680
+ sz2.17          4194304 e01b4588
+ sz2.19          4194304 0feeda64
+ sz2.14          1048576 0560c6aa
+ sz2.16          1048576 ae940f87
+ sz2.18          1048576 4bc3c8bc
+ sz2.20          1048576 39e674c0
+ sz2u.03          524288 84a09006
+ sz2u.04          524288 ac46e5ed
+ sz2u.05          524288 6c0c79d3
+ sz2u.06          524288 c5c8eb63
+ sz2u.07          524288 5de01cc5
+ sz2u.08          524288 bea11d56
+ sz2ux.03         524288 6bb6005f
+ sz2ux.04         524288 74308a4b
+ sz2.01a          131072 1bc323cf
+ sz2.02a          131072 ba6a5013
+ sz2.11          2097152 aa47a601
+ sz2.12          2097152 2237bc53
+
+Street Fighter Zero 2 (Japan 960227)
+sfz2j.zip
+You must also have sfa2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz2j.03a         524288 97461e28
+ sz2j.04a         524288 ae4851a9
+ sz2.05           524288 98e8e992
+ sz2.06           524288 5b1d49c0
+ sz2j.07a         524288 d910b2a2
+ sz2.08           524288 0fe8585d
+ sz2jx.03a        524288 6a765c08
+ sz2jx.04a        524288 66139273
+
+Street Fighter Zero 2 (Asia 960227)
+sfz2a.zip
+You must also have sfa2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz2a.03a         524288 30d2099f
+ sz2a.04a         524288 1cc94db1
+ sz2.05           524288 98e8e992
+ sz2.06           524288 5b1d49c0
+ sz2a.07a         524288 0aed2494
+ sz2.08           524288 0fe8585d
+ sz2ax.03a        524288 b76d8578
+ sz2ax.04a        524288 d4dc0b1e
+
+Street Fighter Zero 2 Alpha (Asia 960826)
+sfz2aa.zip
+You must also have sfa2.zip to play this game
+
+ ROM                SIZE    CRC32
+ szaa.03          524288 88e7023e
+ szaa.04          524288 ae8ec36e
+ szaa.05          524288 f053a55e
+ szaa.06          524288 cfc0e7a8
+ szaa.07          524288 5feb8b20
+ szaa.08          524288 6eb6d412
+ szaax.03         524288 a75f58bf
+ szaax.04         524288 d02351ab
+
+Street Fighter Zero 2 Alpha (Japan 960805)
+sfz2aj.zip
+You must also have sfa2.zip to play this game
+
+ ROM                SIZE    CRC32
+ szaj.03a         524288 a3802fe3
+ szaj.04a         524288 e7ca87c7
+ szaj.05a         524288 c88ebf88
+ szaj.06a         524288 35ed5b7a
+ szaj.07a         524288 975dcb3e
+ szaj.08a         524288 dc73f2d7
+ szajx.03a        524288 6d3aa71e
+ szajx.04a        524288 006d5cb8
+
+-------------------------------------------
+
+Street Fighter Alpha 3 (US 980904)
+sfa3.zip
+
+ ROM                SIZE    CRC32
+ sz3.13          4194304 0f7a60d9
+ sz3.15          4194304 8e933741
+ sz3.17          4194304 d6e98147
+ sz3.19          4194304 f31a728a
+ sz3.14          4194304 5ff98297
+ sz3.16          4194304 52b5bdee
+ sz3.18          4194304 40631ed5
+ sz3.20          4194304 763409b4
+ sz3u.03c         524288 e007da2e
+ sz3u.04c         524288 5f78f0e7
+ sz3.05c          524288 57fd0a40
+ sz3.06c          524288 f6305f8b
+ sz3.07c          524288 6eab0f6f
+ sz3.08c          524288 910c4a3b
+ sz3.09c          524288 b29e5199
+ sz3.10b          524288 deb2ff52
+ sz3ux.03c        524288 7091276b
+ sz3ux.04c        524288 83b213b1
+ sz3.01           131072 de810084
+ sz3.02           131072 72445dc4
+ sz3.11          4194304 1c89eed1
+ sz3.12          4194304 f392b13a
+
+Street Fighter Alpha 3 (US 980629)
+sfa3r1.zip
+You must also have sfa3.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz3u.03          524288 b5984a19
+ sz3u.04          524288 7e8158ba
+ sz3.05           524288 9b21518a
+ sz3.06           524288 e7a6c3a7
+ sz3.07           524288 ec4c0cfd
+ sz3.08           524288 5c7e7240
+ sz3.09           524288 c5589553
+ sz3.10           524288 a9717252
+ sz3ux.03         524288 42994875
+ sz3ux.04         524288 86ee79e3
+
+Street Fighter Zero 3 (Japan 980727)
+sfz3j.zip
+You must also have sfa3.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz3j.03a         524288 6ee0beae
+ sz3j.04a         524288 a6e2978d
+ sz3.05a          524288 05964b7d
+ sz3.06a          524288 78ce2179
+ sz3.07a          524288 398bf52f
+ sz3.08a          524288 866d0588
+ sz3.09a          524288 2180892c
+ sz3.10           524288 a9717252
+ sz3jx.03a        524288 b2f4046d
+ sz3jx.04a        524288 85c38642
+
+Street Fighter Zero 3 (Japan 980629)
+sfz3jr1.zip
+You must also have sfa3.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz3j.03          524288 f7cb4b13
+ sz3j.04          524288 0846c29d
+ sz3.05           524288 9b21518a
+ sz3.06           524288 e7a6c3a7
+ sz3.07           524288 ec4c0cfd
+ sz3.08           524288 5c7e7240
+ sz3.09           524288 c5589553
+ sz3.10           524288 a9717252
+ sz3jx.03         524288 acd88307
+ sz3jx.04         524288 2c15655b
+
+Street Fighter Zero 3 (Asia 980701)
+sfz3a.zip
+You must also have sfa3.zip to play this game
+
+ ROM                SIZE    CRC32
+ sz3a.03a         524288 29c681fd
+ sz3a.04          524288 9ddd1484
+ sz3.05           524288 9b21518a
+ sz3.06           524288 e7a6c3a7
+ sz3.07           524288 ec4c0cfd
+ sz3.08           524288 5c7e7240
+ sz3.09           524288 c5589553
+ sz3.10           524288 a9717252
+ sz3ax.03a        524288 f3ad39ac
+ sz3ax.04         524288 792527ca
+
+-------------------------------------------
+
+Super Gem Fighter: Mini Mix (US 970904)
+sgemf.zip
+
+ ROM                SIZE    CRC32
+ pcf.13          4194304 22d72ab9
+ pcf.15          4194304 16a4813c
+ pcf.17          4194304 1097e035
+ pcf.19          4194304 d362d874
+ pcf.14          1048576 0383897c
+ pcf.16          1048576 76f91084
+ pcf.18          1048576 756c3754
+ pcf.20          1048576 9ec9277d
+ pcfu.03          524288 ac2e8566
+ pcf.04           524288 f4314c96
+ pcf.05           524288 215655f6
+ pcf.06           524288 ea6f13ea
+ pcf.07           524288 5ac6d5ea
+ pcfux.03         524288 652b7647
+ pcf.01           131072 254e5f33
+ pcf.02           131072 6902f4f9
+ pcf.11          4194304 a5dea005
+ pcf.12          4194304 4ce235fe
+
+Pocket Fighter (Japan 970904)
+pfghtj.zip
+You must also have sgemf.zip to play this game
+
+ ROM                SIZE    CRC32
+ pcfj.03          524288 681da43e
+ pcfjx.03         524288 a523f21e
+
+Super Gem Fighter: Mini Mix (Asia 970904)
+sgemfa.zip
+You must also have sgemf.zip to play this game
+
+ ROM                SIZE    CRC32
+ pcfa.03          524288 e17c089a
+ pcfax.03         524288 750fabe2
+
+-------------------------------------------
+
+Super Puzzle Fighter 2 Turbo (US 960620)
+spf2t.zip
+
+ ROM                SIZE    CRC32
+ pzf.14          1048576 2d4881cb
+ pzf.16          1048576 4b0fd1be
+ pzf.18          1048576 e43aac33
+ pzf.20          1048576 7f536ff1
+ pzfu.03a         524288 346e62ef
+ pzf.04a          524288 b80649e2
+ pzfux.03a        524288 200feea6
+ pzf.01           131072 600fb2a3
+ pzf.02           131072 496076e0
+ pzf.11          2097152 78442743
+ pzf.12          2097152 399d2c7b
+
+Super Puzzle Fighter 2 X (Japan 960531)
+spf2xj.zip
+You must also have spf2t.zip to play this game
+
+ ROM                SIZE    CRC32
+ pzfj.03a         524288 2070554a
+ pzfjx.03a        524288 c2e3f231
+
+-------------------------------------------
+
+Super Street Fighter 2: The New Challengers (World 930911)
+ssf2.zip
+
+ ROM                SIZE    CRC32
+ ssf.13          2097152 cf94d275
+ ssf.15          2097152 5eb703af
+ ssf.17          2097152 ffa60e0f
+ ssf.19          2097152 34e825c5
+ ssf.14          1048576 b7cc32e7
+ ssf.16          1048576 8376ad18
+ ssf.18          1048576 f5b1b336
+ ssf.20          1048576 459d5c6b
+ ssfe.03          524288 a597745d
+ ssfe.04          524288 b082aa67
+ ssfe.05          524288 02b9c137
+ ssfe.06          524288 70d470c5
+ ssfe.07          524288 2409001d
+ ssfex.03         524288 29690c24
+ ssfex.04         524288 d001e53a
+ ssfex.05         524288 a45602e4
+ ssfex.06         524288 ae3c8a14
+ ssfex.07         524288 f88f584e
+ ssf.01           131072 eb247e8c
+ ssf.q01          524288 a6f9da5c
+ ssf.q02          524288 8c66ae26
+ ssf.q03          524288 695cc2ca
+ ssf.q04          524288 9d9ebe32
+ ssf.q05          524288 4770e7b7
+ ssf.q06          524288 4e79c951
+ ssf.q07          524288 cdd14313
+ ssf.q08          524288 6f5a088c
+
+Super Street Fighter 2: The New Challengers (US 930911)
+ssf2u.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfu.03a         524288 72f29c33
+ ssfu.04a         524288 935cea44
+ ssfu.05          524288 a0acb28a
+ ssfu.06          524288 47413dcf
+ ssfu.07          524288 e6066077
+ ssfux.03a        524288 ec278279
+ ssfux.04a        524288 6194d896
+ ssfux.05         524288 aa846b9f
+ ssfux.06         524288 235268c4
+ ssfux.07         524288 e46e033c
+
+Super Street Fighter 2: The New Challengers (Japan 931005)
+ssf2j.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfj.03b         524288 5c2e356d
+ ssfj.04a         524288 013bd55c
+ ssfj.05          524288 0918d19a
+ ssfj.06b         524288 014e0c6d
+ ssfj.07          524288 eb6a9b1b
+ ssfjx.03b        524288 693985dd
+ ssfjx.04a        524288 f866d34a
+ ssfjx.05         524288 7282bb56
+ ssfjx.06b        524288 c597bc4a
+ ssfjx.07         524288 2af7cab2
+
+Super Street Fighter 2: The New Challengers (Japan 930911)
+ssf2jr1.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfj.03a         524288 0bbf1304
+ ssfj.04a         524288 013bd55c
+ ssfj.05          524288 0918d19a
+ ssfj.06          524288 d808a6cd
+ ssfj.07          524288 eb6a9b1b
+ ssfjx.03a        524288 c1b1d0c1
+ ssfjx.04a        524288 f866d34a
+ ssfjx.05         524288 7282bb56
+ ssfjx.06         524288 cc027506
+ ssfjx.07         524288 2af7cab2
+
+Super Street Fighter 2: The New Challengers (Japan 930910)
+ssf2jr2.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfj.03          524288 7eb0efed
+ ssfj.04          524288 d7322164
+ ssfj.05          524288 0918d19a
+ ssfj.06          524288 d808a6cd
+ ssfj.07          524288 eb6a9b1b
+ ssfjx.03         524288 c3eca34c
+ ssfjx.04         524288 4e1080c2
+ ssfjx.05         524288 7282bb56
+ ssfjx.06         524288 cc027506
+ ssfjx.07         524288 2af7cab2
+
+Super Street Fighter 2: The New Challengers (Asia 931003)
+ssf2a.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfa.03b         524288 83a059bf
+ ssfa.04a         524288 5d873642
+ ssfa.05          524288 f8fb4de2
+ ssfa.06b         524288 3185d19d
+ ssfa.07          524288 36e29217
+ ssfax.03b        524288 903b997e
+ ssfax.04a        524288 99d5e67f
+ ssfax.05         524288 d104f415
+ ssfax.06b        524288 16516200
+ ssfax.07         524288 ca49b7f6
+
+Super Street Fighter 2: The New Challengers (Asia 930914)
+ssf2ar1.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfa.03a         524288 d2a3c520
+ ssfa.04a         524288 5d873642
+ ssfa.05          524288 f8fb4de2
+ ssfa.06          524288 aa8acee7
+ ssfa.07          524288 36e29217
+ ssfax.03a        524288 d628422c
+ ssfax.04a        524288 99d5e67f
+ ssfax.05         524288 d104f415
+ ssfax.06         524288 210e787c
+ ssfax.07         524288 ca49b7f6
+
+Super Street Fighter 2: The Tournament Battle (World 931119)
+ssf2tb.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ ssfe.3tc         524288 496a8409
+ ssfe.4tc         524288 4b45c18b
+ ssfe.5t          524288 6a9c6444
+ ssfe.6tb         524288 e4944fc3
+ ssfe.7t          524288 2c9f4782
+ ssfex.3tc        524288 9b2cda8c
+ ssfex.4tc        524288 62d26dc2
+ ssfex.5t         524288 3ae42ff3
+ ssfex.6tb        524288 f12e7228
+ ssfex.7t         524288 4d51f760
+
+Super Street Fighter 2 Turbo (World 940223)
+ssf2t.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfx.21          1048576 e32854af
+ sfx.23          1048576 760f2927
+ sfx.25          1048576 1ee90208
+ sfx.27          1048576 f814400f
+ sfxe.03c         524288 2fa1f396
+ sfxe.04a         524288 d0bc29c6
+ sfxe.05          524288 65222964
+ sfxe.06a         524288 8fe9f531
+ sfxe.07          524288 8a7d0cb6
+ sfxe.08          524288 74c24062
+ sfx.09           524288 642fae3f
+ sfxex.03c        524288 a181b207
+ sfxex.04a        524288 df28bd00
+ sfxex.05         524288 29b7bda4
+ sfxex.06a        524288 6c8719b3
+ sfxex.07         524288 dfc3b3cd
+ sfxex.08         524288 d7436ae9
+ sfx.01           131072 b47b8835
+ sfx.02           131072 0022633f
+ sfx.11          2097152 9bdbd476
+ sfx.12          2097152 a05e3aab
+
+Super Street Fighter 2 Turbo (US 940223)
+ssf2tur1.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfx.21          1048576 e32854af
+ sfx.23          1048576 760f2927
+ sfx.25          1048576 1ee90208
+ sfx.27          1048576 f814400f
+ sfxu.03c         524288 86e4a335
+ sfxu.04a         524288 532b5ffd
+ sfxu.05          524288 ffa3c6de
+ sfxu.06a         524288 e4c04c99
+ sfxu.07          524288 d8199e41
+ sfxu.08          524288 b3c71810
+ sfx.09           524288 642fae3f
+ sfxux.03c        524288 441df197
+ sfxux.04a        524288 7390df1b
+ sfxux.05         524288 1d3310a0
+ sfxux.06a        524288 6fc5efa6
+ sfxux.07         524288 88455606
+ sfxux.08         524288 fa2396a6
+ sfx.01           131072 b47b8835
+ sfx.02           131072 0022633f
+ sfx.11          2097152 9bdbd476
+ sfx.12          2097152 a05e3aab
+
+Super Street Fighter 2 Turbo (Asia 940223)
+ssf2ta.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfx.21          1048576 e32854af
+ sfx.23          1048576 760f2927
+ sfx.25          1048576 1ee90208
+ sfx.27          1048576 f814400f
+ sfxa.03c         524288 04b9ff34
+ sfxa.04a         524288 16ea5f7a
+ sfxa.05          524288 53d61f0c
+ sfxa.06a         524288 066d09b5
+ sfxa.07          524288 a428257b
+ sfxa.08          524288 39be596c
+ sfx.09           524288 642fae3f
+ sfxax.03c        524288 c8a664fa
+ sfxax.04a        524288 149d6352
+ sfxax.05         524288 ac169aa9
+ sfxax.06a        524288 bb60394c
+ sfxax.07         524288 e62b1b69
+ sfxax.08         524288 7c5fd202
+ sfx.01           131072 b47b8835
+ sfx.02           131072 0022633f
+ sfx.11          2097152 9bdbd476
+ sfx.12          2097152 a05e3aab
+
+Super Street Fighter 2 X (Japan 940223)
+ssf2xj.zip
+You must also have ssf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sfx.21          1048576 e32854af
+ sfx.23          1048576 760f2927
+ sfx.25          1048576 1ee90208
+ sfx.27          1048576 f814400f
+ sfxj.03c         524288 a7417b79
+ sfxj.04a         524288 af7767b4
+ sfxj.05          524288 f4ff18f5
+ sfxj.06a         524288 260d0370
+ sfxj.07          524288 1324d02a
+ sfxj.08          524288 2de76f10
+ sfx.09           524288 642fae3f
+ sfxjx.03c        524288 084e929f
+ sfxjx.04a        524288 9ea7a7c0
+ sfxjx.05         524288 46184b32
+ sfxjx.06a        524288 9877b7a4
+ sfxjx.07         524288 eb8c5317
+ sfxjx.08         524288 656a9858
+ sfx.01           131072 b47b8835
+ sfx.02           131072 0022633f
+ sfx.11          2097152 9bdbd476
+ sfx.12          2097152 a05e3aab
+
+Vampire Hunter 2: Darkstalkers Revenge (Japan 970913)
+vhunt2r1.zip
+You must also have vhunt2.zip to play this game
+
+ ROM                SIZE    CRC32
+ vh2j.03          524288 1a5feb13
+ vh2j.04          524288 434611a5
+ vh2jx.03         524288 7d5d7aae
+ vh2jx.04         524288 c66e9aea
+
+-------------------------------------------
+
+Vampire Savior: The Lord of Vampire (Euro 970519)
+vsav.zip
+
+ ROM                SIZE    CRC32
+ vm3.13          4194304 fd8a11eb
+ vm3.15          4194304 dd1e7d4e
+ vm3.17          4194304 6b89445e
+ vm3.19          4194304 3830fdc7
+ vm3.14          4194304 c1a28e6c
+ vm3.16          4194304 194a7304
+ vm3.18          4194304 df9a9f47
+ vm3.20          4194304 c22fc3d9
+ vm3e.03d         524288 f5962a8c
+ vm3e.04d         524288 21b40ea2
+ vm3.05a          524288 4118e00f
+ vm3.06a          524288 2f4fd3a9
+ vm3.07b          524288 cbda91b8
+ vm3.08a          524288 6ca47259
+ vm3.09b          524288 f4a339e3
+ vm3.10b          524288 fffbb5b8
+ vm3ex.03d        524288 fa586edf
+ vm3ex.04d        524288 eb912f2b
+ vm3.01           131072 f778769b
+ vm3.02           131072 cc09faa1
+ vm3.11          4194304 e80e956e
+ vm3.12          4194304 9cd71557
+
+Vampire Savior: The Lord of Vampire (US 970519)
+vsavu.zip
+You must also have vsav.zip to play this game
+
+ ROM                SIZE    CRC32
+ vm3u.03d         524288 1f295274
+ vm3u.04d         524288 c46adf81
+ vm3ux.03d        524288 fb135627
+ vm3ux.04d        524288 cf02f61d
+
+Vampire Savior: The Lord of Vampire (Japan 970519)
+vsavj.zip
+You must also have vsav.zip to play this game
+
+ ROM                SIZE    CRC32
+ vm3j.03d         524288 2a2e74a4
+ vm3j.04d         524288 1c2427bc
+ vm3j.05a         524288 95ce88d5
+ vm3j.06b         524288 2c4297e0
+ vm3j.07b         524288 a38aaae7
+ vm3j.08a         524288 5773e5c9
+ vm3j.09b         524288 d064f8b9
+ vm3j.10b         524288 434518e9
+ vm3jx.03d        524288 a9ab54df
+ vm3jx.04d        524288 20c4aa2d
+
+Vampire Savior: The Lord of Vampire (Asia 970519)
+vsava.zip
+You must also have vsav.zip to play this game
+
+ ROM                SIZE    CRC32
+ vm3a.03d         524288 44c1198f
+ vm3a.04d         524288 2218b781
+ vm3ax.03d        524288 3aea7d92
+ vm3ax.04d        524288 b5697f3a
+
+-------------------------------------------
+
+Vampire Savior 2: The Lord of Vampire (Japan 970913)
+vsav2.zip
+
+ ROM                SIZE    CRC32
+ vs2.13          4194304 5c852f52
+ vs2.15          4194304 a20f58af
+ vs2.17          4194304 39db59ad
+ vs2.19          4194304 00c763a7
+ vs2.14          4194304 cd09bd63
+ vs2.16          4194304 e0182c15
+ vs2.18          4194304 778dc4f6
+ vs2.20          4194304 605d9d1d
+ vs2j.03          524288 89fd86b4
+ vs2j.04          524288 107c091b
+ vs2j.05          524288 61979638
+ vs2j.06          524288 f37c5bc2
+ vs2j.07          524288 8f885809
+ vs2j.08          524288 2018c120
+ vs2j.09          524288 fac3c217
+ vs2j.10          524288 eb490213
+ vs2jx.03         524288 8f83159a
+ vs2jx.04         524288 e9822de8
+ vs2.01           131072 35190139
+ vs2.02           131072 c32dba09
+ vs2.11          4194304 d67e47b7
+ vs2.12          4194304 6d020a14
+
+-------------------------------------------
+
+X-Men: Children of the Atom (Euro 950105)
+xmcota.zip
+
+ ROM                SIZE    CRC32
+ xmn.13          4194304 bf4df073
+ xmn.15          4194304 4d7e4cef
+ xmn.17          4194304 513eea17
+ xmn.19          4194304 d23897fc
+ xmn.14          4194304 778237b7
+ xmn.16          4194304 67b36948
+ xmn.18          4194304 015a7c4c
+ xmn.20          4194304 9dde2758
+ xmne.03e         524288 a9a09b09
+ xmne.04e         524288 52fa2106
+ xmn.05a          524288 ac0d7759
+ xmn.06a          524288 1b86a328
+ xmn.07a          524288 2c142a44
+ xmn.08a          524288 f712d44f
+ xmn.09a          524288 9241cae8
+ xmn.10a          524288 53c0eab9
+ xmnex.03e        524288 2f5daa9f
+ xmnex.04e        524288 f0e24605
+ xmn.01a          131072 40f479ea
+ xmn.02a          131072 39d9b5ad
+ xmn.11          2097152 c848a6bc
+ xmn.12          2097152 729c188f
+
+X-Men: Children of the Atom (US 950105)
+xmcotau.zip
+You must also have xmcota.zip to play this game
+
+ ROM                SIZE    CRC32
+ xmnu.03e         524288 0bafeb0e
+ xmnu.04e         524288 c29bdae3
+ xmnux.03e        524288 27636ac7
+ xmnux.04e        524288 0aed300c
+
+X-Men: Children of the Atom (Japan 941219)
+xmcotaj.zip
+You must also have xmcota.zip to play this game
+
+ ROM                SIZE    CRC32
+ xmnj.03b         524288 c8175fb3
+ xmnj.04b         524288 54b3fba3
+ xmn.05           524288 c3ed62a2
+ xmn.06           524288 f03c52e1
+ xmn.07           524288 325626b1
+ xmn.08           524288 7194ea10
+ xmn.09           524288 ae946df3
+ xmn.10           524288 32a6be1d
+ xmnjx.03b        524288 523c9589
+ xmnjx.04b        524288 673765ba
+
+X-Men: Children of the Atom (Japan 941217)
+xmcotaj1.zip
+You must also have xmcota.zip to play this game
+
+ ROM                SIZE    CRC32
+ xmnj.03a         524288 00761611
+ xmnj.04a         524288 614d3f60
+ xmn.05           524288 c3ed62a2
+ xmn.06           524288 f03c52e1
+ xmn.07           524288 325626b1
+ xmn.08           524288 7194ea10
+ xmn.09           524288 ae946df3
+ xmn.10           524288 32a6be1d
+ xmnjx.03a        524288 515b9bf9
+ xmnjx.04a        524288 5419572b
+
+X-Men: Children of the Atom (Japan 941208 rent version)
+xmcotajr.zip
+You must also have xmcota.zip to play this game
+
+ ROM                SIZE    CRC32
+ xmno.03a         524288 7ab19acf
+ xmno.04a         524288 7615dd21
+ xmno.05a         524288 0303d672
+ xmno.06a         524288 332839a5
+ xmno.07          524288 6255e8d5
+ xmno.08          524288 b8ebe77c
+ xmno.09          524288 5440d950
+ xmno.10a         524288 b8296966
+ xmnox.03a        524288 c2d26e40
+ xmnox.04a        524288 9fb6b396
+ xmn.01           131072 7178336e
+ xmn.02           131072 0ec58501
+
+X-Men: Children of the Atom (Asia 941217)
+xmcotaa.zip
+You must also have xmcota.zip to play this game
+
+ ROM                SIZE    CRC32
+ xmna.03a         524288 7df8b27e
+ xmna.04a         524288 b44e30a7
+ xmn.05           524288 c3ed62a2
+ xmn.06           524288 f03c52e1
+ xmn.07           524288 325626b1
+ xmn.08           524288 7194ea10
+ xmn.09           524288 ae946df3
+ xmn.10           524288 32a6be1d
+ xmnax.03a        524288 978a0de4
+ xmnax.04a        524288 07cb0839
+
+-------------------------------------------
+
+X-Men Vs. Street Fighter (Euro 960910)
+xmvsf.zip
+
+ ROM                SIZE    CRC32
+ xvse.03d         524288 5ae5bd3b
+ xvse.04d         524288 5eb9c02e
+ xvs.05a          524288 7db6025d
+ xvs.06a          524288 e8e2c75c
+ xvs.07           524288 08f0abed
+ xvs.08           524288 81929675
+ xvs.09           524288 9641f36b
+ xvsex.03d        524288 3b3e7836
+ xvsex.04d        524288 108863ce
+ xvs.13          4194304 f6684efd
+ xvs.15          4194304 29109221
+ xvs.17          4194304 92db3474
+ xvs.19          4194304 3733473c
+ xvs.14          4194304 bcac2e41
+ xvs.16          4194304 ea04a272
+ xvs.18          4194304 b0def86a
+ xvs.20          4194304 4b40ff9f
+ xvs.01           131072 3999e93a
+ xvs.02           131072 101bdee9
+ xvs.11          2097152 9cadcdbc
+ xvs.12          2097152 7b11e460
+
+X-Men Vs. Street Fighter (US 961004)
+xmvsfur1.zip
+You must also have xmvsf.zip to play this game
+
+ ROM                SIZE    CRC32
+ xvsu.03h         524288 5481155a
+ xvsu.04h         524288 1e236388
+ xvsux.03h        524288 1539c639
+ xvsux.04h        524288 68916b3f
+
+-------------------------------------------
+
+1941 - Counter Attack (World)
+1941.zip
+
+ ROM                SIZE    CRC32
+ 41_gfx5.rom      524288 01d1cb11
+ 41_gfx7.rom      524288 aeaa3509
+ 41_gfx1.rom      524288 ff77985a
+ 41_gfx3.rom      524288 983be58f
+ 41e_30.rom       131072 9deb1e75
+ 41e_35.rom       131072 d63942b3
+ 41e_31.rom       131072 df201112
+ 41e_36.rom       131072 816a818f
+ 41_32.rom        524288 4e9648ca
+ 41_09.rom         65536 0f9d8527
+ 41_18.rom        131072 d1f15aeb
+ 41_19.rom        131072 15aec3a6
+
+1941 - Counter Attack (Japan)
+1941j.zip
+You must also have 1941.zip to play this game
+
+ ROM                SIZE    CRC32
+ 4136.bin         131072 7fbd42ab
+ 4142.bin         131072 c7781f89
+ 4137.bin         131072 c6464b0b
+ 4143.bin         131072 440fc0b5
+
+-------------------------------------------
+
+Captain Commando (World 911014)
+captcomm.zip
+
+ ROM                SIZE    CRC32
+ gfx_01.rom       524288 7261d8ba
+ gfx_03.rom       524288 6a60f949
+ gfx_02.rom       524288 00637302
+ gfx_04.rom       524288 cc87cf61
+ gfx_05.rom       524288 28718bed
+ gfx_07.rom       524288 d4acc53a
+ gfx_06.rom       524288 0c69f151
+ gfx_08.rom       524288 1f9ebb97
+ cce_23d.rom      524288 19c58ece
+ cc_22d.rom       524288 a91949b7
+ cc_24d.rom       131072 680e543f
+ cc_28d.rom       131072 8820039f
+ cc_09.rom         65536 698e8b58
+ cc_18.rom        131072 6de2c2db
+ cc_19.rom        131072 b99091ae
+
+Captain Commando (US 910928)
+captcomu.zip
+You must also have captcomm.zip to play this game
+
+ ROM                SIZE    CRC32
+ 23b              524288 03da44fd
+ 22c              524288 9b82a052
+ 24b              131072 84ff99b2
+ 28b              131072 fbcec223
+
+Captain Commando (Japan 911202)
+captcomj.zip
+You must also have captcomm.zip to play this game
+
+ ROM                SIZE    CRC32
+ cc23.bin         524288 5b482b62
+ cc22.bin         524288 0fd34195
+ cc24.bin         131072 3a794f25
+ cc28.bin         131072 fc3c2906
+
+-------------------------------------------
+
+Cadillacs and Dinosaurs (World 930201)
+dino.zip
+
+ ROM                SIZE    CRC32
+ cd_gfx01.rom     524288 8da4f917
+ cd_gfx03.rom     524288 6c40f603
+ cd_gfx02.rom     524288 09c8fc2d
+ cd_gfx04.rom     524288 637ff38f
+ cd_gfx05.rom     524288 470befee
+ cd_gfx07.rom     524288 22bfb7a3
+ cd_gfx06.rom     524288 e7599ac4
+ cd_gfx08.rom     524288 211b4b15
+ cde_23a.rom      524288 8f4e585e
+ cde_22a.rom      524288 9278aa12
+ cde_21a.rom      524288 66d23de2
+ cd_q.rom         131072 605fdb0b
+ cd_q1.rom        524288 60927775
+ cd_q2.rom        524288 770f4c47
+ cd_q3.rom        524288 2f273ffc
+ cd_q4.rom        524288 2c67821d
+
+Cadillacs and Dinosaurs (US 930201)
+dinou.zip
+You must also have dino.zip to play this game
+
+ ROM                SIZE    CRC32
+ cdu.23a          524288 7c2543cd
+ cdu.22a          524288 fab740a9
+
+Cadillacs Kyouryuu-Shinseiki (Japan 930201)
+dinoj.zip
+You must also have dino.zip to play this game
+
+ ROM                SIZE    CRC32
+ cdj-23a.8f       524288 5f3ece96
+ cdj-22a.7f       524288 a0d8de29
+
+-------------------------------------------
+
+Capcom World 2 (Japan 920611)
+cworld2j.zip
+
+ ROM                SIZE    CRC32
+ q509.bin         131072 48496d80
+ q501.bin         131072 c5453f56
+ q513.bin         131072 c741ac52
+ q505.bin         131072 143e068f
+ q524.bin         131072 b419d139
+ q517.bin         131072 bd3b4d11
+ q538.bin         131072 9c24670c
+ q532.bin         131072 3ef9c7c2
+ q510.bin         131072 119e5e93
+ q502.bin         131072 a2cadcbe
+ q514.bin         131072 a8755f82
+ q506.bin         131072 c92a91fc
+ q525.bin         131072 979237cb
+ q518.bin         131072 c57da03c
+ q539.bin         131072 a5839b25
+ q533.bin         131072 04d03930
+ q536.bin         131072 38a08099
+ q542.bin         131072 4d29b3a4
+ q537.bin         131072 eb547ebc
+ q543.bin         131072 3ef65ea8
+ q534.bin         131072 7fcc1317
+ q540.bin         131072 7f14b7b4
+ q535.bin         131072 abacee26
+ q541.bin         131072 d3654067
+ q523.bin          65536 e14dc524
+ q530.bin         131072 d10c1b68
+ q531.bin         131072 7d17e496
+
+-------------------------------------------
+
+Carrier Air Wing (World 901012)
+cawing.zip
+
+ ROM                SIZE    CRC32
+ ca_gfx5.rom      524288 66d4cc37
+ ca_gfx7.rom      524288 b6f896f2
+ ca_gfx1.rom      524288 4d0620fd
+ ca_gfx3.rom      524288 0b0341c3
+ cae_30a.rom      131072 91fceacd
+ cae_35a.rom      131072 3ef03083
+ cae_31a.rom      131072 e5b75caf
+ cae_36a.rom      131072 c73fd713
+ ca_32.rom        524288 0c4837d4
+ ca_9.rom          65536 96fe7485
+ ca_18.rom        131072 4a613a2c
+ ca_19.rom        131072 74584493
+
+Carrier Air Wing (US 901012)
+cawingu.zip
+You must also have cawing.zip to play this game
+
+ ROM                SIZE    CRC32
+ cau_35a.rom      131072 f090d9b2
+
+U.S. Navy (Japan 901012)
+cawingj.zip
+You must also have cawing.zip to play this game
+
+ ROM                SIZE    CRC32
+ caj09.bin        131072 41b0f9a6
+ caj01.bin        131072 1002d0b8
+ caj13.bin        131072 6f3948b2
+ caj05.bin        131072 207373d7
+ caj24.bin        131072 e356aad7
+ caj17.bin        131072 540f2fd8
+ caj38.bin        131072 2464d4ab
+ caj32.bin        131072 9b5836b3
+ caj10.bin        131072 bf8a5f52
+ caj02.bin        131072 125b018d
+ caj14.bin        131072 8458e7d7
+ caj06.bin        131072 cf80e164
+ caj25.bin        131072 cdd0204d
+ caj18.bin        131072 29c1d4b1
+ caj39.bin        131072 eea23b67
+ caj33.bin        131072 dde3891f
+ caj42a.bin       131072 039f8362
+ caj34.bin        131072 51ea57f4
+ caj40.bin        131072 2ab71ae1
+ caj35.bin        131072 01d71973
+ caj41.bin        131072 3a43b538
+
+-------------------------------------------
+
+Dynasty Wars (World)
+dw.zip
+
+ ROM                SIZE    CRC32
+ 09.bin           131072 c3e83c69
+ 01.bin           131072 187b2886
+ 13.bin           131072 0273d87d
+ 05.bin           131072 339378b8
+ 24.bin           131072 c6909b6f
+ 17.bin           131072 2e2f8320
+ 38.bin           131072 cd7923ed
+ 32.bin           131072 21a0a453
+ 10.bin           131072 ff28f8d0
+ 02.bin           131072 cc83c02f
+ 14.bin           131072 18fb232c
+ 06.bin           131072 6f9edd75
+ 25.bin           131072 152ea74a
+ 18.bin           131072 1833f932
+ 39.bin           131072 bc09b360
+ 33.bin           131072 89de1533
+ 11.bin           131072 29eaf490
+ 03.bin           131072 7bf51337
+ 15.bin           131072 d36cdb91
+ 07.bin           131072 e04af054
+ 26.bin           131072 07fc714b
+ 19.bin           131072 7114e5c6
+ 28.bin           131072 af62bf07
+ 21.bin           131072 523f462a
+ 12.bin           131072 38652339
+ 04.bin           131072 4951bc0f
+ 16.bin           131072 381608ae
+ 08.bin           131072 b475d4e9
+ 27.bin           131072 a27e81fa
+ 20.bin           131072 002796dc
+ 29.bin           131072 6b41f82d
+ 22.bin           131072 52145369
+ d_wars30.11f     131072 f9ec6d68
+ d_wars35.11h     131072 e41fff2f
+ d_wars31.12f     131072 e3de76ff
+ d_wars36.12h     131072 7a13cfbf
+ 34.bin           131072 8f663d00
+ 40.bin           131072 1586dbf3
+ 35.bin           131072 9db93d7a
+ 41.bin           131072 1aae69a4
+ 23.bin            65536 b3b79d4f
+ d_wars18.11c     131072 ac6e307d
+ d_wars19.12c     131072 068741db
+
+Tenchi wo Kurau (Japan)
+dwj.zip
+You must also have dw.zip to play this game
+
+ ROM                SIZE    CRC32
+ 36.bin           131072 1a516657
+ 42.bin           131072 12a290a0
+ 37.bin           131072 932fc943
+ 43.bin           131072 872ad76d
+ 30.bin           131072 7e5f6cb4
+ 31.bin           131072 4a30c737
+
+-------------------------------------------
+
+Final Fight (World)
+ffight.zip
+
+ ROM                SIZE    CRC32
+ ff05-05m.bin     524288 9c284108
+ ff07-07m.bin     524288 a7584dfb
+ ff01-01m.bin     524288 0b605e44
+ ff03-03m.bin     524288 52291cd2
+ ff30-36.bin      131072 f9a5ce83
+ ff35-42.bin      131072 65f11215
+ ff31-37.bin      131072 e1033784
+ ff36-43.bin      131072 995e968a
+ ff32-32m.bin     524288 c747696e
+ ff09-09.bin       65536 b8367eb5
+ ff18-18.bin      131072 375c66e7
+ ff19-19.bin      131072 1ef137f9
+
+Final Fight (US 900112)
+ffightu.zip
+You must also have ffight.zip to play this game
+
+ ROM                SIZE    CRC32
+ 36               131072 e2a48af9
+ 42               131072 f4bb480e
+ 37               131072 c371c667
+ 43               131072 2f5771f9
+
+Final Fight (Japan)
+ffightj.zip
+You must also have ffight.zip to play this game
+
+ ROM                SIZE    CRC32
+ ff09.bin         131072 5b116d0d
+ ff01.bin         131072 815b1797
+ ff13.bin         131072 8721a7da
+ ff05.bin         131072 d0fcd4b5
+ ff24.bin         131072 a1ab607a
+ ff17.bin         131072 2dc18cf4
+ ff38.bin         131072 6535a57f
+ ff32.bin         131072 c8bc4a57
+ ff10.bin         131072 624a924a
+ ff02.bin         131072 5d91f694
+ ff14.bin         131072 0a2e9101
+ ff06.bin         131072 1c18f042
+ ff25.bin         131072 6e8181ea
+ ff18.bin         131072 b19ede59
+ ff39.bin         131072 9416b477
+ ff33.bin         131072 7369fa07
+ ff43.bin         131072 b6dee1c3
+
+Final Fight (Japan 900305)
+ffightj1.zip
+You must also have ffight.zip to play this game
+
+ ROM                SIZE    CRC32
+ ff09.bin         131072 5b116d0d
+ ff01.bin         131072 815b1797
+ ff13.bin         131072 8721a7da
+ ff05.bin         131072 d0fcd4b5
+ ff24.bin         131072 a1ab607a
+ ff17.bin         131072 2dc18cf4
+ ff38.bin         131072 6535a57f
+ ff32.bin         131072 c8bc4a57
+ ff10.bin         131072 624a924a
+ ff02.bin         131072 5d91f694
+ ff14.bin         131072 0a2e9101
+ ff06.bin         131072 1c18f042
+ ff25.bin         131072 6e8181ea
+ ff18.bin         131072 b19ede59
+ ff39.bin         131072 9416b477
+ ff33.bin         131072 7369fa07
+ ff30-36.rom      131072 088ed1c9
+ ff35-42.rom      131072 c4c491e6
+ ff31-37.rom      131072 708557ff
+ ff36-43.rom      131072 c004004a
+
+-------------------------------------------
+
+Forgotten Worlds (US)
+forgottn.zip
+
+ ROM                SIZE    CRC32
+ lw-02            524288 43e6c5c8
+ lw-09            524288 899cb4ad
+ lw-06            524288 5b9edffc
+ lw-13            524288 8e058ef5
+ lw-01            524288 0318f298
+ lw-08            524288 25a8e43c
+ lw-05            524288 e4552fd7
+ lw-12            524288 8e6a832b
+ lwu11a           131072 ddf78831
+ lwu15a           131072 f7ce2097
+ lwu10a           131072 8cb38c81
+ lwu14a           131072 d70ef9fd
+ lw-07            524288 fd252a26
+ lwu00             65536 59df2a63
+ lw-03u           131072 807d051f
+ lw-04u           131072 e6cd098e
+
+Lost Worlds (Japan)
+lostwrld.zip
+You must also have forgottn.zip to play this game
+
+ ROM                SIZE    CRC32
+ lw-11c.14f       131072 67e42546
+ lw-15c.14g       131072 402e2a46
+ lw-10c.13f       131072 c46479d7
+ lw-14c.13g       131072 97670f4a
+ lw-03.14c        131072 ce2159e7
+ lw-04.13c        131072 39305536
+
+-------------------------------------------
+
+Ghouls'n Ghosts (World)
+ghouls.zip
+
+ ROM                SIZE    CRC32
+ ghl5.bin         524288 0ba9c0b0
+ ghl7.bin         524288 5d760ab9
+ ghl6.bin         524288 4ba90b59
+ ghl8.bin         524288 4bdee9de
+ ghl09.bin         65536 ae24bb19
+ ghl18.bin         65536 d34e271a
+ ghl13.bin         65536 3f70dd37
+ ghl22.bin         65536 7e69e2e6
+ ghl11.bin         65536 37c9b6c6
+ ghl20.bin         65536 2f1345b4
+ ghl15.bin         65536 3c2a212a
+ ghl24.bin         65536 889aac05
+ ghl10.bin         65536 bcc0f28c
+ ghl19.bin         65536 2a40166a
+ ghl14.bin         65536 20f85c03
+ ghl23.bin         65536 8426144b
+ ghl12.bin         65536 da088d61
+ ghl21.bin         65536 17e11df0
+ ghl16.bin         65536 f187ba1c
+ ghl25.bin         65536 29f79c78
+ ghl29.bin        131072 166a58a2
+ ghl30.bin        131072 7ac8407a
+ ghl27.bin        131072 f734b2be
+ ghl28.bin        131072 03d3e714
+ ghl17.bin        524288 3ea1b0f2
+ ghl26.bin         65536 3692f6e5
+
+Ghouls'n Ghosts (US)
+ghoulsu.zip
+You must also have ghouls.zip to play this game
+
+ ROM                SIZE    CRC32
+ dmu29            131072 334d85b2
+ dmu30            131072 cee8ceb5
+ dmu27            131072 4a524140
+ dmu28            131072 94aae205
+
+Dai Makai-Mura (Japan)
+daimakai.zip
+You must also have ghouls.zip to play this game
+
+ ROM                SIZE    CRC32
+ dmj_38.bin       131072 82fd1798
+ dmj_39.bin       131072 35366ccc
+ dmj_40.bin       131072 a17c170a
+ dmj_41.bin       131072 6af0b391
+
+-------------------------------------------
+
+Knights of the Round (World 911127)
+knights.zip
+
+ ROM                SIZE    CRC32
+ kr_gfx1.rom      524288 9e36c1a4
+ kr_gfx3.rom      524288 c5832cae
+ kr_gfx2.rom      524288 f095be2d
+ kr_gfx4.rom      524288 179dfd96
+ kr_gfx5.rom      524288 1f4298d2
+ kr_gfx7.rom      524288 37fa8751
+ kr_gfx6.rom      524288 0200bc3d
+ kr_gfx8.rom      524288 0bb2b4e7
+ kr_23e.rom       524288 1b3997eb
+ kr_22.rom        524288 d0b671a9
+ kr_09.rom         65536 5e44d9ee
+ kr_18.rom        131072 da69d15f
+ kr_19.rom        131072 bfc654e9
+
+Knights of the Round (US 911127)
+knightsu.zip
+You must also have knights.zip to play this game
+
+ ROM                SIZE    CRC32
+ kru23.rom        524288 252bc2ba
+
+Knights of the Round (Japan 911127)
+knightsj.zip
+You must also have knights.zip to play this game
+
+ ROM                SIZE    CRC32
+ krj30.bin        131072 ad3d1a8e
+ krj37.bin        131072 e694a491
+ krj31.bin        131072 85596094
+ krj38.bin        131072 9198bf8f
+
+Knights of the Round (Hack)
+knightsh.zip
+You must also have knights.zip to play this game
+
+ ROM                SIZE    CRC32
+ kre_23h.rom      524288 fa2ff63d
+ kre_22h.rom      524288 1438d070
+
+-------------------------------------------
+
+Magic Sword - Heroic Fantasy (World 900725)
+msword.zip
+
+ ROM                SIZE    CRC32
+ ms_gfx5.rom      524288 c00fe7e2
+ ms_gfx7.rom      524288 4ccacac5
+ ms_gfx1.rom      524288 0d2bbe00
+ ms_gfx3.rom      524288 3a1a5bf4
+ mse_30.rom       131072 03fc8dbc
+ mse_35.rom       131072 d5bf66cd
+ mse_31.rom       131072 30332bcf
+ mse_36.rom       131072 8f7d6ce9
+ ms_32.rom        524288 2475ddfc
+ ms_9.rom          65536 57b29519
+ ms_18.rom        131072 fb64e90d
+ ms_19.rom        131072 74f892b9
+
+Magic Sword - Heroic Fantasy (World 900623)
+mswordr1.zip
+You must also have msword.zip to play this game
+
+ ROM                SIZE    CRC32
+ ms30.11f         131072 21c1f078
+ ms35.11h         131072 a540a73a
+ ms31.12f         131072 d7e762b5
+ ms36.12h         131072 66f2dcdb
+
+Magic Sword - Heroic Fantasy (US 900725)
+mswordu.zip
+You must also have msword.zip to play this game
+
+ ROM                SIZE    CRC32
+ msu30            131072 d963c816
+ msu35            131072 72f179b3
+ msu31            131072 20cd7904
+ msu36            131072 bf88c080
+
+Magic Sword (Japan 900623)
+mswordj.zip
+You must also have msword.zip to play this game
+
+ ROM                SIZE    CRC32
+ msj_36.bin       131072 04f0ef50
+ msj_42.bin       131072 9fcbb9cd
+ msj_37.bin       131072 6c060d70
+ msj_43.bin       131072 aec77787
+
+-------------------------------------------
+
+Mega Man - The Power Battle (Asia 951006)
+megaman.zip
+
+ ROM                SIZE    CRC32
+ rcm_01.rom       524288 6ecdf13f
+ rcm_02.rom       524288 944d4f0f
+ rcm_03.rom       524288 36f3073c
+ rcm_04.rom       524288 54e622ff
+ rcm_05.rom       524288 5dd131fd
+ rcm_06.rom       524288 f0faf813
+ rcm_07.rom       524288 826de013
+ rcm_08.rom       524288 fbff64cf
+ rcm_10.rom       524288 4dc8ada9
+ rcm_11.rom       524288 f2b9ee06
+ rcm_12.rom       524288 fed5f203
+ rcm_13.rom       524288 5069d4a9
+ rcm_14.rom       524288 303be3bd
+ rcm_15.rom       524288 4f2d372f
+ rcm_16.rom       524288 93d97fde
+ rcm_17.rom       524288 92371042
+ rcma_23b.rom     524288 61e4a397
+ rcma_22b.rom     524288 708268c4
+ rcma_21a.rom     524288 4376ea95
+ rcm_09.rom       131072 9632d6ef
+ rcm_18.rom       131072 80f1f8aa
+ rcm_19.rom       131072 f257dbe1
+
+Rockman - The Power Battle (Japan 950922)
+rockmanj.zip
+You must also have megaman.zip to play this game
+
+ ROM                SIZE    CRC32
+ rcm23a.bin       524288 efd96cb2
+ rcm22a.bin       524288 8729a689
+ rcm21a.bin       524288 517ccde2
+
+-------------------------------------------
+
+Mega Twins (World 900619)
+mtwins.zip
+
+ ROM                SIZE    CRC32
+ ch_gfx5.rom      524288 4ec75f15
+ ch_gfx7.rom      524288 d85d00d6
+ ch_gfx1.rom      524288 f33ca9d4
+ ch_gfx3.rom      524288 0ba2047f
+ che_30.rom       131072 9a2a2db1
+ che_35.rom       131072 a7f96b02
+ che_31.rom       131072 bbff8a99
+ che_36.rom       131072 0fa00c39
+ ch_32.rom        524288 9b70bd41
+ ch_09.rom         65536 4d4255b7
+ ch_18.rom        131072 f909e8de
+ ch_19.rom        131072 fc158cf7
+
+Chiki Chiki Boys (Japan 900619)
+chikij.zip
+You must also have mtwins.zip to play this game
+
+ ROM                SIZE    CRC32
+ chj36a.bin       131072 ec1328d8
+ chj42a.bin       131072 4ae13503
+ chj37a.bin       131072 46d2cf7b
+ chj43a.bin       131072 8d387fe8
+
+-------------------------------------------
+
+Mercs (World 900302)
+mercs.zip
+
+ ROM                SIZE    CRC32
+ so2_gfx6.rom     524288 aa6102af
+ so2_gfx8.rom     524288 839e6869
+ so2_gfx2.rom     524288 597c2875
+ so2_gfx4.rom     524288 912a9ca0
+ so2_24.rom       131072 3f254efe
+ so2_14.rom       131072 f5a8905e
+ so2_26.rom       131072 f3aa5a4a
+ so2_16.rom       131072 b43cd1a8
+ so2_20.rom       131072 8ca751a3
+ so2_10.rom       131072 e9f569fd
+ so2_22.rom       131072 fce9a377
+ so2_12.rom       131072 b7df8a06
+ so2_30e.rom      131072 e17f9bf7
+ so2_35e.rom      131072 78e63575
+ so2_31e.rom      131072 51204d36
+ so2_36e.rom      131072 9cfba8b4
+ so2_32.rom       524288 2eb5cf0c
+ so2_09.rom        65536 d09d7c7a
+ so2_18.rom       131072 bbea1643
+ so2_19.rom       131072 ac58aa71
+
+Mercs (US 900302)
+mercsu.zip
+You must also have mercs.zip to play this game
+
+ ROM                SIZE    CRC32
+ s02-35           131072 4477df61
+
+Mercs (US 900608)
+mercsua.zip
+You must also have mercs.zip to play this game
+
+ ROM                SIZE    CRC32
+ so2.30a          131072 e4e725d7
+ so2.35a          131072 e7843445
+ so2.31a          131072 c0b91dea
+ so2.36a          131072 591edf6c
+
+Senjo no Ookami II (Japan 900302)
+mercsj.zip
+You must also have mercs.zip to play this game
+
+ ROM                SIZE    CRC32
+ so2_42.bin       131072 2c3884c6
+
+-------------------------------------------
+
+Nemo (World 901130)
+nemo.zip
+
+ ROM                SIZE    CRC32
+ nm_gfx5.rom      524288 487b8747
+ nm_gfx7.rom      524288 203dc8c6
+ nm_gfx1.rom      524288 9e878024
+ nm_gfx3.rom      524288 bb01e6b6
+ nme_30a.rom      131072 d2c03e56
+ nme_35a.rom      131072 5fd31661
+ nme_31a.rom      131072 b2bd4f6f
+ nme_36a.rom      131072 ee9450e3
+ nm_32.rom        524288 d6d1add3
+ nm_09.rom         65536 0f4b0581
+ nm_18.rom        131072 bab333d4
+ nm_19.rom        131072 2650a0a8
+
+Nemo (Japan 901120)
+nemoj.zip
+You must also have nemo.zip to play this game
+
+ ROM                SIZE    CRC32
+ nm36.bin         131072 daeceabb
+ nm42.bin         131072 55024740
+ nm37.bin         131072 619068b6
+ nm43.bin         131072 a948a53b
+
+-------------------------------------------
+
+Pang! 3 (Euro 950511)
+pang3.zip
+
+ ROM                SIZE    CRC32
+ pa3-01m.2c      2097152 068a152c
+ pa3-07m.2f      2097152 3a4a619d
+ pa3w-17.11l      524288 12138234
+ pa3w-16.10l      524288 d1ba585c
+ pa3-11.11f        32768 90a08c46
+ pa3-05.10d       131072 73a10d5d
+ pa3-06.11d       131072 affa4f82
+
+Pang! 3 (Japan 950511)
+pang3j.zip
+You must also have pang3.zip to play this game
+
+ ROM                SIZE    CRC32
+ pa3j-17.11l      524288 21f6e51f
+ pa3j-16.10l      524288 ca1d7897
+
+-------------------------------------------
+
+Pnickies (Japan 940608)
+pnickj.zip
+
+ ROM                SIZE    CRC32
+ pnij09.bin       131072 48177b0a
+ pnij01.bin       131072 01a0f311
+ pnij13.bin       131072 406451b0
+ pnij05.bin       131072 8c515dc0
+ pnij26.bin       131072 e2af981e
+ pnij18.bin       131072 f17a0e56
+ pnij38.bin       131072 eb75bd8c
+ pnij32.bin       131072 84560bef
+ pnij10.bin       131072 c2acc171
+ pnij02.bin       131072 0e21fc33
+ pnij14.bin       131072 7fe59b19
+ pnij06.bin       131072 79f4bfe3
+ pnij27.bin       131072 83d5cb0e
+ pnij19.bin       131072 af08b230
+ pnij39.bin       131072 70fbe579
+ pnij33.bin       131072 3ed2c680
+ pnij36.bin       131072 2d4ffb2b
+ pnij42.bin       131072 c085dfaf
+ pnij17.bin        65536 e86f787a
+ pnij24.bin       131072 5092257d
+ pnij25.bin       131072 22109aaa
+
+-------------------------------------------
+
+Quiz and Dragons (US 920701)
+qad.zip
+
+ ROM                SIZE    CRC32
+ qdu_09.rom       131072 8c3f9f44
+ qdu_01.rom       131072 f688cf8f
+ qdu_13.rom       131072 afbd551b
+ qdu_05.rom       131072 c3db0910
+ qdu_24.rom       131072 2f1bd0ec
+ qdu_17.rom       131072 a812f9e2
+ qdu_38.rom       131072 ccdddd1f
+ qdu_32.rom       131072 a8d295d3
+ qdu_36a.rom      131072 de9c24a0
+ qdu_42a.rom      131072 cfe36f0c
+ qdu_37a.rom      131072 10d22320
+ qdu_43a.rom      131072 15e6beb9
+ qdu_23.rom        65536 cfb5264b
+ qdu_30.rom       131072 f190da84
+ qdu_31.rom       131072 b7583f73
+
+Quiz and Dragons (Japan 940921)
+qadj.zip
+You must also have qad.zip to play this game
+
+ ROM                SIZE    CRC32
+ qad01.bin        524288 9d853b57
+ qad02.bin        524288 b35976c4
+ qad03.bin        524288 cea4ca8c
+ qad04.bin        524288 41b74d1b
+ qad23a.bin       524288 4d3553de
+ qad22a.bin       524288 3191ddd0
+ qad09.bin         65536 733161cc
+ qad18.bin        131072 2bfe6f6a
+ qad19.bin        131072 13d3236b
+
+-------------------------------------------
+
+Quiz Tonosama no Yabou 2 Zenkoku-ban (Japan 950123)
+qtono2.zip
+
+ ROM                SIZE    CRC32
+ tn2-02m.4a       524288 f2016a34
+ tn2-04m.6a       524288 094e0fb1
+ tn2-01m.3a       524288 cb950cf9
+ tn2-03m.5a       524288 18a5bf59
+ tn2-11m.4c       524288 d0edd30b
+ tn2-13m.6c       524288 426621c3
+ tn2-10m.3c       524288 a34ece70
+ tn2-12m.5c       524288 e04ff2f4
+ tn2j-30.11e      131072 9226eb5e
+ tn2j-37.11f      131072 d1d30da1
+ tn2j-31.12e      131072 015e6a8a
+ tn2j-38.12f      131072 1f139bcc
+ tn2j-28.9e       131072 86d27f71
+ tn2j-35.9f       131072 7a1ab87d
+ tn2j-29.10e      131072 9c384e99
+ tn2j-36.10f      131072 4c4b2a0a
+ tn2j-09.12a       32768 6d8edcef
+ tn2j-18.11c      131072 a40bf9a7
+ tn2j-19.12c      131072 5b3b931e
+
+-------------------------------------------
+
+Saturday Night Slam Masters (World 930713)
+slammast.zip
+
+ ROM                SIZE    CRC32
+ mb_gfx01.rom     524288 41468e06
+ mb_gfx03.rom     524288 f453aa9e
+ mb_gfx02.rom     524288 2ffbfea8
+ mb_gfx04.rom     524288 1eb9841d
+ mb_05.bin        524288 506b9dc9
+ mb_07.bin        524288 aff8c2fb
+ mb_06.bin        524288 b76c70e9
+ mb_08.bin        524288 e60c9556
+ mb_10.bin        524288 97976ff5
+ mb_12.bin        524288 b350a840
+ mb_11.bin        524288 8fb94743
+ mb_13.bin        524288 da810d5f
+ mbe_23e.rom      524288 5394057a
+ mbe_24b.rom      131072 95d5e729
+ mbe_28b.rom      131072 b1c7cbcb
+ mbe_25b.rom      131072 a50d3fd4
+ mbe_29b.rom      131072 08e32e56
+ mbe_21a.rom      524288 d5007b05
+ mbe_20a.rom      524288 aeb557b0
+ mb_qa.rom        131072 e21a03c4
+ mb_q1.bin        524288 0630c3ce
+ mb_q2.bin        524288 354f9c21
+ mb_q3.bin        524288 7838487c
+ mb_q4.bin        524288 ab66e087
+ mb_q5.bin        524288 c789fef2
+ mb_q6.bin        524288 ecb81b61
+ mb_q7.bin        524288 041e49ba
+ mb_q8.bin        524288 59fe702a
+
+Saturday Night Slam Masters (US 930713)
+slammasu.zip
+You must also have slammast.zip to play this game
+
+ ROM                SIZE    CRC32
+ mbu-23e.rom      524288 224f0062
+ mbu-20a.rom      524288 fc848af5
+
+Muscle Bomber - The Body Explosion (Japan 930713)
+mbomberj.zip
+You must also have slammast.zip to play this game
+
+ ROM                SIZE    CRC32
+ mbj_01.bin       524288 a53b1c81
+ mbj_03.bin       524288 23fe10f6
+ mbj_02.bin       524288 cb866c2f
+ mbj_04.bin       524288 c9143e75
+ mbj23e           524288 0d06036a
+
+Muscle Bomber Duo - Ultimate Team Battle (World 931206)
+mbombrd.zip
+You must also have slammast.zip to play this game
+
+ ROM                SIZE    CRC32
+ mbd_26.bin       131072 72b7451c
+ mbde_30.rom      131072 a036dc16
+ mbd_27.bin       131072 4086f534
+ mbd_31.bin       131072 085f47f0
+ mbd_24.bin       131072 c20895a5
+ mbd_28.bin       131072 2618d5e1
+ mbd_25.bin       131072 9bdb6b11
+ mbd_29.bin       131072 3f52d5e5
+ mbd_21.bin       524288 690c026a
+ mbd_20.bin       524288 b8b2139b
+ mb_q.bin         131072 d6fa76d1
+
+Muscle Bomber Duo - Heat Up Warriors (Japan 931206)
+mbombrdj.zip
+You must also have slammast.zip to play this game
+
+ ROM                SIZE    CRC32
+ mbj_01.bin       524288 a53b1c81
+ mbj_03.bin       524288 23fe10f6
+ mbj_02.bin       524288 cb866c2f
+ mbj_04.bin       524288 c9143e75
+ mbd_26.bin       131072 72b7451c
+ mbdj_30.bin      131072 beff31cf
+ mbd_27.bin       131072 4086f534
+ mbd_31.bin       131072 085f47f0
+ mbd_24.bin       131072 c20895a5
+ mbd_28.bin       131072 2618d5e1
+ mbd_25.bin       131072 9bdb6b11
+ mbd_29.bin       131072 3f52d5e5
+ mbd_21.bin       524288 690c026a
+ mbd_20.bin       524288 b8b2139b
+ mb_q.bin         131072 d6fa76d1
+
+-------------------------------------------
+
+Street Fighter II - The World Warrior (World 910522)
+sf2.zip
+
+ ROM                SIZE    CRC32
+ sf2_06.bin       524288 22c9cc8e
+ sf2_08.bin       524288 57213be8
+ sf2_05.bin       524288 ba529b4f
+ sf2_07.bin       524288 4b1b33a8
+ sf2_15.bin       524288 2c7e2229
+ sf2_17.bin       524288 b5548f17
+ sf2_14.bin       524288 14b84312
+ sf2_16.bin       524288 5e9cd89a
+ sf2_25.bin       524288 994bfa58
+ sf2_27.bin       524288 3e66ad9d
+ sf2_24.bin       524288 c1befaa8
+ sf2_26.bin       524288 0627c831
+ sf2e.30g         131072 fe39ee33
+ sf2e.37g         131072 fb92cd74
+ sf2e.31g         131072 69a0a301
+ sf2e.38g         131072 5e22db70
+ sf2e.28g         131072 8bf9f1e5
+ sf2e.35g         131072 626ef934
+ sf2_29a.bin      131072 bb4af315
+ sf2_36a.bin      131072 c02a13eb
+ sf2_09.bin        65536 a4823a1b
+ sf2_18.bin       131072 7f162009
+ sf2_19.bin       131072 beade53f
+
+Street Fighter II - The World Warrior (World 910214)
+sf2eb.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2_30a.bin      131072 57bd7051
+ sf2e_37b.rom     131072 62691cdd
+ sf2_31a.bin      131072 a673143d
+ sf2_38a.bin      131072 4c2ccef7
+ sf2_28a.bin      131072 4009955e
+ sf2_35a.bin      131072 8c1f3994
+
+Street Fighter II - The World Warrior (US 910206)
+sf2ua.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.30a         131072 08beb861
+ sf2u.37a         131072 b7638d69
+ sf2u.31a         131072 0d5394e0
+ sf2u.38a         131072 42d6a79e
+ sf2u.28a         131072 387a175c
+ sf2u.35a         131072 a1a5adcc
+
+Street Fighter II - The World Warrior (US 910214)
+sf2ub.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2_30a.bin      131072 57bd7051
+ sf2u.37b         131072 4a54d479
+ sf2_31a.bin      131072 a673143d
+ sf2_38a.bin      131072 4c2ccef7
+ sf2_28a.bin      131072 4009955e
+ sf2_35a.bin      131072 8c1f3994
+
+Street Fighter II - The World Warrior (US 910318)
+sf2ud.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.30d         131072 4bb2657c
+ sf2u.37d         131072 b33b42f2
+ sf2u.31d         131072 d57b67d7
+ sf2u.38d         131072 9c8916ef
+ sf2u.28d         131072 175819d1
+ sf2u.35d         131072 82060da4
+
+Street Fighter II - The World Warrior (US 910228)
+sf2ue.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.30e         131072 f37cd088
+ sf2u.37e         131072 6c61a513
+ sf2u.31e         131072 7c4771b4
+ sf2u.38e         131072 a4bd0cd9
+ sf2u.28e         131072 e3b95625
+ sf2u.35e         131072 3648769a
+
+Street Fighter II - The World Warrior (US 910411)
+sf2uf.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.37f         131072 169e7388
+ sf2u.38f         131072 1510e4e2
+ sf2u.28f         131072 acd8175b
+ sf2u.35f         131072 c0a80bd1
+
+Street Fighter II - The World Warrior (US 910522)
+sf2ui.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.37i         131072 9df707dd
+ sf2u.38i         131072 4cb46daf
+ sf2u.28i         131072 1580be4c
+ sf2u.35i         131072 1468d185
+
+Street Fighter II - The World Warrior (US 911101)
+sf2uk.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2u.30k         131072 8f66076c
+ sf2u.37k         131072 4e1f6a83
+ sf2u.31k         131072 f9f89f60
+ sf2u.38k         131072 6ce0a85a
+ sf2u.28k         131072 8e958f31
+ sf2u.35k         131072 fce76fad
+
+Street Fighter II - The World Warrior (Japan 911210)
+sf2j.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2j30.bin       131072 79022b31
+ sf2j37.bin       131072 516776ec
+ sf2j31.bin       131072 fe15cb39
+ sf2j38.bin       131072 38614d70
+ sf2j28.bin       131072 d283187a
+ sf2j35.bin       131072 d28158e4
+
+Street Fighter II - The World Warrior (Japan 910214)
+sf2ja.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2_30a.bin      131072 57bd7051
+ sf2j_37a.bin     131072 1e1f6844
+ sf2_31a.bin      131072 a673143d
+ sf2_38a.bin      131072 4c2ccef7
+ sf2_28a.bin      131072 4009955e
+ sf2_35a.bin      131072 8c1f3994
+
+Street Fighter II - The World Warrior (Japan 910306)
+sf2jc.zip
+You must also have sf2.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2_30c.bin      131072 8add35ec
+ sf2j_37c.bin     131072 0d74a256
+ sf2_31c.bin      131072 c4fff4a9
+ sf2_38c.bin      131072 8210fc0e
+ sf2_28c.bin      131072 6eddd5e8
+ sf2_35c.bin      131072 6bcb404c
+
+-------------------------------------------
+
+Street Fighter II' - Champion Edition (World 920313)
+sf2ce.zip
+
+ ROM                SIZE    CRC32
+ s92_01.bin       524288 03b0d852
+ s92_02.bin       524288 840289ec
+ s92_03.bin       524288 cdb5f027
+ s92_04.bin       524288 e2799472
+ s92_05.bin       524288 ba8a2761
+ s92_06.bin       524288 e584bfb5
+ s92_07.bin       524288 21e3f87d
+ s92_08.bin       524288 befc47df
+ s92_10.bin       524288 960687d5
+ s92_11.bin       524288 978ecd18
+ s92_12.bin       524288 d6ec9a0a
+ s92_13.bin       524288 ed2c67f6
+ sf2ce.23         524288 3f846b74
+ sf2ce.22         524288 99f1cca4
+ s92_21a.bin      524288 925a7877
+ s92_09.bin        65536 08f6b60e
+ s92_18.bin       131072 7f162009
+ s92_19.bin       131072 beade53f
+
+Street Fighter II' - Champion Edition (US 920313)
+sf2ceua.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s92u-23a         524288 ac44415b
+
+Street Fighter II' - Champion Edition (US 920513)
+sf2ceub.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s92-23b          524288 996a3015
+ s92-22b          524288 2bbe15ed
+ s92-21b          524288 b383cb1c
+
+Street Fighter II' - Champion Edition (US 920803)
+sf2ceuc.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s92-23c          524288 0a8b6aa2
+ s92-22c          524288 5fd8630b
+ s92-21b          524288 b383cb1c
+
+Street Fighter II' - Champion Edition (Japan 920513)
+sf2cej.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s92j_23b.bin     524288 140876c5
+ s92j_22b.bin     524288 2fbb3bfe
+
+Street Fighter II' - Champion Edition (Accelerator Pt.II)
+sf2accp2.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2ca-23.bin     524288 36c3ba2f
+ sf2ca-22.bin     524288 0550453d
+ sf2ca-21.bin     262144 4c1c43ba
+
+Street Fighter II' - Champion Edition (Rainbow set 1)
+sf2rb.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2d__23.rom     524288 450532b0
+ sf2d__22.rom     524288 fe9d9cf5
+
+Street Fighter II' - Champion Edition (Rainbow set 2)
+sf2rb2.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ 27.bin           131072 40296ecd
+ 31.bin           131072 87954a41
+ 26.bin           131072 a6974195
+ 30.bin           131072 8141fe32
+ 25.bin           131072 9ef8f772
+ 29.bin           131072 7d9c479c
+ 24.bin           131072 93579684
+ 28.bin           131072 ff728865
+
+Street Fighter II' - Champion Edition (Red Wave)
+sf2red.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2red.23        524288 40276abb
+ sf2red.22        524288 18daf387
+ sf2red.21        524288 52c486bb
+
+Street Fighter II' - Champion Edition (V004)
+sf2v004.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ sf2v004.23       524288 52d19f2c
+ sf2v004.22       524288 4b26fde7
+ sf2red.21        524288 52c486bb
+
+Street Fighter II' - Champion Edition (YYC)
+sf2yyc.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ b12.rom          524288 8f742fd5
+ b14.rom          524288 8831ec7f
+ b11.rom          131072 94a46525
+ b13.rom          131072 8fb3dd47
+ b11.rom          131072 94a46525
+ b13.rom          131072 8fb3dd47
+
+Street Fighter II' - Hyper Fighting (US 921209)
+sf2t.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s2t_10.bin       524288 3c042686
+ s2t_11.bin       524288 8b7e7183
+ s2t_12.bin       524288 293c888c
+ s2t_13.bin       524288 842b35a4
+ sf2.23           524288 89a1fc38
+ sf2_22.bin       524288 aea6e035
+ sf2_21.bin       524288 fd200288
+
+Street Fighter II' Turbo - Hyper Fighting (Japan 921209)
+sf2tj.zip
+You must also have sf2ce.zip to play this game
+
+ ROM                SIZE    CRC32
+ s2t_10.bin       524288 3c042686
+ s2t_11.bin       524288 8b7e7183
+ s2t_12.bin       524288 293c888c
+ s2t_13.bin       524288 842b35a4
+ s2tj_23.bin      524288 ea73b4dc
+ s2t_22.bin       524288 aea6e035
+ s2t_21.bin       524288 fd200288
+
+-------------------------------------------
+
+Street Fighter Zero - CPS Changer (Japan 951020)
+sfzch.zip
+
+ ROM                SIZE    CRC32
+ sfz01            524288 0dd53e62
+ sfz02            524288 94c31e3f
+ sfz03            524288 9584ac85
+ sfz04            524288 b983624c
+ sfz05            524288 2b47b645
+ sfz06            524288 74fd9fb1
+ sfz07            524288 bb2c734d
+ sfz08            524288 454f7868
+ sfz10            524288 2a7d675e
+ sfz11            524288 e35546c8
+ sfz12            524288 f122693a
+ sfz13            524288 7cf942c8
+ sfz14            524288 09038c81
+ sfz15            524288 1aa17391
+ sfz16            524288 19a5abd6
+ sfz17            524288 248b3b73
+ sfzch23          524288 1140743f
+ sfza22           524288 8d9b2480
+ sfzch21          524288 5435225d
+ sfza20           524288 806e8f38
+ sfz09             65536 c772628b
+ sfz18            131072 61022b2d
+ sfz19            131072 3b5886d5
+
+-------------------------------------------
+
+Strider (US set 1)
+strider.zip
+
+ ROM                SIZE    CRC32
+ strider.06       524288 4eee9aea
+ strider.08       524288 2d7f21e4
+ strider.02       524288 7705aa46
+ strider.04       524288 5b18b722
+ strider.05       524288 005f000b
+ strider.07       524288 b9441519
+ strider.01       524288 b7d04e8b
+ strider.03       524288 6b4713b4
+ strider.30       131072 da997474
+ strider.35       131072 5463aaa3
+ strider.31       131072 d20786db
+ strider.36       131072 21aa2863
+ strider.32       524288 9b3cfc08
+ strider.09        65536 2ed403bc
+ strider.18       131072 4386bc80
+ strider.19       131072 444536d7
+
+Strider (US set 2)
+stridrua.zip
+You must also have strider.zip to play this game
+
+ ROM                SIZE    CRC32
+ strid.30         131072 66aec273
+ strid.35         131072 50e0e865
+ strid.31         131072 eae93bd1
+ strid.36         131072 b904a31d
+ strid.09          65536 08d63519
+
+Strider Hiryu (Japan set 1)
+striderj.zip
+You must also have strider.zip to play this game
+
+ ROM                SIZE    CRC32
+ sthj23.bin       524288 046e7b12
+
+Strider Hiryu (Japan set 2)
+stridrja.zip
+You must also have strider.zip to play this game
+
+ ROM                SIZE    CRC32
+ sth36.bin        131072 53c7b006
+ sth42.bin        131072 4037f65f
+ sth37.bin        131072 80e8877d
+ sth43.bin        131072 6b3fa466
+
+-------------------------------------------
+
+The King of Dragons (World 910711)
+kod.zip
+
+ ROM                SIZE    CRC32
+ kod02.rom        524288 e45b8701
+ kod04.rom        524288 a7750322
+ kod01.rom        524288 5f74bf78
+ kod03.rom        524288 5e5303bf
+ kod11.rom        524288 113358f3
+ kod13.rom        524288 38853c44
+ kod10.rom        524288 9ef36604
+ kod12.rom        524288 402b9b4f
+ kod30.rom        131072 c7414fd4
+ kod37.rom        131072 a5bf40d2
+ kod31.rom        131072 1fffc7bd
+ kod38.rom        131072 89e57a82
+ kod28.rom        131072 9367bcd9
+ kod35.rom        131072 4ca6a48a
+ kod29.rom        131072 6a0ba878
+ kod36.rom        131072 b509b39d
+ kod09.rom         65536 f5514510
+ kod18.rom        131072 69ecb2c8
+ kod19.rom        131072 02d851c1
+
+The King of Dragons (US 910910)
+kodu.zip
+You must also have kod.zip to play this game
+
+ ROM                SIZE    CRC32
+ kdu-30b.bin      131072 825817f9
+ kdu-37b.bin      131072 d2422dfb
+ kdu-31b.bin      131072 9af36039
+ kdu-38b.bin      131072 be8405a1
+ kd-29.bin        131072 0360fa72
+ kd-36a.bin       131072 95a3cef8
+ kd09.bin          65536 bac6ec26
+ kd18.bin         131072 4c63181d
+ kd19.bin         131072 92941b80
+
+The King of Dragons (Japan 910805)
+kodj.zip
+You must also have kod.zip to play this game
+
+ ROM                SIZE    CRC32
+ kd30.bin         131072 ebc788ad
+ kd37.bin         131072 e55c3529
+ kd31.bin         131072 c710d722
+ kd38.bin         131072 57d6ed3a
+ kd33.bin         524288 9bd7ad4b
+ kd09.bin          65536 bac6ec26
+ kd18.bin         131072 4c63181d
+ kd19.bin         131072 92941b80
+
+The King of Dragons (bootleg)
+kodb.zip
+You must also have kod.zip to play this game
+
+ ROM                SIZE    CRC32
+ kod.17           524288 036dd74c
+ kod.18           524288 3e4b7295
+ kod.15            65536 01cae60c
+ kd18.bin         131072 4c63181d
+ kd19.bin         131072 92941b80
+
+-------------------------------------------
+
+The Punisher (World 930422)
+punisher.zip
+
+ ROM                SIZE    CRC32
+ ps_gfx1.rom      524288 77b7ccab
+ ps_gfx3.rom      524288 0122720b
+ ps_gfx2.rom      524288 64fa58d4
+ ps_gfx4.rom      524288 60da42c8
+ ps_gfx5.rom      524288 c54ea839
+ ps_gfx7.rom      524288 04c5acbd
+ ps_gfx6.rom      524288 a544f4cc
+ ps_gfx8.rom      524288 8f02f436
+ pse_26.rom       131072 389a99d2
+ pse_30.rom       131072 68fb06ac
+ pse_27.rom       131072 3eb181c3
+ pse_31.rom       131072 37108e7b
+ pse_24.rom       131072 0f434414
+ pse_28.rom       131072 b732345d
+ pse_25.rom       131072 b77102e2
+ pse_29.rom       131072 ec037bce
+ ps_21.rom        524288 8affa5a9
+ ps_q.rom         131072 49ff4446
+ ps_q1.rom        524288 31fd8726
+ ps_q2.rom        524288 980a9eef
+ ps_q3.rom        524288 0dd44491
+ ps_q4.rom        524288 bed42f03
+
+The Punisher (US 930422)
+punishru.zip
+You must also have punisher.zip to play this game
+
+ ROM                SIZE    CRC32
+ psu26.rom        131072 9236d121
+ psu30.rom        131072 8320e501
+ psu27.rom        131072 61c960a1
+ psu31.rom        131072 78d4c298
+ psu24.rom        131072 1cfecad7
+ psu28.rom        131072 bdf921c1
+ psu25.rom        131072 c51acc94
+ psu29.rom        131072 52dce1ca
+
+The Punisher (Japan 930422)
+punishrj.zip
+You must also have punisher.zip to play this game
+
+ ROM                SIZE    CRC32
+ psj23.bin        524288 6b2fda52
+ psj22.bin        524288 e01036bc
+
+-------------------------------------------
+
+Three Wonders (World 910520)
+3wonders.zip
+
+ ROM                SIZE    CRC32
+ 3wonders.05      524288 86aef804
+ 3wonders.07      524288 4f057110
+ 3wonders.01      524288 902489d0
+ 3wonders.03      524288 e35ce720
+ 3wonders.06      524288 13cb0e7c
+ 3wonders.08      524288 1f055014
+ 3wonders.02      524288 e9a034f4
+ 3wonders.04      524288 df0eea8b
+ rte.30a          131072 ef5b8b33
+ rte.35a          131072 7d705529
+ rte.31a          131072 32835e5e
+ rte.36a          131072 7637975f
+ 3wonders.28      131072 054137c8
+ 3wonders.33      131072 7264cb1b
+ rte.29a          131072 cddaa919
+ rte.34a          131072 ed52e7e5
+ 3wonders.09       65536 abfca165
+ 3wonders.18      131072 26b211ab
+ 3wonders.19      131072 dbe64ad0
+
+Three Wonders (US 910520)
+3wonderu.zip
+You must also have 3wonders.zip to play this game
+
+ ROM                SIZE    CRC32
+ 3wonders.30      131072 0b156fd8
+ 3wonders.35      131072 57350bf4
+ 3wonders.31      131072 0e723fcc
+ 3wonders.36      131072 523a45dc
+ 3wonders.29      131072 37ba3e20
+ 3wonders.34      131072 f99f46c0
+
+Wonder 3 (Japan 910520)
+wonder3.zip
+You must also have 3wonders.zip to play this game
+
+ ROM                SIZE    CRC32
+ rtj36.bin        131072 e3741247
+ rtj42.bin        131072 b4baa117
+ rtj37.bin        131072 a1f677b0
+ rtj43.bin        131072 85337a47
+ rtj35.bin        131072 e72f9ea3
+ rtj41.bin        131072 a11ee998
+ rt23.bin          65536 7d5a77a7
+
+-------------------------------------------
+
+U.N. Squadron (US)
+unsquad.zip
+
+ ROM                SIZE    CRC32
+ unsquad.05       524288 bf4575d8
+ unsquad.07       524288 a02945f4
+ unsquad.01       524288 5965ca8d
+ unsquad.03       524288 ac6db17d
+ unsquad.30       131072 24d8f88d
+ unsquad.35       131072 8b954b59
+ unsquad.31       131072 33e9694b
+ unsquad.36       131072 7cc8fb9e
+ unsquad.32       524288 ae1d7fb0
+ unsquad.09        65536 f3dd1367
+ unsquad.18       131072 584b43a9
+
+Area 88 (Japan)
+area88.zip
+You must also have unsquad.zip to play this game
+
+ ROM                SIZE    CRC32
+ ar36.bin         131072 65030392
+ ar42.bin         131072 c48170de
+
+-------------------------------------------
+
+Varth - Operation Thunderstorm (World 920612)
+varth.zip
+
+ ROM                SIZE    CRC32
+ va_gfx5.rom      524288 b1fb726e
+ va_gfx7.rom      524288 4c6588cd
+ va_gfx1.rom      524288 0b1ace37
+ va_gfx3.rom      524288 44dfe706
+ vae_30a.rom      131072 7fcd0091
+ vae_35a.rom      131072 35cf9509
+ vae_31a.rom      131072 15e5ee81
+ vae_36a.rom      131072 153a201e
+ vae_28a.rom      131072 7a0e0d25
+ vae_33a.rom      131072 f2365922
+ vae_29a.rom      131072 5e2cd2c3
+ vae_34a.rom      131072 3d9bdf83
+ va_09.rom         65536 7a99446e
+ va_18.rom        131072 de30510e
+ va_19.rom        131072 0610a4ac
+
+Varth - Operation Thunderstorm (US 920612)
+varthu.zip
+You must also have varth.zip to play this game
+
+ ROM                SIZE    CRC32
+ vau23a.bin       524288 fbe68726
+
+Varth - Operation Thunderstorm (Japan 920714)
+varthj.zip
+You must also have varth.zip to play this game
+
+ ROM                SIZE    CRC32
+ vaj36b.bin       131072 1d798d6a
+ vaj42b.bin       131072 0f720233
+ vaj37b.bin       131072 24414b17
+ vaj43b.bin       131072 34b4b06c
+ vaj34b.bin       131072 87c79aed
+ vaj40b.bin       131072 210b4bd0
+ vaj35b.bin       131072 6b0da69f
+ vaj41b.bin       131072 6542c8a4
+
+-------------------------------------------
+
+Warriors of Fate (World 921002)
+wof.zip
+
+ ROM                SIZE    CRC32
+ tk2_gfx1.rom     524288 0d9cb9bf
+ tk2_gfx3.rom     524288 45227027
+ tk2_gfx2.rom     524288 c5ca2460
+ tk2_gfx4.rom     524288 e349551c
+ tk2_gfx5.rom     524288 291f0f0b
+ tk2_gfx7.rom     524288 3edeb949
+ tk2_gfx6.rom     524288 1abd14d6
+ tk2_gfx8.rom     524288 b27948e3
+ tk2e_23b.rom     524288 11fb2ed1
+ tk2e_22b.rom     524288 479b3f24
+ tk2_qa.rom       131072 c9183a0d
+ tk2_q1.rom       524288 611268cf
+ tk2_q2.rom       524288 20f55ca9
+ tk2_q3.rom       524288 bfcf6f52
+ tk2_q4.rom       524288 36642e88
+
+Warriors of Fate (US 921031)
+wofu.zip
+You must also have wof.zip to play this game
+
+ ROM                SIZE    CRC32
+ tk2u.23c         524288 29b89c12
+ tk2u.22c         524288 f5af4774
+
+Tenchi wo Kurau II - Sekiheki no Tatakai (Japan 921031)
+wofj.zip
+You must also have wof.zip to play this game
+
+ ROM                SIZE    CRC32
+ tk205.bin        524288 e4a44d53
+ tk206.bin        524288 58066ba8
+ tk207.bin        524288 d706568e
+ tk208.bin        524288 d4a19a02
+ tk2j23c.bin      524288 9b215a68
+ tk2j22c.bin      524288 b74b09ac
+
+Sangokushi II (Asia 921005)
+wofa.zip
+You must also have wof.zip to play this game
+
+ ROM                SIZE    CRC32
+ tk2a_23b.rom     524288 2e024628
+ tk2a_22b.rom     524288 900ad4cd
+
+-------------------------------------------
+
+Willow (US)
+willow.zip
+
+ ROM                SIZE    CRC32
+ wl_gfx5.rom      524288 afa74b73
+ wl_gfx7.rom      524288 12a0dc0b
+ wl_gfx1.rom      524288 c6f2abce
+ wl_gfx3.rom      524288 4aa4c6d3
+ wl_24.rom        131072 6f0adee5
+ wl_14.rom        131072 9cf3027d
+ wl_26.rom        131072 f09c8ecf
+ wl_16.rom        131072 e35407aa
+ wl_20.rom        131072 84992350
+ wl_10.rom        131072 b87b5a36
+ wl_22.rom        131072 fd3f89f0
+ wl_12.rom        131072 7da49d69
+ wlu_30.rom       131072 d604dbb1
+ willow-u.35      131072 7a791e77
+ wlu_31.rom       131072 0eb48a83
+ wlu_36.rom       131072 36100209
+ wl_32.rom        524288 dfd9f643
+ wl_09.rom         65536 f6b3d060
+ wl_18.rom        131072 bde23d4d
+ wl_19.rom        131072 683898f5
+
+Willow (Japan, English)
+willowje.zip
+You must also have willow.zip to play this game
+
+ ROM                SIZE    CRC32
+ wlu_35.rom       131072 daee72fe
+
+Willow (Japan, Japanese)
+willowj.zip
+You must also have willow.zip to play this game
+
+ ROM                SIZE    CRC32
+ wl36.bin         131072 2b0d7cbc
+ wl42.bin         131072 1ac39615
+ wl37.bin         131072 30a717fa
+ wl43.bin         131072 d0dddc9e

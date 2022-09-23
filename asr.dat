@@ -1,0 +1,319 @@
+
+ATENCION : Este add.dat a sido modificado por Mature , www.emumac.com
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: mslug4nd
+Game: 合金弹头 4
+Parent: mslug4
+
+[Program]
+ms4_p1.rom,0,100000,4D7E6624,0
+ms4_p2.rom,100000,400000,FDB7AED8,0
+
+[Text]
+ms4_s1.rom,0,20000,a9446774,0
+
+[Z80]
+ms4_m1.rom,0,20000,EE1E5580,0
+
+[Samples]
+ms4_v1.rom,0,400000,C1B2AF81,0
+ms4_v2.rom,400000,400000,CBBDC6FA,0
+ms4_v3.rom,800000,400000,C4F1A3CC,0
+ms4_v4.rom,C00000,400000,40126A0A,0
+
+[Graphics]
+ms4n_c1.rom,0,800000,361DDDA6,0
+ms4n_c2.rom,1,800000,15D192C4,0
+ms4n_c3.rom,1000000,800000,63fb79ff,0
+ms4n_c4.rom,1000001,800000,e8623126,0
+ms4_c5n.rom,2000000,400000,3348dc5d,0
+ms4_c6n.rom,2000001,400000,d90fc1a0,0
+
+[System]
+CartridgeID: 262
+GfxCrypt: 0
+GfxKey: 0
+ButLayout: 9
+Fix: C
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: cthd
+Game: 拳王2003 卧虎藏龙
+Parent: kof2001
+
+[Program] 
+5003-p1.rom,0,100000,f75508d8,0 
+5003-p2.rom,100000,400000,eba65bda,0 
+
+[Text] 
+5003-s1.rom,0,20000,fc1f3809,0 
+
+[Z80] 
+5003-m1.rom,0,20000,1A8C274B,0 
+
+[Samples] 
+5003-v1.rom,0,400000,83D49ECF,0 
+5003-v2.rom,400000,400000,3F1843,0 
+5003-v3.rom,800000,400000,2AE38DBE,0 
+5003-v4.rom,C00000,400000,26EC4DD9,0 
+
+[Graphics] 
+5003-c1.rom,0,800000,68F54B67,0 
+5003-c2.rom,1,800000,2F8849D5,0 
+5003-c3.rom,1000000,800000,AC4AFF71,0 
+5003-c4.rom,1000001,800000,AFEF5D66,0 
+5003-c5.rom,2000000,800000,C7C1AE50,0 
+5003-c6.rom,2000001,800000,BDC768E8,0 
+5003-c7.rom,3000000,800000,64DDFE0F,0 
+5003-c8.rom,3000001,800000,917A1439,0 
+
+[System] 
+CartridgeID: 268
+GfxCrypt: 0 
+GfxKey: 0 
+ButLayout: 9 
+Fix: 0 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: rotdd
+Game: 龙吼
+
+[Program]
+264-p1.bin,0,400000,1BD7512D,0
+264-p2.bin,400000,400000,2ab0625b,0
+
+[Text]
+264-s1.bin,0,20000,c155d4ff,0
+
+[Z80]
+264-m1.bin,0,8000,ebaec46f,0
+
+[Samples] 
+264-v1.bin,0,400000,5c77a3fe,0 
+264-v2.bin,400000,400000,a9b7af14,0 
+264-v3.bin,800000,400000,17aff92a,0 
+264-v4.bin,C00000,400000,bc6a091e,0 
+
+
+[Graphics]
+264-c1.bin,0,800000,ec9d18c0,0
+264-c2.bin,1,800000,b1069066,0
+264-c3.bin,1000000,800000,7e636d49,0
+264-c4.bin,1000001,800000,76892fda,0
+264-c5.bin,2000000,800000,469061bc,0
+264-c6.bin,2000001,800000,2200220a,0
+264-c7.bin,3000000,800000,edda4baf,0
+264-c8.bin,3000001,800000,82b1ba22,0
+
+[System]
+CartridgeID: 264
+GfxCrypt: 0
+GfxKey: 0
+ButLayout: 9
+Fix: 1c
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO 
+RomName: 266
+Game: Power Instint Matrimelee 
+Parent: pim 
+
+[Program] 
+pim_p1.rom,0,100000,CC71B315,0 
+pim_p2.rom,100000,400000,b0132cef,0 
+
+[Text] 
+pim_s1.rom,0,20000,aff2a3be,0 
+
+[Z80] 
+pim_m1.rom,0,20000,242772B3,0 
+
+[Samples] 
+pim_v1.rom,0,400000,352b0a07,0 
+pim_v2.rom,400000,400000,945f8831,0 
+pim_v3.rom,800000,400000,e8362fcc,0 
+pim_v4.rom,C00000,400000,393c9a62,0 
+
+[Graphics] 
+pim_c1.rom,0,800000,1db1837e,0 
+pim_c2.rom,1,800000,b834dd89,0 
+pim_c3.rom,1000000,800000,f31d68d4,0 
+pim_c4.rom,1000001,800000,58cfb6e9,0 
+pim_c5.rom,2000000,800000,f3c0e3fd,0 
+pim_c6.rom,2000001,800000,b53c8dcf,0 
+pim_c7.rom,3000000,800000,3c1fb02a,0 
+pim_c8.rom,3000001,800000,5ee31f80,0 
+
+
+[System] 
+CartridgeID: 266 
+GfxCrypt: 0 
+GfxKey: 0 
+ButLayout: 9 
+Fix: 0 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: kof2k1
+Game: 拳王2001 
+Parent: kof2001
+
+[Program]
+2k1_p1.rom,0,100000,EAF3ACF1,0
+2k1_p2.rom,100000,400000,91eea062,0
+
+[Text]
+2k1_s1.rom,0,20000,8c5c479e,0
+
+[Z80]
+2k1_m1.rom,0,20000,9EE72D8A,0
+
+[Samples]
+262-v1.bin,0,400000,83D49ECF,0
+262-v2.bin,400000,400000,3F1843,0
+262-v3.bin,800000,400000,2AE38DBE,0
+262-v4.bin,C00000,400000,26EC4DD9,0
+
+[Graphics]
+2k1_c1.rom,0,800000,f298b87b,0
+2k1_c2.rom,1,800000,f9d05d99,0
+2k1_c3.rom,1000000,800000,4c7ec427,0
+2k1_c4.rom,1000001,800000,1d237aa6,0
+2k1_c5.rom,2000000,800000,c2256db5,0
+2k1_c6.rom,2000001,800000,8d6565a9,0
+2k1_c7.rom,3000000,800000,ef682ed2,0
+2k1_c8.rom,3000001,800000,954d0e16,0
+
+[System]
+CartridgeID: 262
+GfxCrypt: 0
+GfxKey: 0
+ButLayout: 9
+Fix: 0
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: kof2002
+Game: 拳王 2002
+[Program]
+kof2k2_p1.rom,0,100000,9EDE7323,0
+kof2k2_p2.rom,100000,400000,432fdf53,0
+
+
+[Text]
+kof2k2_s1.rom,0,20000,E0EAABA3,0
+
+[Z80]
+kof2k2_m1.rom,0,20000,f6fab859,0
+
+[Samples]
+kof2k2_v1.rom,0,400000,13d98607,0
+kof2k2_v2.rom,400000,400000,9cf74677,0
+kof2k2_v3.rom,800000,400000,8e9448b5,0
+kof2k2_v4.rom,C00000,400000,067271b5,0
+
+[Graphics]
+kof2k2_c1.rom,0,800000,f25d3d66,0
+kof2k2_c2.rom,1,800000,aa82948b,0
+kof2k2_c3.rom,1000000,800000,8732fa30,0
+kof2k2_c4.rom,1000001,800000,efe6a468,0
+kof2k2_c5.rom,2000000,800000,60635cd2,0
+kof2k2_c6.rom,2000001,800000,bd736824,0
+kof2k2_c7.rom,3000000,800000,2da8d8cf,0
+kof2k2_c8.rom,3000001,800000,2048404a,0
+
+[System]
+CartridgeID: 267
+GfxCrypt: 0
+GfxKey: 0
+ButLayout: 9
+Fix: 0
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: CPS1
+RomName: kouryu
+Game: Street Fighter 2 (kouryu version)
+Parent: sf2ce
+
+[Program]
+u222.rom,0,80000,9236A79A,0
+u196.rom,1,80000,B23A869D,0
+u221.rom,100000,20000,64E6E091,0
+u195.rom,100001,20000,C95E4443,0
+
+[Graphics]
+s92_01.bin,0,80000,3B0D852,0
+s92_02.bin,2,80000,840289EC,0
+s92_03.bin,4,80000,CDB5F027,0
+s92_04.bin,6,80000,E2799472,0
+s92_05.bin,200000,80000,BA8A2761,0
+s92_06.bin,200002,80000,E584BFB5,0
+s92_07.bin,200004,80000,21E3F87D,0
+s92_08.bin,200006,80000,BEFC47DF,0
+s92_10.bin,400000,80000,960687D5,0
+s92_11.bin,400002,80000,978ECD18,0
+s92_12.bin,400004,80000,D6EC9A0A,0
+s92_13.bin,400006,80000,ED2C67F6,0
+
+[Z80]
+s92_09.bin,0,10000,8F6B60E,0
+
+[Samples]
+s92_18.bin,0,20000,7F162009,0
+s92_19.bin,20000,20000,BEADE53F,0
+
+[System]
+LayerControl: 66,2,4,8
+BGHiControl: 68,6A,6C,6E
+Stars: 0,0
+Banks: 2,2,2
+BoardID: 0,0
+Multiply: 40,42,44,46
+ButLayout: B
+Fix: 11
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System: NEO
+RomName: svcplus
+Game: 拳王对街霸王
+[Program]
+svc_p1.rom,0,600000,1CC8FB7A,0
+[Text]
+svc_s1.rom,0,20000,AAEF740C,0
+[Z80]
+svc-m1.rom,0,20000,9AF84708,0
+[Samples]
+svc-v1.rom,0,400000,E7203930,0
+svc-v2.rom,400000,400000,675159C3,0
+svc-v3.rom,800000,400000,F8810665,0
+svc-v4.rom,C00000,400000,B57B4EA3,0
+[Graphics]
+svc_c1.rom,0,800000,465D473B,0
+svc_c2.rom,1,800000,3EB28F78,0
+svc_c3.rom,1000000,800000,F4D4AB2B,0
+svc_c4.rom,1000001,800000,A69D523A,0
+svc_c5.rom,2000000,800000,BA2A7892,0
+svc_c6.rom,2000001,800000,37371CA1,0
+svc_c7.rom,3000000,800000,56AC5FB9,0
+svc_c8.rom,3000001,800000,DE99E613,0
+[System]
+CartridgeID: 269
+GfxCrypt: 0
+GfxKey: 0
+ButLayout: 9
+Fix: 0
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
